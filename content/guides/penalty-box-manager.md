@@ -183,7 +183,7 @@ Set expectations with Penalty Box Timers for how you'll work together:
 - Who will signal to the PLTs?
 - How should PBTs ask for support when they need it?
 
-#### At Halftime
+#### At the End of Period 1
 
 Record the color, number, position, and current penalty time for each skater currently in the box on your penalty box whiteboard. ([Officiating Procedures](https://community.wftda.org/resources/document-libraries/competition-documents#officiating) 7.6)
 
