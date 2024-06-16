@@ -2,7 +2,7 @@
 template: guide.html
 title: Scoreboard Operator
 date: yyyy-06-Su
-draft: true
+draft: false
 ---
 ## Introduction
 
@@ -36,13 +36,13 @@ During a typical Jam, the Scorekeepers should be focusing on their respective Ja
 
 The SBO should echo these calls to the Scorekeeper as they are entered into the Scoreboard, both to confirm the information and to acknowledge the call.  If the SBO notices a call while the Scorekeeper is otherwise distracted (making corrections, unable to see the Jam Ref, documenting a Star Pass, etc), the SBO should confirm the call with the Scorekeeper before inputting it into the system.
 
-###2. Documenting Jammer and Pivots
+### 2. Documenting Jammer and Pivots
 If the venue is using electronic Penalty and Lineup Tracking (ePLT) devices, it is possible this task will be handled by the PLTs themselves.   If not, at the start of each Jam it is essential that the Scorekeepers know who their Jammers and Pivots will be.   The SBO should input this information into the scoreboard so it can be displayed for announcers and attendees as well.
 
-###3. Starting and Ending Jams
+### 3. Starting and Ending Jams
 __The official Period time, Lineup, and Jam time remaining are what is displayed on the scoreboard.__   As such, it is paramount that the scoreboard reflect this accurately.  Jams begin when the Jam Timer whistles and gives their hand signal, Jams end at the 1st cycle of the 4-whistle cadence to call off a Jam.   After any timeout, the next Jam must begin within 30 seconds of the rolling whistle.   While it is the Jam Timer's duty to initiate these signals, the SBO must be ready to update the official display for the attendees.
 
-###4. Ensure Clock Time Is Accurate
+### 4. Ensure Clock Time Is Accurate
 Following along with point 3, there will always be some natural drift between the signals from other officials and the SBO.   Half a second is frequently gained or lost at the start of a Jam simply due to human error or delays in the scoreboard input.   While each crew may decide on what an acceptable limit is based on the game, any  difference between the official time and the Jam Timer's backup game watch should be weighed for it's impact and the official time adjusted accordingly.   Anything more than 1-2 seconds should be considered impactful enough to warrant pausing gameplay between Jams to make the correction.
 
 In May 2024 WFTDA released revised rules that declare the Period clock should stop when a timeout/official review is REQUESTED, not when it is AWARDED.  As an example
@@ -53,8 +53,8 @@ In May 2024 WFTDA released revised rules that declare the Period clock should st
 
 The new rules would state in this case, after updating the scoreboard to reflect a Team Official Review but before gameplay resumes,  the SBO should restore the time lost while the Red captain was trying to get officials attention.  The exact amount of time restored to the clock should be ultimately be decided by the Jam Timer, Head NSO and Head Ref before being communicated to the SBO to restore in this case the missing 18 seconds.
 
-###5. Display Team Timeouts, Official Reviews, and Official Timeouts Correctly
+### 5. Display Team Timeouts, Official Reviews, and Official Timeouts Correctly
 In addition to having all game clocks displayed correctly, the SBO is also responsible for confirming all timeouts and reviews requested are allocated from the appropriate team, and that the scoreboard shows the correct number of remaining reviews and timeouts for each team.
 
-###6. Dealing With Scoreboard Problems
+### 6. Dealing With Scoreboard Problems
 Like any piece of technology, a scoreboard will occasionally malfunction.  This may require the SBO to simply click the "Unstart Jam" or "Un-Timeout" buttons to roll back to the correct game state, this may require the SBO to be ready to fallback to a purely manual dry erase board and markers while rebooting the scoreboard laptop.
