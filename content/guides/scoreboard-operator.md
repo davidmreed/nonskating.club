@@ -2,7 +2,7 @@
 template: guide.html
 title: Scoreboard Operator
 date: yyyy-06-Su
-draft: false
+draft: true
 ---
 ## Introduction
 
