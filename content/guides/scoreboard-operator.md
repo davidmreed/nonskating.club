@@ -66,13 +66,9 @@ The SBO should echo these calls to the Scorekeeper as they are entered into the 
 
 Between Jams, the SBO and Scorekeepers should confirm with each other that the Scorekeepers and scoreboard agree on the point total and that any Star Passes during the prior Jam were recorded.  As a rule, corrections to the displayed score **MUST** be entered before the end of the following Jam, so a missing 4-point trip in Jam 16 must be entered before the end of Jam 17.  
 
-In sanctioned play, discrepancies between the Scorekeeper and scoreboard must be accounted for and reported to WFTDA along with the Stats Book or risk punishment up to and including loss of sanction.
+In sanctioned play, discrepancies between the Scorekeeper paperwork and what the SBO records as the official score via the scoreboard must be accounted for and reported to WFTDA along with the Stats Book or risk punishment up to and including loss of sanctioning.  
 
-### 2. Documenting Jammer and Pivots
-
-If the venue is using electronic Penalty and Lineup Tracking (ePLT) devices, it is possible this task will be handled by the Penalty and Lineup Trackers as part of their duties.  If not, at the start of each Jam it is essential that the Scorekeepers know who their Jammers and Pivots will be.  As these positions are identified and noted on the scoresheet, the SBO should also input this information into the scoreboard so it can be displayed for announcers and attendees as well.
-
-### 3. Starting and Ending Game Play
+### 2. Starting and Ending Game Play
 
 Events begin at the end of their signal, not counting echoes and confirmation.   The scoreboard should be updated to reflect these changes in game status accordingly.
 
@@ -85,11 +81,17 @@ While it is the duty of the Jam Timer or Skating Officials to initiate these sig
 
 Additionally, most of the information in the WFTDA Stats Book will be indexed against a Period and Jam number, which officials typically verify against the scoreboard as they complete their paperwork.  Mistakenly starting/ending Jams will cause confusion and requires a great deal of effort to correct, so the correct Period and Jam count must be displayed at all times.
 
+### 3. Documenting Jammer and Pivots
+
+If the venue is using electronic Penalty and Lineup Tracking (ePLT) devices, it is possible this task will be handled by the Penalty and Lineup Trackers as part of their duties.  If not, at the start of each Jam it is essential that the Scorekeepers know who their Jammers and Pivots will be.  As these positions are identified and noted on the scoresheet, the SBO should also input this information into the scoreboard so it can be displayed for announcers and attendees as well.
+
+After the game, this information will be compared to the Penalty and Lineup Tracking paperwork to validate Stats Book before it can be submitted.
+
 ### 4. Ensure Clock Time Is Accurate
 
-**The official Period, Lineup, and Jam time are what is displayed on the scoreboard.**   It is paramount that the SBO do everything in their power to keep this accurate and in sync with the Jam Timer.
+**The official Period, Lineup, and Jam clocks are what is displayed on the scoreboard.**   The Jam Timer's information is considered to be the backup.  It is paramount that the SBO do everything in their power to keep this accurate and in sync with the Jam Timer.
 
-There will always be some natural drift between the signals from other officials and the SBO.  A fraction of a second is frequently gained or lost at the start and end of every Jam due to human error, other tasks diverting attention, or normal delays in the scoreboard input/software.  Crew heads will decide on what an acceptable limit is based on each game, but any variance between the official time and the Jam Timer's backup timer should be weighed for it's impact and the official time adjusted accordingly.   For regulation or sanctioned games, anything more than 1-2 seconds should be considered impactful enough to warrant pausing gameplay between Jams to make the correction.
+There will always be some natural drift between the signals from other officials and the SBO.  A fraction of a second is frequently gained or lost at the start and end of every Jam due to human error, other tasks diverting attention, or normal delays in the scoreboard input/software.  Crew heads can decide on what an acceptable limit is based on each game, but any variance between the official time and the Jam Timer's backup timer should be weighed for it's impact and the official time adjusted accordingly.   For regulation or sanctioned games, anything more than 1-2 seconds should be considered impactful enough to warrant pausing gameplay between Jams to make the correction.
 
 In May 2024 WFTDA released revised rules that clarify that the Period clock should stop when a timeout/official review is REQUESTED, not when it is AWARDED.  For example, consider the following scenario:
 
