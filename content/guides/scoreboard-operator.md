@@ -6,7 +6,7 @@ draft: true
 ---
 ## Introduction
 
-The Scoreboard Operator (SBO) is the communications officer of the game.  The official score, period time, jam/lineup times, and game status (in-play, current jammers, timeouts, reviews, etc) are what is visible to all attendees, and Stats Books data entry begins with what was recorded in-game by the SBO.  This also means that the SBO must know **if, when, and how** corrections can be made* as per WFTDA rules.
+The Scoreboard Operator (SBO) is the communications officer of the game.  The official score, period time, jam/lineup times, and game status (in-play, current jammers, timeouts, reviews, etc.) are what is visible to all attendees, and Stats Books data entry begins with what was recorded in-game by the SBO.  This also means that the SBO must know **if, when, and how** corrections can be made* as per WFTDA rules.
 
 The ideal placement for the SBO is between the Scorekeepers, with the Scorekeepers seated on the same side as their team is on the scoreboard controls.  If the system has the Red team on the left and Blue team on the right, the Red Scorekeeper should be seated to the left and Blue Scorekeeper to the right.  The SBO should also be in a position to clearly see the infield, as well as being able to see the scoreboard display(s) to validate that it is working throughout the game.
 
@@ -72,7 +72,7 @@ If the venue is using electronic Penalty and Lineup Tracking (ePLT) devices, it 
 
 ### 3. Starting and Ending Game Play
 
-Events begin at the end of their signal, not counting echos and confirmation.   The scoreboard should be updated to reflect these changes in game status accordingly.
+Events begin at the end of their signal, not counting echoes and confirmation.   The scoreboard should be updated to reflect these changes in game status accordingly.
 
 * Jams begin when the Jam Timer whistles and gives "dropping hand/waving flag" hand signal.
 * Jams end at end of the first instance of the 4-whistle cadence to call off a Jam.
@@ -117,4 +117,4 @@ Like any piece of technology, the scoreboard will occasionally malfunction.  Thi
 
 Whenever problems do arise, the SBO should immediately assess to determine the level of impact the fix will incur.  Minor issues, such as an accidentally started/ended Jam or Timeout, a missing trip on the current or previous Jam, or missing Lead Jammer/Star Pass info that can be addressed without impacting game play should be corrected in situ as quickly as possible.
 
-For larger issues, such as correcting game clocks, the scoreboard partially hanging or crashing, keyboard not responding, or larger corrections from Scorekeeping, the SBO should signal for an Official Timeout between Jams to address the problem.   Remember that like all Timeouts, the Official Timeout does not actually begin until the end of the first 4-whistle cadence to signal a timeout.
+For larger issues, such as correcting game clocks, the scoreboard partially hanging or crashing, keyboard not responding, or larger corrections from Scorekeeping, the SBO should signal for an Official Timeout between Jams to address the problem.   Like any other timeout, the Official Timeout does not technically begin until the end of the first 4-whistle cadence to signal a timeout.
