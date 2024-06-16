@@ -89,7 +89,7 @@ Additionally, most of the information in the WFTDA Stats Book will be indexed ag
 
 There will always be some natural drift between the signals from other officials and the SBO.  A fraction of a second is frequently gained or lost at the start and end of every Jam due to human error, other tasks diverting attention, or normal delays in the scoreboard input/software.  Crew heads will decide on what an acceptable limit is based on each game, but any variance between the official time and the Jam Timer's backup timer should be weighed for it's impact and the official time adjusted accordingly.   For regulation or sanctioned games, anything more than 1-2 seconds should be considered impactful enough to warrant pausing gameplay between Jams to make the correction.
 
-In May 2024 WFTDA released revised rules that declare the Period clock should stop when a timeout/official review is REQUESTED, not when it is AWARDED.  For example, consider the following scenario:
+In May 2024 WFTDA released revised rules that clarify that the Period clock should stop when a timeout/official review is REQUESTED, not when it is AWARDED.  For example, consider the following scenario:
 
 > * Jam number 18 ends, both teams leave the track and begin returning to their respective benches and the scoreboard immediately enters a 30-second Lineup phase.
 > * While the Lineup clock on the scoreboard reports the time is 3 seconds into the Lineup, Red team captain stands up and immediately uses both the "O" hand signal and verbal call to REQUEST an Official Review.
