@@ -6,7 +6,7 @@ draft: true
 ---
 ## Introduction
 
-The Scoreboard Operator (SBO) is the control center of the game.  The official score, period time, jam/lineup times, and game status (in-play, current jammers, timeouts, reviews, etc) are deemed to be what is visible to all attendees, and ideally this will be managed by the SBO.  This also means that the SBO must know *when, how or if corrections can be made* as per WFTDA rules.
+The Scoreboard Operator (SBO) is the communications officer of the game.  The official score, period time, jam/lineup times, and game status (in-play, current jammers, timeouts, reviews, etc) are what is visible to all attendees, and Stats Books data entry begins with what was recorded in-game by the SBO.  This also means that the SBO must know **if, when, and how** corrections can be made* as per WFTDA rules.
 
 The ideal placement during a game for the SBO is between the Scorekeepers, ideally with the Scorekeepers seated on the same side as their team is on the scoreboard controls i.e.: If the system has the Red team on the left and Blue team on the right, the Red Scorekeepers should be seated to the left and Blue Scorekeeper to the right.  Scoreboard Operator should also be in a position to clearly see the Jam Timer and any Head Officials in the infield, as well as being able to see the scoreboard to validate that it is working throughout the game.
 
@@ -40,14 +40,15 @@ If you want to build such a keyboard, there are a few considerations to keep in 
 * Additionally, there should be a set of shortcuts for Official calls as well
   * Official Timeout
   * Start the Jam
+  * End Jam (Medical or Safety call offs by Officials)
   * Unstart Jam/Un-Timeout
 * Keys should be large enough or spaced far enough apart to avoid fat fingering input
-* If you cannot print your own key caps, they should at least be marked in a way that you can identify what each function should be.
+* If you cannot print your own key caps labels, your keys should at least be marked in a way that you can identify what each function should be.
 
 
 ## The Basic Routine
 
-During gameplay, an SBO's primary duties, in order of priority, are to:
+During gameplay, an SBO's primary duties, in order of priority, are:
 
 ### 1. Working with Scorekeepers
 
