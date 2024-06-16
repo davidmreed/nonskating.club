@@ -25,17 +25,17 @@ For venues using the CRG software, it is useful but not required to have a purpo
 
 If you want to build such a keyboard, there are a few considerations to keep in mind:
 
-* A cheap USB mechanical keyboard with replaceable key caps is ideal.  
-* USB will be much easier to bring with you and connect to multiple computers than any wireless options.
-* Each team will need a shortcut key for most if not all of these inputs:
+* A mechanical keyboard with replaceable key caps is ideal for this purpose.  
+
+  * If you cannot print your own key caps labels, your keys should at least be marked in a way that you can identify what each function should be.
+* A simple USB keyboard will be much cheaper and is less likely to have connection problems when switching between multiple computers than a wireless wireless keyboard.
+* Both teams will need a shortcut key for most if not all of these inputs at a minimum
 
   * Team Time Out
-  * Star Pass
   * Official Review
-
-    * Optionally, two more keys for Review Retained/Denied
+  * Star Pass
   * Lead Jammer Awarded
-  * Calling the Jam
+  * Calling Off the Jam
   * Loss of Lead
   * Injury
   * 1-4 Trip Points Awarded 
@@ -43,10 +43,10 @@ If you want to build such a keyboard, there are a few considerations to keep in 
 
   * Official Timeout
   * Start the Jam
-  * End Jam (Medical or Safety call offs by Officials)
-  * Unstart Jam/Un-Timeout
-* Keys should be large enough or spaced far enough apart to avoid fat fingering input
-* If you cannot print your own key caps labels, your keys should at least be marked in a way that you can identify what each function should be.
+  * End Jam (Medical or safety call offs by officials)
+  * Unstart Jam
+  * Un-Timeout
+* Keys should be large enough or spaced far enough apart to avoid fat fingering inputs.
 
 ## The Basic Routine
 
@@ -62,9 +62,11 @@ During a typical Jam, the Scorekeepers should be focusing on their respective Ja
 4. Star Pass, Loss of Lead or any Jammer penalties
 5. Jam called off or ended naturally by the Jam Timer
 
-The SBO should echo these calls to the Scorekeeper as they are entered into the scoreboard, both to confirm the information and to acknowledge the call.  If the SBO notices a call while the Scorekeeper is otherwise distracted (making corrections to paperwork, tracking a Star Pass, unable to see the Jam Ref, etc.), the SBO should confirm the call with the Scorekeeper before inputting it into the system.
+The SBO should echo these calls to the Scorekeeper as they are entered into the scoreboard, both to confirm the information and to acknowledge the call.  If the SBO notices a call while the Scorekeeper is distracted (making corrections to paperwork, tracking a Star Pass, unable to see the Jam Ref, etc.), the SBO should confirm the call with the Scorekeeper before inputting it into the system.
 
-Between Jams, the SBO and Scorekeepers should confirm with each other that the Scorekeepers and scoreboard agree on the point tally and if there were any Star Passes during the prior Jam.  As a rule, point corrections **MUST** be input before the end of the next Jam, so a missing 4-point trip in Jam 16 must be entered before the end of Jam 17.  In sanctioned play, inaccurate scores must be accounted for and reported to WFTDA along with the Stats Book or risk punishment up to and including loss of sanction.
+Between Jams, the SBO and Scorekeepers should confirm with each other that the Scorekeepers and scoreboard agree on the point total and that any Star Passes during the prior Jam were recorded.  As a rule, corrections to the displayed score **MUST** be entered before the end of the following Jam, so a missing 4-point trip in Jam 16 must be entered before the end of Jam 17.  
+
+In sanctioned play, discrepancies between the Scorekeeper and scoreboard must be accounted for and reported to WFTDA along with the Stats Book or risk punishment up to and including loss of sanction.
 
 ### 2. Documenting Jammer and Pivots
 
