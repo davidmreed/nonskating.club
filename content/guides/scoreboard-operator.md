@@ -91,14 +91,15 @@ There will always be some natural drift between the signals from other officials
 
 In May 2024 WFTDA released revised rules that clarify that the Period clock should stop when a timeout/official review is REQUESTED, not when it is AWARDED.  For example, consider the following scenario:
 
-> * Jam number 18 ends, both teams leave the track and begin returning to their respective benches and the scoreboard immediately enters a 30-second Lineup phase.
-> * While the Lineup clock on the scoreboard reports the time is 3 seconds into the Lineup, Red team captain stands up and immediately uses both the "O" hand signal and verbal call to REQUEST an Official Review.
+> * Period 1, Jam 18 ends, both teams leave the track and begin returning to their respective benches and the scoreboard immediately enters a 30-second Lineup phase before Jam 19.
+> * When the Lineup clock on the scoreboard reports the time is 3 seconds into the Lineup, Red team captain stands up and immediately uses both the "O" hand signal and verbal call to REQUEST an Official Review.
 > * Due to both teams' skaters taking the track and obstructing the view, neither the Jam Timer nor any infield Referee initially see or hear the Red captain.
 > * An Outside Pack Referee starts to take their position for the start of the next Jam, sees Red Captain, and immediately signals a 4-whistle cadence to stop play and echoes Red captain's call for an Official Review
-> * Head Ref echoes the whistle and call to AWARD the Official Review and signals both captains and coaches to the infield.
+> * Head Ref echoes the whistle and call to AWARD the Official Review while they signal to both teams' captains and coaches to join them in the infield.
+> * Jam Timer proceeds to signal for Official Review and points to the Red bench to signal the requesting team.
 > * The SBO initiates a Red Team Official Review in the scoreboard software, freezing the Period and Lineup clocks.   The Lineup clock is stopped showing 11 seconds had elapsed during the Lineup phase.
 
-A total of 8 seconds passed between the captain's request and the Official Review being rewarded.  Under the new revision, after updating the scoreboard to reflect an Official Review for the Red team but before gameplay resumes the SBO should also restore the time lost while the Red captain was trying to get officials' attention.  The exact amount of time restored to the clock should be confirmed by the Jam Timer, Head NSO, and Head Ref before being communicated to the SBO.
+A total of 8 seconds passed between the captain's request and the Official Review being awarded.  Under the new revision, after updating the scoreboard to reflect an Official Review for the Red team but before gameplay resumes the SBO should also restore the time lost while the Red captain was trying to get officials' attention.  The exact amount of time restored to the clock should be confirmed by the Jam Timer, Head NSO, and Head Ref before being communicated to the SBO and should be placed back on the official clock prior to the start of the next Jam.
 
 ### 5. Display Team Timeouts, Official Reviews, and Official Timeouts
 
