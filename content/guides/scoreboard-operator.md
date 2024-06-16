@@ -81,29 +81,37 @@ While it is the duty of the Jam Timer or Skating Officials to initiate these sig
 
 Additionally, most of the information in the WFTDA Stats Book will be indexed against a Period and Jam number, which officials typically verify against the scoreboard as they complete their paperwork.  Mistakenly starting/ending Jams will cause confusion and requires a great deal of effort to correct, so the correct Period and Jam count must be displayed at all times.
 
+#### May 2024 Updates to End of Period/End of Game Procedure
+In May 2024, WFTDA released a revision to the rules informing how end of play should proceed.
+
+As either Period ends, officials should be on alert for requested Official Reviews or team timeouts.   After the final Jam of a Period, officials should allow for a minimum of 30 seconds to allow for a final Official Review to be requested before officially calling the Period as complete.   
+
+At the end of each Period, the Jam Referees and Scorekeepers should sync up to confirm that all points for the final Jam were recorded, and the SBO should then confirm this information is accurately displayed on the scoreboard.    At the end of Period 2, the SBO should confirm that the scores are accurate before confirming the Official Score via the scoreboard.
+
 ### 3. Documenting Jammer and Pivots
 
 If the venue is using electronic Penalty and Lineup Tracking (ePLT) devices, it is possible this task will be handled by the Penalty and Lineup Trackers as part of their duties.  If not, at the start of each Jam it is essential that the Scorekeepers know who their Jammers and Pivots will be.  As these positions are identified and noted on the scoresheet, the SBO should also input this information into the scoreboard so it can be displayed for announcers and attendees as well.
 
-After the game, this information will be compared to the Penalty and Lineup Tracking paperwork to validate Stats Book before it can be submitted.
+After the game, this information will be compared to the Penalty and Lineup Tracking paperwork to validate Lineup and Star Pass information in the  Stats Book before it can be submitted.
 
 ### 4. Ensure Clock Time Is Accurate
 
 **The official Period, Lineup, and Jam clocks are what is displayed on the scoreboard.**   The Jam Timer's information is considered to be the backup.  It is paramount that the SBO do everything in their power to keep this accurate and in sync with the Jam Timer.
 
-There will always be some natural drift between the signals from other officials and the SBO.  A fraction of a second is frequently gained or lost at the start and end of every Jam due to human error, other tasks diverting attention, or normal delays in the scoreboard input/software.  Crew heads can decide on what an acceptable limit is based on each game, but any variance between the official time and the Jam Timer's backup timer should be weighed for it's impact and the official time adjusted accordingly.   For regulation or sanctioned games, anything more than 1-2 seconds should be considered impactful enough to warrant pausing gameplay between Jams to make the correction.
+There will always be some natural drift between the signals from other officials and the SBO.  A fraction of a second is frequently gained or lost at the start and end of every Jam due to normal human reaction time, user error, other tasks diverting attention, or normal delays in the scoreboard input/software.  Expected events that interrupt the "normal" flow, such as timeouts, reviews and injuries may cause more of a drift.  The Head Non-Skating Official can determine what an acceptable limit is based on each game, but any variance between the official time and the Jam Timer's backup should be weighed for it's impact and the official time adjusted accordingly.   For regulation or sanctioned games, anything more than 1-2 seconds should be considered impactful enough to warrant pausing gameplay between Jams to make the correction.
 
+#### May 2024 Update to Clock Management
 In May 2024 WFTDA released revised rules that clarify that the Period clock should stop when a timeout/official review is REQUESTED, not when it is AWARDED.  For example, consider the following scenario:
 
 > * Period 1, Jam 18 ends, both teams leave the track and begin returning to their respective benches and the scoreboard immediately enters a 30-second Lineup phase before Jam 19.
-> * When the Lineup clock on the scoreboard reports the time is 3 seconds into the Lineup, Red team captain stands up and immediately uses both the "O" hand signal and verbal call to REQUEST an Official Review.
+> * When the Lineup clock on the scoreboard reports the time is 3 seconds into the Lineup, Red team captain uses both the "O" hand signal and verbal call to REQUEST an Official Review.
 > * Due to both teams' skaters taking the track and obstructing the view, neither the Jam Timer nor any infield Referee initially see or hear the Red captain.
-> * An Outside Pack Referee starts to take their position for the start of the next Jam, sees Red Captain, and immediately signals a 4-whistle cadence to stop play and echoes Red captain's call for an Official Review
+> * An Outside Pack Referee moves to their start-of-Jam position near the Jam Line and sees Red captain signaling, and so immediately signals a 4-whistle cadence to stop play and echoes Red captain's call for an Official Review
 > * Head Ref echoes the whistle and call to AWARD the Official Review while they signal to both teams' captains and coaches to join them in the infield.
-> * Jam Timer proceeds to signal for Official Review and points to the Red bench to signal the requesting team.
+> * Jam Timer proceeds to signal for Official Review and points to the Red bench to signal which team requested the review.
 > * The SBO initiates a Red Team Official Review in the scoreboard software, freezing the Period and Lineup clocks.   The Lineup clock is stopped showing 11 seconds had elapsed during the Lineup phase.
 
-A total of 8 seconds passed between the captain's request and the Official Review being awarded.  Under the new revision, after updating the scoreboard to reflect an Official Review for the Red team but before gameplay resumes the SBO should also restore the time lost while the Red captain was trying to get officials' attention.  The exact amount of time restored to the clock should be confirmed by the Jam Timer, Head NSO, and Head Ref before being communicated to the SBO and should be placed back on the official clock prior to the start of the next Jam.
+A total of 8 seconds passed between the captain's request and the Official Review being awarded.  Under the new revision, after updating the scoreboard to reflect an Official Review for the Red team but before gameplay resumes the SBO should also restore the time lost while the Red captain was trying to get officials' attention.  The exact amount of time restored to the clock should be confirmed by the Jam Timer, Head NSO, and Head Ref before being communicated to the SBO.   The restored time should be placed back on the official Period clock prior to the start of the next Jam.
 
 ### 5. Display Team Timeouts, Official Reviews, and Official Timeouts
 
