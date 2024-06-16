@@ -10,12 +10,40 @@ The Scoreboard Operator (SBO) is the control center of the game.  The official s
 
 The ideal placement during a game for the SBO is between the Scorekeepers, ideally with the Scorekeepers seated on the same side as their team is on the scoreboard controls i.e.: If the system has the Red team on the left and Blue team on the right, the Red Scorekeepers should be seated to the left and Blue Scorekeeper to the right.  Scoreboard Operator should also be in a position to clearly see the Jam Timer and any Head Officials in the infield, as well as being able to see the scoreboard to validate that it is working throughout the game.
 
-## Resources
+### Resources
 
 * [The Rules of Flat Track Roller Derby](https://rules.wftda.com/)
 * [CRG Scoreboard Wiki](https://github.com/rollerderby/scoreboard/wiki) CRG is by far the most popular if not only scoreboard software you're likely to encounter in the wild.  A guide specifically to CRG operations will be added later. (TODO)
 
-The role of SBO is not well defined by the WFTDA Officiation Procedure Guide, as the specifics will vary based on the software or physical hardware used at each venue.  Scoreboard Operations is mostly defined as reacting to other Officials in order to relay information to attendees, so understanding the rules regarding time and score corrections or how to communicate this information is critical.
+The role of SBO is not well defined by the WFTDA Officiation Procedure guide, as the specifics will vary based on the software or physical hardware used at each venue.  Scoreboard Operations is primarily defined as reacting to other Officials in order to relay information to attendees, so understanding the rules regarding time and score corrections or how to communicate game information is critical.
+
+## Equipment
+
+Typically, the SBO works from a laptop with an interface to the scoreboard software (which is almost universally CRG Scoreboard), an older manual scoreboard system or a simple whiteboard and bright markers.  The equipment is usually provided by the venue.
+
+For venues using the CRG software, it is useful but not required to have a purpose-modified keyboard with scoreboard shortcuts pre-planned.  All input during the game can be input via mouse or touch screen, but the dedicated keyboard may help speed up most basic tasks. The guide for using the CRG software will dive into the process of assigning shortcuts in greater detail, and every  SBO has their own preferences on how to set their keyboard up.  
+
+If you want to build such a keyboard, there are a few considerations to keep in mind:
+
+* A cheap USB mechanical keyboard with replaceable key caps is ideal.  
+* USB will be much easier to bring with you and connect to multiple computers than any wireless options.
+* Each team will need a shortcut key for most if not all of these inputs:
+  * Team Time Out
+  * Star Pass
+  * Official Review
+    * Optionally, two more keys for Review Retained/Denied
+  * Lead Jammer Awarded
+  * Calling the Jam
+  * Loss of Lead
+  * Injury
+  * 1-4 Trip Points Awarded 
+* Additionally, there should be a set of shortcuts for Official calls as well
+  * Official Timeout
+  * Start the Jam
+  * Unstart Jam/Un-Timeout
+* Keys should be large enough or spaced far enough apart to avoid fat fingering input
+* If you cannot print your own key caps, they should at least be marked in a way that you can identify what each function should be.
+
 
 ## The Basic Routine
 
@@ -27,23 +55,25 @@ During a typical Jam, the Scorekeepers should be focusing on their respective Ja
 
 1. Lead Jammer awarded
 2. Initial pass completed
-3. Points earned on the pass
-4. Star passes
-5. Jam called or ended by the Jam Timer
+3. Points as earned on each pass
+4. Star Pass, Loss of Lead or any Jammer penalties
+5. Jam called off or ended naturally by the Jam Timer
 
-The SBO should echo these calls to the Scorekeeper as they are entered into the Scoreboard, both to confirm the information and to acknowledge the call.  If the SBO notices a call while the Scorekeeper is otherwise distracted (making corrections, unable to see the Jam Ref, documenting a Star Pass, etc.), the SBO should confirm the call with the Scorekeeper before inputting it into the system.
+The SBO should echo these calls to the Scorekeeper as they are entered into the scoreboard, both to confirm the information and to acknowledge the call.  If the SBO notices a call while the Scorekeeper is otherwise distracted (making corrections to paperwork, tracking a Star Pass, unable to see the Jam Ref, etc.), the SBO should confirm the call with the Scorekeeper before inputting it into the system.
 
-Between Jams, the SBO and Scorekeepers should confirm with each other that the Scorekeepers and scoreboard agree on the point tally, any Star Passes were entered correctly, and who the upcoming Jammer and Pivot will be for each team.
+Between Jams, the SBO and Scorekeepers should confirm with each other that the Scorekeepers and scoreboard agree on the point tally and if there were any Star Passes during the prior Jam.  As a rule, point corrections **MUST** be input before the end of the next Jam, so a missing 4-point trip in Jam 16 must be entered before the end of Jam 17.  In sanctioned play, inaccurate scores must be accounted for and reported to WFTDA along with the Stats Book or risk punishment up to and including loss of sanction.
 
 ### 2. Documenting Jammer and Pivots
 
-If the venue is using electronic Penalty and Lineup Tracking (ePLT) devices, it is possible this task will be handled by the PLTs themselves.   If not, at the start of each Jam it is essential that the Scorekeepers know who their Jammers and Pivots will be.  The SBO should input this information into the scoreboard so it can be displayed for announcers and attendees as well.
+If the venue is using electronic Penalty and Lineup Tracking (ePLT) devices, it is possible this task will be handled by the Penalty and Lineup Trackers as part of their duties.  If not, at the start of each Jam it is essential that the Scorekeepers know who their Jammers and Pivots will be.  As these positions are identified and noted on the scoresheet, the SBO should also input this information into the scoreboard so it can be displayed for announcers and attendees as well.
 
 ### 3. Starting and Ending Jams
 
-Jams begin when the Jam Timer whistles and gives the hand signal, Jams end at end of the first cycle of the 4-whistle cadence to call off a Jam.   After any timeout, the next Jam must begin within 30 seconds of the end of the rolling whistle.   While it is the duty of the Jam Timer or Skating Officials to initiate these signals, the SBO must be ready to update the scoreboard.
+Jams begin when the Jam Timer whistles and gives the hand signal, Jams end at end of the first cycle of the 4-whistle cadence to call off a Jam.   After any timeout, the next Jam must begin within 30 seconds of the end of the rolling whistle.
 
-Additionally, most of the information in the WFTDA Stats Book will be indexed against a Period and Jam number, which officials typically verify against the scoreboard.  This means having the correct Jam count displayed is as important as the game clock.
+While it is the duty of the Jam Timer or Skating Officials to initiate these signals, the SBO must be ready to update the scoreboard.
+
+Additionally, most of the information in the WFTDA Stats Book will be indexed against a Period and Jam number, which officials typically verify against the scoreboard as they complete their paperwork.  This means having the correct Jam count displayed is as important as the game clock.
 
 ### 4. Ensure Clock Time Is Accurate
 
@@ -66,7 +96,7 @@ A total of 8 seconds lapsed between the captain's request and the Official Revie
 
 In addition to having all game clocks displayed correctly, the SBO is also responsible for confirming all timeouts and reviews requested are allocated from the appropriate team, and that the scoreboard shows the correct number of remaining reviews and timeouts for each team.
 
-Additionally, and medical or safety issue should result in an immediate Official Timeout to address the problem.
+Additionally, and medical or safety issue should result in immediately calling off any active Jams and immediately starting an Official Timeout to address the problem.
 
 Whenever a timeout or review is called, the Jam Timer should initiate signaling from the Pivot Line on the track, and MUST maintain visual signaling until the scoreboard shows the correct reason gameplay was halted
 
