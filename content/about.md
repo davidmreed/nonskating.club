@@ -12,6 +12,7 @@ author="David Reed / Stacktrace"
 
 The lead author and editor of the Non-Skating Offical Guides is [David Reed / Stacktrace](https://ktema.org) ([games history](https://ktema.org/about/games-history)), currently Head NSO at [Denver Roller Derby](https://denverrollerderby.org). Contributors to the Guides include:
 
+- Bill Rickabaugh / Bill O'Fights
 - Your name could be here! Learn about [contributing](@/contributing.md).
 
 ## Goals
