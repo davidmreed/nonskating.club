@@ -1,0 +1,36 @@
+<table class="nso plt-penalties">
+    <thead>
+        <tr>
+            <th>Roster</th>
+            <th colspan="9">Penalties</th>
+            <th><abbr title="Foulout/Expulsion">FO/EXP</abbr></th>
+        </tr>
+    </thead>
+    {% set rows = body | split(pat="\n") %}
+    {% for row in rows %}
+    <tr>
+        {% set values = row | split(pat=" ") %}
+        {% for elem in values %}
+        {% if loop.index == 1 %}
+        <th rowspan="2">
+            {{ elem }}
+        </th>
+        {% else %}
+        {% set penalty_code = elem | truncate(length=1, end="") %}
+        <td>{% if penalty_code != "-"%}{{ penalty_code }}{% endif %}</td>
+        {% endif %}
+        {% endfor %}
+    </tr>
+    <tr>
+        {% set values = row | split(pat=" ") %}
+        {% for elem in values %}
+        {% if loop.index == 1 %}
+        {% else %}
+        {% set penalty_code = elem | truncate(length=1, end="") %}
+        {% set jam_number = elem | replace(from=penalty_code, to="") %}
+        <td>{% if penalty_code != "-"%}{{ jam_number }}{% endif %}</td>
+        {% endif %}
+        {% endfor %}
+    </tr>
+    {% endfor %}
+</table>

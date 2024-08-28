@@ -1,0 +1,17 @@
+<table class="nso score">
+    <thead>
+        <tr>
+            <th>JAM</th><th>Jammer's Number</th><th>LOST</th><th>LEAD</th><th>CALL</th><th><abbr title="Injury">INJ.</abbr></th><th><abbr title="No Initial Trip">N.I.</abbr></th>
+            <th>Trip 2</th><th>Trip 3</th><th>Trip 4</th><th>Trip 5</th><th>Trip 6</th><th>Trip 7</th><th>Trip 8</th><th>Trip 9</th><th>Jam Total</th><th>Game Total</th>
+        </tr>
+    </thead>
+    {% set rows = body | split(pat="\n") %}
+    {% for row in rows %}
+    <tr>
+        {% set values = row | split(pat=" ") %}
+        {% for elem in values %}
+        <td>{% if elem != "-" %}{{ elem }}{% endif %}</td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+</table>

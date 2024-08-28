@@ -1,0 +1,176 @@
+:root {
+    --pink: #F8A4A7;
+    --light-pink: #fcd2d4;
+    --light-blue: #eeeef6;
+    --blue: #d3d2e7;
+    --box-blue: #cbcae3;
+    --light-green: #e9f5da;
+    --green: #d3ecb5;
+}
+
+table.nso {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    page-break-inside: avoid;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+table.nso thead th {
+    background-color: black !important;
+    color: white;
+    font-size: 50%;
+}
+
+table.nso tr,
+table.nso td,
+table.nso th {
+    border: 1px black solid;
+    color: black;
+    text-align: center;
+}
+
+/* PLT */
+
+/* Highlight the Box columns in darker blue */
+table.plt td:nth-of-type(4n+4),
+table.plt td:nth-of-type(4n+5),
+table.plt td:nth-of-type(4n+6) {
+    background-color: var(--box-blue);
+    width: 1em;
+    max-width: 1em;
+    min-width: 1em;
+    padding: 0.1em;
+}
+
+table.plt tr:nth-of-type(even) {
+    background-color: var(--light-blue);
+}
+
+table.plt tr:nth-of-type(odd) {
+    background-color: white;
+}
+
+/* PLT Penalties */
+
+table.plt-penalties tr:nth-of-type(even) {
+    border-bottom: 2px black solid;
+}
+
+table.plt-penalties tr td {
+    height: 1.5em;
+}
+
+table.plt-penalties tr td:not(:first-child) {
+    min-width: 2em;
+    width: 2em;
+    max-width: 2em;
+}
+
+/* White-backed rows */
+table.plt-penalties tr:nth-of-type(4n-2) td,
+table.plt-penalties tr:nth-of-type(4n-3) td {
+    background-color: white;
+}
+
+/* Skater number */
+table.plt-penalties tr:nth-of-type(4n-2) th,
+table.plt-penalties tr:nth-of-type(4n-3) th {
+    background-color: var(--light-pink);
+}
+
+
+/* Pink-backed rows */
+table.plt-penalties tr:nth-of-type(4n) td,
+table.plt-penalties tr:nth-of-type(4n-1) td {
+    background-color: var(--light-pink);
+}
+
+/* Skater number */
+table.plt-penalties tr:nth-of-type(4n) th,
+table.plt-penalties tr:nth-of-type(4n-1) th {
+    background-color: var(--pink);
+}
+
+/* Heavier stroke at the foulout point */
+table.plt-penalties td:nth-of-type(7) {
+    border-left: 4px solid black;
+}
+
+/* and at the FO/EXP line */
+table.plt-penalties td:nth-of-type(10) {
+    border-left: 2px solid black;
+    background-color: var(--pink) !important;
+}
+
+/* Score */
+
+/* The five flags (LOST LEAD CALL INJ. N.I.) 
+   Render the headers with vertical text.
+   Make the columns slim and the same width.
+*/
+table.score th:nth-of-type(3),
+table.score th:nth-of-type(4),
+table.score th:nth-of-type(5),
+table.score th:nth-of-type(6),
+table.score th:nth-of-type(7) {
+    writing-mode: vertical-lr;
+    width: 1em;
+    max-width: 1em;
+    min-width: 1em;
+    padding: 0.1em;
+}
+
+table.score td:nth-of-type(3),
+table.score td:nth-of-type(4),
+table.score td:nth-of-type(5),
+table.score td:nth-of-type(6),
+table.score td:nth-of-type(7) {
+    width: 1em;
+    max-width: 1em;
+    min-width: 1em;
+    padding: 0.1em;
+}
+
+/* Table row backgrounds. Start white and alternate with light green */
+table.score tr:nth-of-type(even) td {
+    background-color: var(--light-green);
+}
+
+table.score tr:nth-of-type(odd) td {
+    background-color: white;
+}
+
+/* Darker backgrounds used on the Jam and flag columns */
+
+/* For white rows */
+table.score tr:nth-of-type(odd) td:nth-of-type(1),
+table.score tr:nth-of-type(odd) td:nth-of-type(3),
+table.score tr:nth-of-type(odd) td:nth-of-type(4),
+table.score tr:nth-of-type(odd) td:nth-of-type(5),
+table.score tr:nth-of-type(odd) td:nth-of-type(6),
+table.score tr:nth-of-type(odd) td:nth-of-type(7) {
+    background-color: var(--light-green);
+}
+
+/* For green rows */
+table.score tr:nth-of-type(even) td:nth-of-type(1),
+table.score tr:nth-of-type(even) td:nth-of-type(3),
+table.score tr:nth-of-type(even) td:nth-of-type(4),
+table.score tr:nth-of-type(even) td:nth-of-type(5),
+table.score tr:nth-of-type(even) td:nth-of-type(6),
+table.score tr:nth-of-type(even) td:nth-of-type(7) {
+    background-color: var(--green);
+}
+
+
+/* Darker background used on the Game Total column */
+
+table.score td:nth-last-of-type(1) {
+    background-color: var(--green) !important;
+}
+
+table.score tr td {
+    height: 1.5em;
+}
