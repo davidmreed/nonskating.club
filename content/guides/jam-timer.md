@@ -68,6 +68,8 @@ The jam timer works in cycles that follow the structure of a derby game. Startin
 
 In each of the sequences below, we'll call out what your two clocks are doing both _before_ and _after_ your actions. Notice how your Jam Clock is re-used to make sure you always have a backup clock for each segment of game time, while the Period Clock's only job is timing the period.
 
+The Jam Timer issues most cues from a position near the Pivot Line. You are not required to stand directly adjacent to the Pivot Line; you have freedom to adjust your position to maintain your safety, your sight lines, and the ability of the referees to move around you. The [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document specifies that your jam-start signals should be given "facing the pack", and ends with your hand pointing "to the track area in front of the foremost Blocker". Choose your position based on those expectations, and ensure that the skaters on track have a clear line of sight to your signals.
+
 ---
 
 **At the start of the game**, the Jam Timer executes the following steps.
@@ -79,10 +81,31 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 
 ---
 
+**Before each jam that does not directly follow another jam**, such as a resumption of play after a stoppage or the first jam of a period, the Jam Timer executes the following steps.
+
+**Starting state:** ⌚ Period Clock: Stopped, ⌚ Jam Clock:  Stopped or timing Team Time Out
+
+1. Position yourself near the Pivot Line area.
+2. Blow a Rolling Whistle cue.
+3. Reset (if needed) and start the Jam Clock to time the lineup period.
+   - If you are resuming from a time out, note that the scoreboard will continue timing the stoppage of play (Officiating Procedures 4.8) after your rolling whistle. That is, it will _not_ start a lineup period. You should add 30 seconds to the time displayed when you give the Rolling Whistle cue to find the latest time at which the jam can start.
+4. (Optional) Give the non-standard verbal cue “Next whistle starts the jam”.
+5. Complete the pre-jam checks during the lineup period.
+6. If teams are in position and officials are in position and ready (including you), go _directly_ to issuing the Five Seconds verbal cue and hand signal. You _may_ allow the lineup period to extend up to the standard 30 seconds if needed, with the Five Seconds cue given at 00:25. (See [Rules 1.1](https://rules.wftda.com/01_params.html#timing))
+7. If the scoreboard is displaying a lineup period clock (it may not), reset your Jam Clock to be ready to time the jam.
+8. Five seconds after the Five Seconds cue, regardless of when it was issued, give the Jam Start whistle signal and hand signal. If the scoreboard is displaying a lineup period clock, make sure to give the cue according to that clock.
+9. Reset (if needed) and start your Jam Clock to time the jam. Simultaneously, start your Period Clock.
+10. Move to a position in the track center where you are out of the way of referees and other NSOs.
+
+**Ending state**: ⌚ Period Clock: Running, ⌚ Jam Clock: timing Jam
+
+---
+
 **Before each jam that directly follows another jam,** the Jam Timer executes the following steps.
 
 **Starting state:** ⌚ Period Clock: Running, ⌚ Jam Clock: timing Lineup Period
 
+1. Position yourself near the Pivot Line area.
 1. Complete the pre-jam checks (see below) during the 30-second lineup period.
 2. At 00:25 into the lineup period (5 seconds prior to jam start) as displayed on the scoreboard, issue the Five Seconds verbal cue and hand signal specified in the [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document.
 
@@ -98,25 +121,6 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 
 ---
 
-**Before each jam that does not directly follow another jam**, such as a resumption of play after a stoppage or the first jam of a period, the Jam Timer executes the following steps.
-
-**Starting state:** ⌚ Period Clock: Stopped, ⌚ Jam Clock:  Stopped or timing Team Time Out
-
-2. Blow a Rolling Whistle cue.
-3. Reset (if needed) and start the Jam Clock to time the lineup period.
-   - If you are resuming from a time out, note that the scoreboard should _not_ start a lineup period. It will continue timing the stoppage of play (Officiating Procedures 4.8). Add 30 seconds to the time displayed when you give the Rolling Whistle cue to find the latest time at which the jam can start.
-4. (Optional) Give the non-standard verbal cue “Next whistle starts the jam”.
-5. Complete the pre-jam checks during the lineup period.
-6. If teams are in position and officials are in position and ready (including you), go _directly_ to issuing the Five Seconds verbal cue and hand signal. You _may_ allow the lineup period to extend up to the standard 30 seconds if needed, with the Five Seconds cue given at 00:25. (See [Rules 1.1](https://rules.wftda.com/01_params.html#timing))
-7. If the scoreboard is displaying a lineup period clock (it may not), reset your Jam Clock to be ready to time the jam.
-8. Five seconds after the Five Seconds cue, regardless of when it was issued, give the Jam Start whistle signal and hand signal. If the scoreboard is displaying a lineup period clock, make sure to give the cue according to that clock.
-9. Reset (if needed) and start your Jam Clock to time the jam. Simultaneously, start your Period Clock.
-10. Move to a position in the track center where you are out of the way of referees and other NSOs.
-
-**Ending state**: ⌚ Period Clock: Running, ⌚ Jam Clock: timing Jam
-
----
-
 **During each jam**, the Jam Timer executes the following steps.
 
 **Starting state:** ⌚ Period Clock: Running, ⌚ Jam Clock: timing Jam
@@ -125,7 +129,6 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
    - Head Referees often appreciate a heads-up at 10 seconds before you call off the jam.
 2. Listen for jam call-off whistles from the referees. The Jam Timer joins in the echo of jam call-off. For example, after hearing the initial set of four short whistle blasts to call the jam, the Jam Timer blows four short whistle blasts twice along with the other referees.
 3. Maintain awareness for any of the situations discussed under “What to Watch During the Jam”.
-4. As your awareness, comfort, and crew needs dictate, support the officials around you (such as Penalty Lineup Trackers) with information they might have missed. You can communicate penalties, lead status, star passes, and other game events. This is sometimes called "JT-wrangling": acting as Penalty Wrangler while you jam time.
 
 **Ending state:** ⌚ Period Clock: Running, ⌚ Jam Clock: timing Jam or Lineup Period (when Jam ends)
 
@@ -135,8 +138,8 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 
 **Starting state**: ⌚ Period Clock: Running, ⌚ Jam Clock: timing Jam
 
-1. Starts a stopwatch to time the lineup period, as a **backup** to the scoreboard.
-2. Returns to their position near the Pivot Line area.
+1. Start a stopwatch to time the lineup period, as a **backup** to the scoreboard.
+2. Return to a position near the Pivot Line area.
 
 **Ending state**: ⌚ Period Clock: Running, ⌚ Jam Clock: timing Lineup Period
 
@@ -365,8 +368,6 @@ The jam clock may be corrected _without_ a stoppage of play, provided that
 This process occurs rarely and will generally require the jam timer to approach the scoreboard, or for the scoreboard operator to observe and correct a malfunction independently.
 
 ### Overtime Jams
-
-The rules for Overtime Jams are presented in
 
 There are two key diffferences in overtime play for the Jam Timer.
 
