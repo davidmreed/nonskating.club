@@ -31,7 +31,7 @@ It is critical for officials working these positions to understand the rules tha
 
 The Penalty Box Manager typically uses (at least) two stopwatches for timing penalties. Most host leagues provide stopwatches for the penalty box staff, although many PBMs bring their own.
 
-The PBM is responsible for the Penalty Box Whiteboard, a handheld whiteboard that is divided into halves by team, and the markers and erasers for that board. (https://resources.wftda.org/officiating/standards-and-procedures/ 7.3). These items are usually supplied by the host league.
+The PBM is responsible for the Penalty Box Whiteboard, a handheld whiteboard that is divided into halves by team, and the markers and erasers for that board. ([WFTDA Officiating Procedures](https://resources.wftda.org/officiating/standards-and-procedures/) 7.3). These items are usually supplied by the host league.
 
 The side of the penalty box belonging to each team is marked, often with colored fabric or felt swatches or with tape. The jammer seat should be marked to distinguish it from the blocker seats. See the [WFTDA Tournament Track Setup Requirements, "Penalty Box" section e](https://static.wftda.com/resources/wftda-tournament-track-setup-requirements.pdf), although note that this practice is widely used outside tournaments and the other requirements in this document are not.
 
@@ -45,7 +45,7 @@ Work from the center of the penalty box, directly behind the two jammer seats. M
 
 Watch the track for penalty calls. As each penalty is called, relay as much information about the incoming skater to your Penalty Box Timer as possible. Penalty Box Timers are often required to have their heads down, focused on their paperwork and their stopwatches. The penalty box paperwork requires the skater's number and position. Your communicating these data before the skater is seated helps the Penalty Box Timer manage multiple skaters efficiently, and prevents an influx of skaters from overwhelming the box.
 
-Direct the skater to an appropriate seat in the penalty box. (https://resources.wftda.org/officiating/standards-and-procedures/ 7.2). The Penalty Box Timers may also direct skaters; coordinate how you'd like to direct traffic with the PBTs prior to the game.
+Direct the skater to an appropriate seat in the penalty box. ([WFTDA Officiating Procedures](https://resources.wftda.org/officiating/standards-and-procedures/) 7.2). The Penalty Box Timers may also direct skaters; coordinate how you'd like to direct traffic with the PBTs prior to the game.
 
 Blockers and pivots should be seated on the two outer seats of each team's box, and jammers in the inner seat. If the skater sits in the wrong seat, request that they move, but ensure that their time is started from their initial arrival. ([Casebook C4.4.1.A](https://rules.wftda.com/casebook/04_c_penalties.html#penalty-enforcement-for-blockers))
 
@@ -122,13 +122,13 @@ The intricacies of some unusual jammer swaps are not universally understood. For
 
 ### Managing the Queue
 
-When a team's penalty box is filled with two _seated_ skaters, additional incoming skaters should be returned to the track using the "\<Color\> \<Number\>, return to the track" cue. ([Rules 4.4.1](https://rules.wftda.com/04_penalties.html)). This cue is referenced in https://resources.wftda.org/officiating/standards-and-procedures/ 7.3.1 but is not defined in the Cues, Codes, and Signals document. The hand signal is a "pushing" gesture with an open palm and a horizontally extended arm. Note however that fouled-out skaters should not be returned to the track; see below under Foulouts.
+When a team's penalty box is filled with two _seated_ skaters, additional incoming skaters should be returned to the track using the "\<Color\> \<Number\>, return to the track" cue. ([Rules 4.4.1](https://rules.wftda.com/04_penalties.html)). This cue is referenced in [WFTDA Officiating Procedures](https://resources.wftda.org/officiating/standards-and-procedures/) 7.3.1 but is not defined in the Cues, Codes, and Signals document. The hand signal is a "pushing" gesture with an open palm and a horizontally extended arm. Note however that fouled-out skaters should not be returned to the track; see below under Foulouts.
 
-When you place a skater in queue, write their number and position on the side of your whiteboard for their team. As soon as a seat opens in the box, hold your whiteboard up to have referees or center-based NSOs direct the skater to report to the box. Continue to hold the whiteboard until the skater reports. (https://resources.wftda.org/officiating/standards-and-procedures/ 7.3).
+When you place a skater in queue, write their number and position on the side of your whiteboard for their team. As soon as a seat opens in the box, hold your whiteboard up to have referees or center-based NSOs direct the skater to report to the box. Continue to hold the whiteboard until the skater reports. ([WFTDA Officiating Procedures](https://resources.wftda.org/officiating/standards-and-procedures/) 7.3).
 
-If the jam ends with a skater or skaters still in queue, hold up your whiteboard during the entire lineup period. This allows the Penalty Lineup Trackers and the Jam Timer to validate that the queued skaters are on track, as required. See https://resources.wftda.org/officiating/standards-and-procedures/ 7.3.3 and 6.1.1.
+If the jam ends with a skater or skaters still in queue, hold up your whiteboard during the entire lineup period. This allows the Penalty Lineup Trackers and the Jam Timer to validate that the queued skaters are on track, as required. See [WFTDA Officiating Procedures](https://resources.wftda.org/officiating/standards-and-procedures/) 7.3.3 and 6.1.1.
 
-Erase queued skaters from your board as they report. Skaters do not have to report in listed order. They should be seated in the order in which they report. (https://resources.wftda.org/officiating/standards-and-procedures/ 7.3.2)
+Erase queued skaters from your board as they report. Skaters do not have to report in listed order. They should be seated in the order in which they report. ([WFTDA Officiating Procedures](https://resources.wftda.org/officiating/standards-and-procedures/) 7.3.2)
 
 ### Foulouts
 
@@ -148,15 +148,15 @@ The foul-out procedure requires:
 - When released by the Penalty Box staff, the skater collects any personal items from their bench and leaves the play area.
 - Any time remaining on the skater's penalties is served by a substitute.
 
-Advise a fouled-out skater when they sit that they have fouled out. Instruct them to move to the side of the penalty box when they are cued to stand by the Penalty Box Timer. Once the jam ends, check to see if an Official Review or Official Time Out is immediately called. (Such action could result in the skater's seventh penalty being rescinded). If not, advise the fouled-out skater that they must leave the play area. They may retrieve personal items from the bench before leaving (https://resources.wftda.org/officiating/standards-and-procedures/ 8.1).
+Advise a fouled-out skater when they sit that they have fouled out. Instruct them to move to the side of the penalty box when they are cued to stand by the Penalty Box Timer. Once the jam ends, check to see if an Official Review or Official Time Out is immediately called. (Such action could result in the skater's seventh penalty being rescinded). If not, advise the fouled-out skater that they must leave the play area. They may retrieve personal items from the bench before leaving ([WFTDA Officiating Procedures](https://resources.wftda.org/officiating/standards-and-procedures/) 8.1).
 
-If the skater is the Jammer or Pivot, ask them to give you their helmet cover. Place it on the chair to indicate that a substitute is required to be seated _in that role_. (https://resources.wftda.org/officiating/standards-and-procedures/ 8.1.1)
+If the skater is the Jammer or Pivot, ask them to give you their helmet cover. Place it on the chair to indicate that a substitute is required to be seated _in that role_. ([WFTDA Officiating Procedures](https://resources.wftda.org/officiating/standards-and-procedures/) 8.1.1)
 
 If, at the end of the jam, the skater has time remaining to serve, a substitute must be seated. Depending on placement of the penalty box relative to the team benches, you will often need to rely on your Penalty Lineup Tracker, Head NSO, or a referee to coordinate a substitute with the team captain or coach. You should take responsibility for starting this process with any other officials involved. You may call an Official Time Out if needed, but in the best case a substitution can be handled without an Official Time Out.
 
 In JRDA games, you must direct the fouled-out skater to the designated parent chaperone for their team. The parent chaperone does _not_ need to approach the box or enter the play area, but you need to know who and where they are in order to direct the skater to them. ([JRDA Officiating Procedures 9.1.3](https://www.juniorrollerderby.org/officiating-procedures)).
 
-If a skater fouls out but would otherwise be placed in the queue, do not return them to the track. Hold them at the side of the box until a seat is available. See https://resources.wftda.org/officiating/standards-and-procedures/ 8.4.
+If a skater fouls out but would otherwise be placed in the queue, do not return them to the track. Hold them at the side of the box until a seat is available. See [WFTDA Officiating Procedures](https://resources.wftda.org/officiating/standards-and-procedures/) 8.4.
 
 Be aware that not all Penalty Box Timers have performed a foulout. You may need to remind Box Timers to continue timing the empty chair after the skater has stood and moved to the side of the box.
 
@@ -184,7 +184,7 @@ Set expectations with Penalty Box Timers for how you'll work together:
 
 #### At the End of Period 1
 
-Record the color, number, position, and penalty time remaining for each skater currently in the box on your penalty box whiteboard. (https://resources.wftda.org/officiating/standards-and-procedures/ 7.6)
+Record the color, number, position, and penalty time remaining for each skater currently in the box on your penalty box whiteboard. ([WFTDA Officiating Procedures](https://resources.wftda.org/officiating/standards-and-procedures/) 7.6)
 
 #### Before Period 2
 
@@ -229,7 +229,7 @@ When you assess a penalty, write the skater's number and the penalty code on the
 
 In the unlikely event that you are not empowered to assess penalties, don't circle the penalty code. Hold the whiteboard up until a referee assesses the penalty. You can also use this procedure if the relevant skater is no longer located in the penalty box area.
 
-Consult https://resources.wftda.org/officiating/standards-and-procedures/ 7.3.4 for the process to assess a penalty.
+Consult [WFTDA Officiating Procedures](https://resources.wftda.org/officiating/standards-and-procedures/) 7.3.4 for the process to assess a penalty.
 
 #### Hot Entries
 
