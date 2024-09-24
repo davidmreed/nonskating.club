@@ -1,6 +1,6 @@
 ---
 title: "Jam Timer"
-date: "2024-08-28"
+date: "2024-09-23"
 template: "guide.html"
 extra:
     author: "David Reed / Stacktrace"
@@ -222,6 +222,8 @@ In all of these situations, whistle an Official Time Out instead of starting the
   - Assess a Misconduct to the Captain ([Casebook C4.3.M](https://rules.wftda.com/casebook/04_c_penalties.html#penalties-for-unsporting-conduct-misconduct)).
 
 Keep in mind that whistling an official time out instead of starting the jam often results in skater confusion, and some may begin skating in derby direction. Ensure that you're not in a position to be struck.
+
+Sometimes the jam is started incorrectly when it _should_ have gone into an Official Time Out. See [Officiating Procedures 6.1.1](https://resources.wftda.org/officiating/standards-and-procedures/), which specifies that a jam started in error should be allowed to conclude naturally in a situation where a queued skater is not lined up, before transitioning into an Official Time Out to issue the penalty. The jam started in error _must_ be whistled dead if an injured skater returns to play too early.
 
 #### Are the medics present and attending to the game?
 

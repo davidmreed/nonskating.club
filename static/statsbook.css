@@ -52,6 +52,40 @@ table.plt tr:nth-of-type(odd) {
     background-color: white;
 }
 
+/* PLT - Full Width*/
+
+/* Highlight the Box columns in darker blue */
+table.plt-full td.home:nth-of-type(4n+4),
+table.plt-full td.home:nth-of-type(4n+5),
+table.plt-full td.home:nth-of-type(4n+6) {
+    background-color: var(--box-blue);
+    width: 1em;
+    max-width: 1em;
+    min-width: 1em;
+    padding: 0.1em;
+}
+
+/* Highlight the Box columns in darker blue */
+table.plt-full td.away:nth-of-type(4n+15),
+table.plt-full td.away:nth-of-type(4n+16),
+table.plt-full td.away:nth-of-type(4n+17) {
+    background-color: var(--box-blue);
+    width: 1em;
+    max-width: 1em;
+    min-width: 1em;
+    padding: 0.1em;
+}
+
+
+table.plt-full tr:nth-of-type(even) {
+    background-color: var(--light-blue);
+}
+
+table.plt-full tr:nth-of-type(odd) {
+    background-color: white;
+}
+
+
 /* PLT Penalties */
 
 table.plt-penalties tr:nth-of-type(even) {

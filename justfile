@@ -7,12 +7,12 @@ render: build
 		base="$(basename $(dirname $guide))"
 		weasyprint "$guide" "$(dirname $guide)/$base.pdf" \
 			-s build-assets/print.css	-s static/statsbook.css	
-		pandoc -r commonmark+yaml_metadata_block \
-			   -w epub --toc --css build-assets/print.css \
-			   --css static/statsbook.css \
-			   --metadata-file build-assets/epub-metadata.txt \
+		pandoc -r html -w epub \
+				--toc --css build-assets/print.css \
+			    --css static/statsbook.css \
+			    --metadata-file build-assets/epub-metadata.txt \
 				-M "publisher=https://nonskating.club/guides/$base/" \
-			   "content/guides/$base.md" -o "$(dirname $guide)/$base.epub"
+			    "$guide" -o "$(dirname $guide)/$base.epub"
 	done
 
 watch:

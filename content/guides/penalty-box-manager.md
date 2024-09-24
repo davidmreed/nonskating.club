@@ -51,7 +51,7 @@ Blockers and pivots should be seated on the two outer seats of each team's box, 
 
 Visual cues used to direct skaters are not standardized. Most Penalty Box Managers use one arm to signal each side of the box (i.e., the skaters from one team). The arm is raised to draw the skater's attention and then lowered to point to the desired seat, repeatedly. 
 
-If the seated skater is a jammer, the Penalty Box Manager is responsible for timing their penalty.However, the Penalty Box Timer for the relevant team actually records the penalty on their paperwork. For instruction on how to perform penalty timing, reference WFTDA Online Learning's [Intro to Penalty Box Training for Officials](https://learning.wftda.org/courses/intro-to-penalty-box-training-for-officials). This guide does not cover these core procedures in deference to this resource.
+If the seated skater is a jammer, the Penalty Box Manager is responsible for timing their penalty. However, the Penalty Box Timer for the relevant team actually records the penalty on their paperwork. For instruction on how to perform penalty timing, reference WFTDA Online Learning's [Intro to Penalty Box Training for Officials](https://learning.wftda.org/courses/intro-to-penalty-box-training-for-officials). This guide does not cover these core procedures in deference to this resource.
 
 An example series of events in the penalty box might look like this:
 
@@ -213,17 +213,15 @@ If a skater in the box is bleeding, vomiting, or in a state where they cannot sa
 
 The Penalty Box Manager is empowered to assess relevant penalties unless forbidden by the Head Referee. Typically, the Penalty Box Manager will assess penalties related to entry and exit of the penalty box and to skater conduct within the penalty box.
 
-Leaving the penalty box early is an Illegal Procedure.
+- Leaving the penalty box early is an Illegal Procedure.
 
-Removing gear other than the mouthguard while seated is an Illegal Procedure - Equipment Violation ([Rules 4.4](https://rules.wftda.com/04_penalties.html#enforcing-penalties)).
+- Removing gear other than the mouthguard while seated is an Illegal Procedure - Equipment Violation ([Rules 4.4](https://rules.wftda.com/04_penalties.html#enforcing-penalties)).
 
-Anyone other than a penalized skater (such as a coach or teammate) entering the box is an Illegal Procedure. (Rules [2.1](https://rules.wftda.com/02_gameplay.html#the-track) and [4.4](https://rules.wftda.com/04_penalties.html#enforcing-penalties)). Note that putting a foot or skate into the box, or reaching into the box to hand an item to a penalized skater, does not count as entering the box. See [Casebook C4.2.4.F](https://rules.wftda.com/casebook/04_c_penalties.html#other-illegal-procedures).
+- Anyone other than a penalized skater (such as a coach or teammate) entering the box is an Illegal Procedure. (Rules [2.1](https://rules.wftda.com/02_gameplay.html#the-track) and [4.4](https://rules.wftda.com/04_penalties.html#enforcing-penalties)). Note that putting a foot or skate into the box, or reaching into the box to hand an item to a penalized skater, does not count as entering the box. See [Casebook C4.2.4.F](https://rules.wftda.com/casebook/04_c_penalties.html#other-illegal-procedures).
 
-Profanity or abusive language may be penalizable. In a WFTDA game, profanity directed at an official or audible by the audience is a Misconduct. See [Casebook C4.3.F](https://rules.wftda.com/casebook/04_c_penalties.html#penalties-for-unsporting-conduct-misconduct). 
+- Profanity or abusive language may be penalizable. In a WFTDA game, profanity directed at an official or audible by the audience is a Misconduct. See [Casebook C4.3.F](https://rules.wftda.com/casebook/04_c_penalties.html#penalties-for-unsporting-conduct-misconduct). 
 
-JRDA conduct rules are considerably stricter than WFTDA. Review [JRDA Rules](https://www.juniorrollerderby.org/rules) section J4.3.1-2 for a description of conduct violations you might observe.
-
-All profanity merits a Misconduct penalty in JRDA games, even if non-directed. See [JRDA Casebook JC4.3.1.B](https://www.juniorrollerderby.org/rules) and [JRDA Code of Conduct 5.8](https://www.juniorrollerderby.org/rules).
+  JRDA conduct rules are considerably stricter than WFTDA. Review [JRDA Rules](https://www.juniorrollerderby.org/rules) section J4.3.1-2 for a description of conduct violations you might observe. All profanity merits a Misconduct penalty in JRDA games, even if non-directed. See [JRDA Casebook JC4.3.1.B](https://www.juniorrollerderby.org/rules) and [JRDA Code of Conduct 5.8](https://www.juniorrollerderby.org/rules).
 
 When you assess a penalty, write the skater's number and the penalty code on the appropriate side of your whiteboard. Circle the penalty code to indicate that you are assessing the penalty. Hold your whiteboard up until acknowledged by the Penalty Lineup Tracker.
 

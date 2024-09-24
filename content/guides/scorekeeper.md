@@ -71,7 +71,7 @@ Why call out these specific pieces of information?
 
 Your Jam Referee will signal points to you starting when the jammer leaves the Engagement Zone (TODO reference). Many Jam Referees will continue to signal until the jammer enters the Engagement Zone for their next scoring trip. You should do the same. Remember that your signal may be seen by others throughout the venue, not just by your Jam Referee confirming that you've caught the points.
 
-You do not need to echo other signals, such as the Lead sign or No Pass - No Penalty. Some scorekeepers do, but it may provoke confusion.
+You do not need to echo other signals, such as the Lead sign or No Pass-No Penalty. Some scorekeepers do, but it may provoke confusion.
 
 ### Start-of-Game Check-ins
 
@@ -196,3 +196,4 @@ It's very common for scorekeepers to have limited experience in the position. Cr
 In many cases, but certainly not all, the scoreboard operator is a more experienced non-skating official. (The scoreboard is not difficult to operate, but has many challenges and edge cases). If that's your situation, take advantage of their expertise. Draw on your other scorekeeper too, or lend them your expertise if they need it. However, always make sure to do your own job first.
 
 When the NSO crew is very limited, it's possible to go with a single scorekeeper and a scoreboard operator. In extreme circumstances, it's possible even to have the scoreboard operator catch points for both teams. While this situation _could_ meet the standards for a sanctioned game (which does not require a specific position count for NSOs), it's very risky and not recommended.
+.
