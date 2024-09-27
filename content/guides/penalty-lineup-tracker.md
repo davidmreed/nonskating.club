@@ -1,8 +1,7 @@
 ---
 title: "Penalty Lineup Tracker"
-date: "2024-09-15"
+date: "2024-09-26"
 template: "guide.html"
-draft: true
 extra:
     author: "David Reed / Stacktrace"
 ---
