@@ -1,14 +1,5 @@
-.action-icons {
-    display: none;
-}
-
 .canonical-link {
     display: inline-block !important;
-}
-
-header,
-footer {
-    display: none !important;
 }
 
 h1,
@@ -31,10 +22,6 @@ h1 {
     padding-bottom: 2pt;
 }
 
-h1::before {
-    content: "Non-Skating Official Guides: ";
-}
-
 h2, summary {
     font-size: 13pt;
 }
@@ -49,19 +36,6 @@ h4 {
 
 h5 {
     font-size: 10.5pt;
-}
-
-@page {
-    size: letter;
-    margin: 1in;
-    margin-bottom: 0.6in;
-    padding: 0;
-
-    @bottom-right {
-        content: "Page " counter(page) " of " counter(pages);
-        border-top: .25pt solid #666;
-        width: 75%;
-    }
 }
 
 html {

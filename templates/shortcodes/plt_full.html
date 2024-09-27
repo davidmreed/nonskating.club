@@ -1,0 +1,28 @@
+<table class="nso plt-full">
+    <thead>
+    <tr>
+        <th>Jam</th>
+        <th>noPivot</th>
+        <th>Jammer</th>
+        <th colspan="3">Box</th>
+        <th>Pivot</th>
+        <th colspan="3">Box</th>
+        <th>Roster</th>
+        <th>Jam</th>
+        <th>noPivot</th>
+        <th>Jammer</th>
+        <th colspan="3">Box</th>
+        <th>Pivot</th>
+        <th colspan="3">Box</th>
+    </tr>
+    </thead>
+    {% set rows = body | split(pat="\n") %}
+    {% for row in rows %}
+    <tr>
+        {% set values = row | split(pat=" ") %}
+        {% for elem in values %}
+        <td class="{% if loop.index <= 10 %}home{% else %}away{%endif%}">{% if elem != "-"%}{{ elem }}{% endif %}</td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+</table>
