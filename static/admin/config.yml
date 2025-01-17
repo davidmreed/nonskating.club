@@ -5,6 +5,7 @@ backend:
   open_authoring: true
   branch: main
   auth_scope: repo
+  base_url: https://fragrant-river-8742.david-a8d.workers.dev/
 publish_mode: editorial_workflow
 media_folder: static
 media_library:
