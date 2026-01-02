@@ -171,6 +171,8 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 1. Wait up to 30 seconds after the end of the final Jam for a team to request an Official Review. If teams do not have an Official Review or advise the Head Referee that they do not wish to use it, you do not need to continue waiting. (See WFTDA Officiating Procedures 2.6 and under “Rolling Whistle” in the WFTDA Officiating Cues, Codes, and Signals document).
 2. If the second period ended, wait for the Jam Referees to confer with their scorekeepers to validate final scores and make any adjustments to the final jam needed ([Rules 3.5](https://rules.wftda.com/singlehtml/index.html#errors-in-scoring-score-reporting)).
+
+   * This must happen immediately following the final jam because there is no "next jam", which is the marker used during the game for when score adjustments may be performed.
 3. Blows a rolling whistle to indicate the end of the period or game. (WFTDA Officiating Procedures 1.7)
 
 **Ending state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
