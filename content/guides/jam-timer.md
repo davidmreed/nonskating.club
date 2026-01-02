@@ -315,9 +315,11 @@ The penalty-related events below will typically be handled by the referees. Howe
 
 Typically, the Jam Timer would call an Official Time Out and ask a referee to address the situation. However, unless forbidden by the Head Referee, the Jam Timer is empowered to directly assess relevant penalties.
 
-* Scoreboard is not running or is completely incorrect. XXX
+* Scoreboard is not running or is completely incorrect.
 
-  * Your response to this situation will vary based on the specific malfunction and the context. A local regulation game and a high-level sanctioned tournament will have different tolerance levels for this type of malfunction and any impact it may have on the game. You may stop the jam and call an Official Time Out to address the issue.
+  * [Rules 1.4](https://rules.wftda.com/01_params.html#game-information) requires that the Period Clock, the Jam Clock, and the Official Score be visible to teams, officials, and spectators.
+  * Your response to this situation will vary based on the specific malfunction and the context. A local regulation game and a high-level sanctioned tournament will have different tolerance levels for this type of malfunction and any impact it may have on the game.
+  * You may stop the jam and call an Official Time Out to address the issue.
 * Obscene language audible to the audience or directed at an official.
 
   * Assess a Misconduct penalty. See [Casebook C4.3.F](https://rules.wftda.com/casebook/04_c_penalties.html#penalties-for-unsporting-conduct-misconduct)
