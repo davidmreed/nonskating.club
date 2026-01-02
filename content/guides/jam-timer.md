@@ -412,9 +412,9 @@ This process occurs rarely and will generally require the Jam Timer to move to s
 There are two key differences in overtime play for the Jam Timer.
 
 1. Because no Lead Jammer is assigned, all Overtime Jams run for two minutes and are terminated by the Jam Timer. ([Rules 1.5.1](https://rules.wftda.com/01_params.html#overtime)).
-2. The lineup period for every Overtime Jam (including the lineup period between the final jam of regular play and the first Overtime Jam) is 60 seconds. (WFTDA Officiating Procedures 2.8 and 3.3).
+2. The lineup period for every Overtime Jam (including the lineup period between the final jam of regular play and the first Overtime Jam) is 60 seconds. ([WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf) 2.8 and 3.3).
 
-The procedure for transitioning from regular play into an Overtime Jam is described in Officiating Procedures 2.8: after the last jam of regular play, transition to overtime play with a 1-minute lineup period after the Head Referee advises teams that overtime play will begin.
+Before overtime play begins, the Head Referee advises teams of the transition into overtime. [JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures) 2.7 requires that this communication happen during an Official Time Out. Since Overtime Jams are rare and often require coordination amongst the officials, an Official Time Out is nearly always required before transitioning to overtime play.
 
 Be aware that previous editions of the Rules explicitly specified one-minute lineup periods for Overtime Jams. The current edition of the Rules does not, but Officiating Procedures do. This inconsistency may cause confusion about what's expected, which is one reason it's valuable for the Head Referee to convey the message of upcoming overtime to both teams.
 
