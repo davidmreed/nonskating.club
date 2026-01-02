@@ -373,14 +373,10 @@ Several conditions must be met for a team’s Time Out or Official Review reques
 When a Time Out or Official Review is requested and all preconditions are met:
 
 1. Blow four short whistle blasts to signal stoppage of the period clock.
-2. If there was any substantive delay between the request for the time out and it being granted, adjust the Period Clock to the time when the time out was requested. In particular, if the Period Clock expired between those two points and time, it should be restored to the former. (See Officiating Procedures 4.7).
+2. If there was any substantive delay between the request for the time out and it being granted, adjust the Period Clock to the time when the time out was requested. In particular, if the Period Clock expired between those two points and time, it should be restored to the former. (See [WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf) 4.7).
 3. Follow your **During a stoppage of play** steps.
 4. If a Team Time Out was called, wait for the scoreboard to display 1:00. Otherwise, wait for the Head Referee to indicate that you can restart play. There is no standard signal for this. Many referees use a hand cue, pointing an index finger upwards and rotating it rapidly.
 5. Execute the steps given under **Before each jam that does not directly follow another jam**.
-
-#### Official Reviews After End-of-Period
-
-Official Reviews can only be called in the 30 seconds following the end of a period. (JRDA Officiating Procedures 5.2) XXX
 
 #### Illegal Time Out and Official Review Calls
 
