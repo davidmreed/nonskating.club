@@ -254,11 +254,11 @@ If you do have to go into Official Time Out rather than starting the jam, assess
 
 Keep in mind that whistling an official time out instead of starting the jam often results in skater confusion, and some may begin skating in derby direction. Ensure that you're not in a position to be struck.
 
-Sometimes the jam is started incorrectly when it *should* have gone into an Official Time Out. See [Officiating Procedures 6.1.1](https://resources.wftda.org/officiating/standards-and-procedures/), which specifies that a jam started in error should be allowed to conclude naturally in a situation where a queued skater is not lined up, before transitioning into an Official Time Out to issue the penalty. The jam started in error *must* be whistled dead if an injured skater returns to play too early.
+Sometimes the jam is started incorrectly when it *should* have gone into an Official Time Out. See [WFTDA Officiating Procedures 6.1.1](https://resources.wftda.org/officiating/standards-and-procedures/), which specifies that a jam started in error should be allowed to conclude naturally in a situation where a queued skater is not lined up, before transitioning into an Official Time Out to issue the penalty. The jam started in error *must* be whistled dead if an injured skater returns to play too early.
 
 #### Are the medics present and attending to the game?
 
-At least one medic must be available to treat skaters and attending to the track at all times, per the WFTDA Risk Management Guidelines (section 5.2). It's fine if one medic is tending to an injured skater provided that the other medic is in position and attending.
+At least one medic must be available to treat skaters and attending to the track at all times, per the [WFTDA Risk Management Guidelines](https://static.wftda.com/insurance/wftda-risk-management-guidelines.pdf) (section 5.2). It's fine if one medic is tending to an injured skater provided that the other medic is in position and attending.
 
 **If no**:
 
@@ -268,7 +268,7 @@ At least one medic must be available to treat skaters and attending to the track
 
 **If yes**: execute the steps under **Time Outs and Official Reviews**.
 
-* Note that this responsibility calls for you to maintain awareness of which team has Time Outs or Official Reviews remaining, and which personnel are entited to call them.
+* Note that this responsibility calls for you to maintain awareness of which team has Time Outs or Official Reviews remaining, and which personnel are entitled to call them.
 
 #### Are any officials unready to start the jam?
 
@@ -282,7 +282,7 @@ At least one medic must be available to treat skaters and attending to the track
 
 Reference [WFTDA Risk Management Guidelines](https://static.wftda.com/insurance/wftda-risk-management-guidelines.pdf), section 3, for details on many safety concerns.
 
-* Persons under 18 located outside of Zone F (WFTDA and MRDA play). XXX
+* Persons under 18 located outside of Zone F (WFTDA and MRDA play) or Zones E and F (JRDA).
 * Persons, such as spectators, in the track area (including the medic area, penalty box, and turn-coach boxes) who are not supposed to be there.
 * Issues with the track surface, boundary lines, or barriers that pose a safety hazard.
 
