@@ -116,7 +116,6 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
    * [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf), pages 15-16
    * [JRDA Officiating Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals), page 11
-
 5. If the scoreboard is displaying a lineup period clock (it may not be), reset your Jam Clock to be ready to time the jam.
 6. Five seconds after the Five Seconds cue, regardless of when it was issued, give the Jam Start whistle signal and hand signal. If the scoreboard is displaying a lineup period clock, make sure to give the cue according to that clock.
 7. Reset (if needed) and start your Jam Clock to time the jam. Simultaneously, start your Period Clock.
@@ -199,7 +198,7 @@ Choose your cueing position based on those expectations, and ensure that the ska
 2. Start your Jam Clock to time this stoppage, as a backup to the scoreboard.
 3. Perform the appropriate ongoing visual cue for the type of play stoppage while positioned on or next to the Pivot Line. (See [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) and [JRDA Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals)).
 
-   * In WFTDA and MRDA play, you may stop performing the visual cue once the scoreboard shows the correct type of play stoppage (WFTDA Officiating Procedures 4.3-4.4).
+   * In WFTDA and MRDA play, you may stop performing the visual cue once the scoreboard shows the correct type of play stoppage ([WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf) 4.3-4.4).
    * In JRDA play, you should continue the visual cue throughout the stoppage ([JRDA Cues, Codes, and Signals page 13](https://www.juniorrollerderby.org/cues-codes-signals))
 4. Verify the scoreboard period clock and communicate any required adjustments to the scoreboard operator. See under **Correcting the period clock**.
 5. At the conclusion of the stoppage of play, execute the steps under **Before each jam that does not directly follow another jam**.
@@ -455,4 +454,3 @@ The Jam Timer role can be a good one for the Head NSO, because it places the HNS
 If the number of available officials is badly constrained, it is possible for the Jam Timer to also act as solo Penalty Tracker. (This combination will only happen in Regulation, not Sanctioned, games, due to the sanctioning requirement of lineup tracking). Other combinations are less viable.
 
 A Jam Timer will often provide informal support as a Penalty Wrangler for less-experienced Penalty Lineup Trackers.
-
