@@ -123,7 +123,7 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 **Starting state:** ⌚ Period Clock: Running, ⌚ Jam Clock: timing Lineup Period
 
-1. Position yourself near the Pivot Line area.
+1. Move to your cueing position.
 2. Complete the pre-jam checks (see below) during the 30-second lineup period.
 3. At 00:25 into the lineup period (5 seconds prior to jam start) as displayed on the scoreboard, issue the Five Seconds verbal cue and hand signal specified in the [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document.
 
@@ -157,8 +157,9 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 **Starting state**: ⌚ Period Clock: Running, ⌚ Jam Clock: timing Jam
 
-1. Start a stopwatch to time the lineup period, as a **backup** to the scoreboard.
-2. Follow the steps under **Before each jam that directly follows another jam.**
+1. Stop and reset your Jam Clock.
+2. Start your Jam Clock to time the lineup period, as a **backup** to the scoreboard.
+3. Follow the steps under **Before each jam that directly follows another jam.**
 
 **Ending state**: ⌚ Period Clock: Running, ⌚ Jam Clock: timing Lineup Period
 
@@ -179,9 +180,9 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 **Starting state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
-1. Wait up to 30 seconds after the end of the final Jam for a team to request an Official Review. If teams do not have an Official Review or advise the Head Referee that they do not wish to use it, you do not need to continue waiting. (This is specified in Officiating Procedures 2.6 and under “Rolling Whistle” in the Officiating Cues, Codes, and Signals document).
+1. Wait up to 30 seconds after the end of the final Jam for a team to request an Official Review. If teams do not have an Official Review or advise the Head Referee that they do not wish to use it, you do not need to continue waiting. (See WFTDA Officiating Procedures 2.6 and under “Rolling Whistle” in the WFTDA Officiating Cues, Codes, and Signals document).
 2. Wait for the Jam Referees to confer with their scorekeepers to validate final scores and make any adjustments to the final jam needed ([Rules 3.5](https://rules.wftda.com/singlehtml/index.html#errors-in-scoring-score-reporting)).
-3. Blow a Rolling Whistle to indicate the end of the game (Officiating Procedures 1.7).
+3. Blow a Rolling Whistle to indicate the end of the game (WFTDA Officiating Procedures 1.7).
 
 **Ending state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
@@ -194,7 +195,7 @@ Choose your cueing position based on those expectations, and ensure that the ska
 1. Ensure your Period Clock is stopped immediately at the fourth whistle of the first set of four whistle blasts that marked the stoppage of play.
 2. Perform the appropriate ongoing visual cue for the type of play stoppage while positioned on or next to the Pivot Line. (See [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) and [JRDA Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals)).
 
-   * In WFTDA and MRDA play, you may stop performing the visual cue once the scoreboard shows the correct type of play stoppage (Officiating Procedures 4.3-4).
+   * In WFTDA and MRDA play, you may stop performing the visual cue once the scoreboard shows the correct type of play stoppage (WFTDA Officiating Procedures 4.3-4).
    * In JRDA play, you should continue the visual cue throughout the stoppage ([JRDA Cues, Codes, and Signals page 13](https://www.juniorrollerderby.org/cues-codes-signals))
 3. Verify the scoreboard period clock and communicate any required adjustments to the scoreboard operator. See under **Correcting the period clock**.
 4. At the conclusion of the stoppage of play, execute the steps under **Before each jam that does not directly follow another jam**.
@@ -221,7 +222,7 @@ Make sure you have answers to these questions before the game so that you're equ
   * Can you see the team bench areas, where time-out calls originate?
   * Can you see the medic location?
   * You need to know this information to meet your responsibilities described under **What to Check Before Every Jam**.
-* Who is the scoreboard operator? How will you communicate timing adjustments to them?
+* Who is the Scoreboard Operator? How will you communicate timing adjustments to them?
 * Who is the Head Referee? Does the Head Referee want you to call an Official Time Out if referees are out of position?
 
 ### What to Check Before Every Jam
@@ -232,14 +233,14 @@ None of these checks are the *sole* responsibility of the Jam Timer. The referee
 
 #### Are the right skaters present on the track *at the jam-start whistle*?
 
-Make sure you know what it means for a skater to be on the track. Reference [Rules 2.2 Positions](https://rules.wftda.com/02_gameplay.html#positions) and [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game). Be aware that skaters often move on and off the track during the lineup period. You should not take action until the jam-start whistle would be blown. If you need to go into an Official Time Out to assess a penalty, do so **in place of starting the jam**.
+Make sure you know what it means for a skater to be on the track. Reference [Rules 2.2 Positions](https://rules.wftda.com/02_gameplay.html#positions) and [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game). Be aware that skaters often move on and off the track during the lineup period. You should not take action until the jam-start whistle would be blown. If you need to go into an Official Time Out to assess a penalty, do so **in place of starting the jam**. XXX
 
 * Do both teams have a jammer on track or in the box?
 * Are enough blockers on the track to form a pack (at least one per team)?
 * Is the Penalty Box Manager signaling for a queued skater to report to the box, while that skater is not on the track?
 * Is the Penalty Lineup Tracker indicating that a skater is on track who is not eligible to skate?
 
-In all of these situations, whistle an Official Time Out instead of starting the jam. Assess a Delay of Game penalty to the captain of the team failing to field the right skaters, or a to a queued skater who is not lined up (Casebook C4.2.3A).
+In all of these situations, whistle an Official Time Out instead of starting the jam. Assess a Delay of Game penalty to the captain of the team failing to field the right skaters, or to a queued skater who is not lined up (Casebook C4.2.3A). XXX
 
 * Is either team fielding a number of skaters significantly in excess of what is allowed?
 
@@ -254,13 +255,14 @@ Sometimes the jam is started incorrectly when it *should* have gone into an Offi
 
 At least one medic must be available to treat skaters and attending to the track at all times, per the WFTDA Risk Management Guidelines (section 5.2). It's fine if one medic is tending to an injured skater provided that the other medic is in position and attending.
 
-* **If no**:
+**If no**:
 
-  * Whistle an Official Time Out. Ask the Head Referee or Head NSO to have the medics located, or wait for the conclusion of an ongoing treatment process.
+* Whistle an Official Time Out. Ask the Head Referee or Head NSO to have the medics located, or wait for the conclusion of an ongoing treatment process.
 
 #### Is either team signaling for a Team Time Out or Official Review, *and* are all the conditions required for the TO or OR met (see **Time Outs and Official Reviews**)?
 
-* **If yes**: execute the steps under **Time Outs and Official Reviews**.
+**If yes**: execute the steps under **Time Outs and Official Reviews**.
+
 * Note that this responsibility calls for you to maintain awareness of which team has Time Outs or Official Reviews remaining, and which personnel are entited to call them.
 
 #### Are any officials unready to start the jam?
@@ -268,13 +270,14 @@ At least one medic must be available to treat skaters and attending to the track
 * Are any officials signaling for an Official Time Out?
 * Are any officials out of position? (Note that some Head Referees do not wish an Official Time Out called if *they* are out of position. See **What to check before the game**).
 * Are any officials engaged in a process that may impede their ability to work the upcoming jam?
-* **If yes**: Whistle an Official Time Out.
+
+**If yes**: Whistle an Official Time Out.
 
 #### Are there any impediments or safety concerns around the track area?
 
 Reference [WFTDA Risk Management Guidelines](https://static.wftda.com/insurance/wftda-risk-management-guidelines.pdf), section 3, for details on many safety concerns.
 
-* Persons under 18 located outside of Zone F (WFTDA and MRDA play).
+* Persons under 18 located outside of Zone F (WFTDA and MRDA play). XXX
 * Persons, such as spectators, in the track area (including the medic area, penalty box, and turn-coach boxes) who are not supposed to be there.
 * Issues with the track surface, boundary lines, or barriers that pose a safety hazard.
 
@@ -307,7 +310,7 @@ The penalty-related events below will typically be handled by the referees. Howe
 
 Typically, the Jam Timer would call an Official Time Out and ask a referee to address the situation. However, unless forbidden by the Head Referee, the Jam Timer is empowered to directly assess relevant penalties.
 
-* Scoreboard is not running or is completely incorrect.
+* Scoreboard is not running or is completely incorrect. XXX
 
   * Your response to this situation will vary based on the specific malfunction and the context. A local regulation game and a high-level sanctioned tournament will have different tolerance levels for this type of malfunction and any impact it may have on the game. You may stop the jam and call an Official Time Out to address the issue.
 * Obscene language audible to the audience or directed at an official.
