@@ -446,6 +446,10 @@ A continuation entails a new lineup period (**Before each jam that does not dire
 
 Before initiating a continuation, the officials should inform the coaches and allow the team that had Lead Jammer the opportunity to opt out of invoking the continuation rule. (See [JRDA Officiating Procedures and Staffing Guidelines](https://www.juniorrollerderby.org/officiating-procedures), section 4).
 
+When the jam is called off due to injury, the Jam Timer issues the "Jam Stopped for Injury" cue. The Scoreboard Operator, Scorekeepers, and Penalty Box Timers all need to know this information.
+
+When it is determined whether or not the Injury Call-Offs rule is being invoked, the Jam Timer issues either the "Jam Continuation" or "New Jam" cue. See [JRDA Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals), pages 12-13.
+
 Be aware that the Injury Call-Offs rule is complex, used only in JRDA, and applied relatively infrequently. Not all officials, or coaches, may know the fine points of the rule.
 
 ## Additional Responsibilities
