@@ -330,6 +330,7 @@ Typically, the Jam Timer would call an Official Time Out and ask a referee to ad
 
   * Whistle the jam dead and go into an Official Time Out.
   * Call for the medics to attend the skater.
+  * Signal "Jam Stopped for Injury". See [JRDA Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals), page 12. The Scoreboard Operator, Scorekeepers, and Penalty Box Timers all need to know this information. While this cue is only standardized by JRDA, it is widely used in WFTDA play.
 
 #### Conduct in JRDA Games
 
