@@ -441,7 +441,7 @@ A continuation entails a new lineup period (**Before each jam that does not dire
 
 Before initiating a continuation, the officials should inform the coaches and allow the team that had Lead Jammer the opportunity to opt out of invoking the continuation rule. (See [JRDA Officiating Procedures and Staffing Guidelines](https://www.juniorrollerderby.org/officiating-procedures), section 4).
 
-Be aware that the Injury Call-Offs rule is complex, used only in JRDA, and applied relatively infrequently. Not all officials may know the fine points of the rule.
+Be aware that the Injury Call-Offs rule is complex, used only in JRDA, and applied relatively infrequently. Not all officials, or coaches, may know the fine points of the rule.
 
 ## Additional Responsibilities
 
