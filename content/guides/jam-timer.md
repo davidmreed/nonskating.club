@@ -178,9 +178,9 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 **Starting state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
-1. Wait up to 30 seconds after the end of the final Jam for a team to request an Official Review. If teams do not have an Official Review or advise the Head Referee that they do not wish to use it, you do not need to continue waiting. (See [WFTDA Officiating Procedures 2.6 and 4.9,](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf) and under “Rolling Whistle” in the WFTDA Officiating Cues, Codes, and Signals document, and [JRDA Officiating Procedures 5.2](https://www.juniorrollerderby.org/officiating-procedures)).
+1. Wait up to 30 seconds after the end of the final Jam for a team to request an Official Review. If teams do not have an Official Review or advise the Head Referee that they do not wish to use it, you do not need to continue waiting. (See [WFTDA Officiating Procedures 2.6 and 4.9,](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf) and under “Rolling Whistle” in the [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document, and [JRDA Officiating Procedures 5.2](https://www.juniorrollerderby.org/officiating-procedures)).
 
-   * Note that WFTDA does not specify the 30-second limitation for Official Reviews after the end of the *first* period, but JRDA does.
+   * Note that WFTDA does not require the 30-second limitation for Official Reviews after the end of the *first* period, but JRDA does.
 2. If the second period ended, wait for the Jam Referees to confer with their scorekeepers to validate final scores and make any adjustments to the final jam needed ([Rules 3.5](https://rules.wftda.com/singlehtml/index.html#errors-in-scoring-score-reporting)).
 
    * This must happen immediately following the final jam because there is no "next jam", which is the marker used during the game for when score adjustments may be performed.
