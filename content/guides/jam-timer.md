@@ -381,13 +381,13 @@ Rarely, it may occur that the jam timer or another official incorrectly grants a
 
 See [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game) scenario G and [Casebook 4.2.4](https://rules.wftda.com/casebook/04_c_penalties.html#other-illegal-procedures) scenario A. This situation will result in an Official Time Out and a Delay of Game or Illegal Procedure penalty to the skater who requested the Time Out or Official Review, or to the captain if the requestor is not a skater.
 
-#### Correcting the Period Clock
+## Correcting the Period Clock
 
 During a stoppage of play, you can work with the Scoreboard Operator to make corrections to the official Period Clock based on your (backup) Period Clock. Hand signals for this process are not standardized. It is common to use one finger pointing up or down to indicate the direction of the adjustment, followed by a number of seconds by fingers. Conventions differ for adjustments larger than five seconds. Large adjustments may require the Jam Timer to go to the scoreboard area. Discuss with the Scoreboard Operator before the game how you plan to signal time adjustments or a confirmation that the clock is correct.
 
 Stoppages of play are the **only** time you can change the official game clock on the scoreboard (WFTDA Officiating Procedures 3.1.1). If your backup Period Clock and the official Period Clock diverge, **and** you believe that your backup clock has the correct time, you may call an Official Time Out between jams to allow the official Period Clock to be corrected. (See WFTDA Officiating Procedures, section 4.5). *Your backup clock is not necessarily correct*; it is your responsibility to maintain awareness.
 
-An Official Time Out for clock adjustments is disruptive to the flow of gameplay. Use your judgement to decide whether or not you need to take this action. If the situation makes a time divergence of a few seconds have an impact on gameplay, such as in a close-scoring game, call the timeout. If the divergence is large, such that a participant or spectator likely noticed it, call the timeout; in this case, your action *not* to call the timeout may be more disruptive than calling it. In all other situations, assess on a case-by-case basis.
+An Official Time Out for clock adjustments is disruptive to the flow of gameplay. Use your judgement to decide whether or not you need to take this action. If the situation makes a time divergence of a few seconds have an impact on gameplay, such as in a close-scoring or high-level game, call the timeout. If the divergence is large, such that a participant or spectator likely noticed it, call the timeout; in this case, your action *not* to call the timeout may be more disruptive than calling it. In all other situations, assess on a case-by-case basis.
 
 ## Managing Edge Cases
 
