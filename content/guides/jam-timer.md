@@ -45,7 +45,7 @@ Standard equipment for a Jam Timer includes:
 * A Fox 40 Classic whistle.
 * One or two stopwatches.
 
-Like referees, Jam Timers should expect to supply their own Fox 40 Classic whistle. This specific whistle is required by the [WFTDA Officiating Uniforms Policy](https://static.wftda.com/officiating/officiating-uniform-policy.pdf), page 2), which is in force only for WFTDA Regional and Global Championships but which represents typical practice in _most_ other contexts. Unless you're advised that a specific event requires a different whistle type, assume you should use a Fox 40 Classic. Other whistles are easily identifiable by tone and may be distracting.
+Like referees, Jam Timers should expect to supply their own Fox 40 Classic whistle. This specific whistle is required by the [WFTDA Officiating Uniforms Policy](https://static.wftda.com/officiating/officiating-uniform-policy.pdf), page 2, which is in force only for WFTDA Regional and Global Championships but which represents typical practice in _most_ other contexts. Unless you're advised that a specific event requires a different whistle type, assume you should use a Fox 40 Classic. Other whistles are easily identifiable by tone and may be distracting.
 
 Leagues may provide stopwatches, but Jam Timers often choose to use their own stopwatches based on the model they are most comfortable with. If you don’t have a preference, Robic’s [Silver 2.0](https://robictimers.com/products/robic-silver-2-0-twin-stopwatch-with-ultra-precise-countdown-timer) model is popular, durable, and supports the modes required for Jam Timing.
 
