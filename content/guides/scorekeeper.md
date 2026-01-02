@@ -11,16 +11,17 @@ extra:
 
 As with all officiating positions in roller derby, it’s important to be aware that Scorekeeping is a combination of *what the rules explicitly say*, *how the rules are interpreted by the community*, and *common practices that are not rule-driven*.
 
-Scorekeeping, in particular, is driven by the needs of the WFTDA Statsbook. TODO
+Scorekeeping, in particular, is driven by the needs of the WFTDA Statsbook. Scorekeeping is a paperwork-intensive and highly routine-based role. While little decision-making or interpretation is needed by scorekeepers, they must remain attentive to events on the track at all times, and must rigorously and consistently follow data-entry guidelines to produce a correct record of the game.
 
 ## Resources
 
 - [The Rules of Flat Track Roller Derby](https://rules.wftda.com/), in particular TODO
-- [Statsbook Manual](TODO)
+- [WFTDA Statsbook Manual](https://resources.wftda.org/competition/statsbook/)
 - [WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf)
 - [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf)
 - [WFTDA Online Learning: Intro to Score & Clocks Training for Officials](https://learning.wftda.org/courses/intro-to-score-clocks-training-for-officials)
 - [JRDA Rules, Casebook, and Code of Conduct](https://www.juniorrollerderby.org/rules)
+- Optional: [Dot System](https://drive.google.com/drive/folders/1G5Yz5qqK1WVi68t2TwaOR6Jb0l8ei0D3) by Nine Inch Wheels.
 
 ## The Basic Routine
 
@@ -81,7 +82,7 @@ Before the game, your assigned Jammer Referee should meet with you to show you t
 
 At the end of each period, the scorekeeper should perform a series of steps to validate their points and paperwork.
 
-1. The jam referees should visit the score table to confirm the recording of the last jam's score. Points may be corrected only for the final jam.
+1. The jam referees visit the score table to confirm the recording of the last jam's score. Points may be corrected only for the final jam.
 2. The scorekeeper totals all of the Trip columns to the bottom row, and verifies that the sum of the Trip columns is equal to the sum of the Jam Total column. If the game is over, also verify that this sum plus the carried-over Period 1 score is equal to the displayed final score.
 3. The scorekeeper calculates the Period 2 total to provide to the Head NSO for the IGRF.
 
@@ -109,7 +110,7 @@ Writing down the pivot's number in the margin of your score sheet, to the left o
 
 It may be useful to mark the margin of your paperwork with a symbol, such as a horizontal line, on each jam in which a Star Pass occurs. This makes it easier for you to rapidly count Star Passes to confirm that you are in sync with the other scorekeeper or with a Penalty Lineup Tracker.
 
-Some scorekeepers use "Dot System". Dot System is a way to annotate your paperwork with more information about the progress of the jam, which can help you keep track of scoring trips. This guide deliberately does not cover Dot System. You can read about it [here](TODO). We neither encourage nor discourage the Dot System. We encourage reviewing it and experimenting to find what makes you most effective.
+Some scorekeepers use "Dot System". Dot System is a way to annotate your paperwork with more information about the progress of the jam, which can help you keep track of scoring trips. This guide deliberately does not cover Dot System. You can read about it [here](https://drive.google.com/drive/folders/1G5Yz5qqK1WVi68t2TwaOR6Jb0l8ei0D3). We neither encourage nor discourage the Dot System. We encourage reviewing it and experimenting to find what makes you most effective.
 
 ### Understanding the Statsbook
 
@@ -164,13 +165,37 @@ The Statsbook Manual offers many examples of how to complete Star Pass paperwork
 
 ### Closing Zero Trips
 
+Rules 3.2 (TODO) describes how points are grouped into Scoring Trips.
+
+> One trip through the Pack ends, and the next begins, when the Jammer exits the front of the Engagement Zone
+
 ### Lost Lead
 
 ### Math Errors
 
 ## Score Corrections
 
-Mistakes happen all the time. Roller derby is not a precise science!
+Mistakes happen all the time. Roller derby is not a precise science! As a scorekeeper, it's critical to understand _when_ and _how_ you may correct mistakes, and when they remain part of the game record.
+
+[Rules 1.4](https://rules.wftda.com/01_params.html#game-information) is a brief but critical reference:
+
+> Critical game information must be displayed in a manner that is highly visible to teams, officials, and spectators. This displayed information is considered official...
+
+which is elaborated in Rules 3.5 (TODO):
+
+> The Official Score is that which is reported and visible to teams, Officials, and spectators.
+
+> Errors with Points Awarded Incorrectly
+
+> If a point is awarded (or denied) in error, or if a Jammer Referee has reported a score incorrectly, the score may be corrected no later than the end of the Jam after the one in which the error occurred. If there are fewer than 2 minutes in the game remaining on the period clock, score corrections must be made before the start (rather than the end) of the Jam after the one in which the error occurred.
+
+Read the text of the Rules carefully, including the linked glossary entries. Awarding of points is one of the most critical facets of officiating.
+
+The official score is the score displayed on the scoreboard, _not_ the score shown on your paperwork. While the two should always coincide, the fact that they might in the moment be different is important in considering how to respond to an error.
+
+If the official score and your paperwork are both inaccurate (for example, if your Jam Referee indicates to you that a 4 they signaled should have been a 3, with a no pass-no-penalty):  
+
+When the scoreboard is correct, but your paperwork is wrong (for example, if you correctly reported 2 4-point trips to the scoreboard operator, but only wrote down one of them), just fix your paperwork.
 
 - During the first period and during the first 28 minutes of play in the second period, you may make a correction to the score _until the end of the following jam_.
 - During the final two minutes of play in the second period, you may make a correction to the score _until the following jam starts_. That is, you can only correct a jam's score during that jam and during the following lineup period, barring any stoppage of play.
