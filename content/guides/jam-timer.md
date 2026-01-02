@@ -351,7 +351,7 @@ If an Official Time Out is called instead, there are three possible outcomes. Se
    * JRDA requires that the teams be advised that they must call the Time Out or Official Review for a jam to run ([JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures) 3.1.2). This communication is good practice regardless to ensure teams understand what is happening.
 3. If both the officials and the teams decline to take action, the game will end when the period clock expires.
 
-As the Jam Timer, you wait for the Period Clock to run out while watching closely for the teams to call a Time Out or Official Review. Do not give the "Five Seconds" cue. When the Period Clock expires, execute the steps under **At the end of the first period** or **At the end of the game** as appropriate. XXX cite
+As the Jam Timer, you wait for the Period Clock to run out while watching closely for the teams to call a Time Out or Official Review. Do not give the "Five Seconds" cue. When the Period Clock expires, execute the steps under **At the end of the first period** or **At the end of the game** as appropriate.
 
 Current versions of the [CRG Derby Scoreboard](https://github.com/rollerderby/scoreboard/) will highlight the lineup period clock in red to indicate to you that the jam should not start without a timeout being called. Be aware, however, that older versions will not provide this warning and may still be in use.
 
