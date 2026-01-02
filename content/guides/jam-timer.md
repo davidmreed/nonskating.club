@@ -34,6 +34,8 @@ You should assume that everything else we discuss either follows as a direct con
   * Be aware of the definitions of zones and safety requirements, located on pages 6-8. These definitions can assist you in determining when an unsafe situation occurs that would require you to stop gameplay.
 * [WFTDA Online Learning: Intro to Score & Clocks Training for Officials](https://learning.wftda.org/courses/intro-to-score-clocks-training-for-officials)
 * [JRDA Rules, Casebook, and Code of Conduct](https://www.juniorrollerderby.org/rules)
+* [JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures)
+* [JRDA Officiating Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals)
 
 ## Equipment
 
