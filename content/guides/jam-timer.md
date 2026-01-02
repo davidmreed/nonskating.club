@@ -343,13 +343,15 @@ There are special rules for what happens if a jam ends with 30 seconds or fewer 
 
 If a Team Time Out or Official Review is called before the expiration of the Period Clock, you’ll start a new jam following that stoppage of play like any other. The period clock will resume at the jam-starting whistle.
 
-If an Official Time Out is called instead, there are three possible outcomes.
+If an Official Time Out is called instead, there are three possible outcomes. See [WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf) 3.2 and [JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures) 3.1.
 
-1. The officials may exercise discretion to run another jam.
-2. If the officials decline to do so, the teams may call a Time Out or Official Review, in which case another jam will be run. The teams should be advised that they must call the Time Out or Official Review for a jam to run (JRDA Officiating Procedures and Staffing Guidelines 3.1.2).
+1. The officials may determine that another jam should take place.
+2. If the officials decline to do so, the teams may call a Time Out or Official Review, in which case another jam will be run. 
+
+   * JRDA requires that the teams be advised that they must call the Time Out or Official Review for a jam to run ([JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures) 3.1.2). This communication is good practice regardless to ensure teams understand what is happening.
 3. If both the officials and the teams decline to take action, the game will end when the period clock expires.
 
-As the Jam Timer, you simply wait for the Period Clock to run out while watching closely for the teams to call a Time Out or Official Review. Do not give the "Five Seconds" cue. When the Period Clock expires, execute the steps under **At the end of the first period** or **At the end of the game** as appropriate. XXX cite
+As the Jam Timer, you wait for the Period Clock to run out while watching closely for the teams to call a Time Out or Official Review. Do not give the "Five Seconds" cue. When the Period Clock expires, execute the steps under **At the end of the first period** or **At the end of the game** as appropriate. XXX cite
 
 Current versions of the [CRG Derby Scoreboard](https://github.com/rollerderby/scoreboard/) will highlight the lineup period clock in red to indicate to you that the jam should not start without a timeout being called. Be aware, however, that older versions will not provide this warning and may still be in use.
 
