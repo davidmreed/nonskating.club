@@ -48,7 +48,7 @@ Like referees, Jam Timers should expect to supply their own whistle. Fox 40 Clas
 
 Jam Timing in a face mask is possible. You may choose to use a push-button electronic whistle, but it is difficult to produce the required cues effectively. Alternately, you can place your whistle inside your mask. You can either drop the whistle out of your mask while not issuing a whistle cue or retain the whistle inside your mask in your cheek area to allow you to speak.
 
-You should Jam Time with two stopwatches to ensure that you’re able to time each segment of gameplay.
+Jam Time with two stopwatches to ensure that you’re able to time each segment of gameplay.
 
 * One is your Period Clock. Configure this stopwatch to count down from 30:00.
 * The other is your Jam, Lineup, and Timeout Clock. (In the rest of this guide, we just say "Jam Clock").
@@ -165,24 +165,13 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 - - -
 
-**At the end of the first period**, the Jam Timer executes the following steps.
-
-**Starting state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
-
-1. Checks for any requests for an Official Review. XXX
-2. Blows a rolling whistle to indicate the end of the period.
-
-**Ending state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
-
-- - -
-
-**At the end of the game,** the Jam Timer executes the following steps.
+**At the end of each period**, the Jam Timer executes the following steps.
 
 **Starting state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
 1. Wait up to 30 seconds after the end of the final Jam for a team to request an Official Review. If teams do not have an Official Review or advise the Head Referee that they do not wish to use it, you do not need to continue waiting. (See WFTDA Officiating Procedures 2.6 and under “Rolling Whistle” in the WFTDA Officiating Cues, Codes, and Signals document).
-2. Wait for the Jam Referees to confer with their scorekeepers to validate final scores and make any adjustments to the final jam needed ([Rules 3.5](https://rules.wftda.com/singlehtml/index.html#errors-in-scoring-score-reporting)).
-3. Blow a Rolling Whistle to indicate the end of the game (WFTDA Officiating Procedures 1.7).
+2. If the second period ended, wait for the Jam Referees to confer with their scorekeepers to validate final scores and make any adjustments to the final jam needed ([Rules 3.5](https://rules.wftda.com/singlehtml/index.html#errors-in-scoring-score-reporting)).
+3. Blows a rolling whistle to indicate the end of the period or game. (WFTDA Officiating Procedures 1.7)
 
 **Ending state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
