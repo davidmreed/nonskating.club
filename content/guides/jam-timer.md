@@ -1,7 +1,7 @@
 ---
 template: guide.html
 title: Jam Timer
-date: yyyy-01-Th
+date: 2026-01-01
 extra:
   author: David Reed / Stacktrace
 draft: true
