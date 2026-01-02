@@ -193,12 +193,13 @@ Choose your cueing position based on those expectations, and ensure that the ska
 **Starting state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped or timing Team Time Out
 
 1. Ensure your Period Clock is stopped immediately at the fourth whistle of the first set of four whistle blasts that marked the stoppage of play.
-2. Perform the appropriate ongoing visual cue for the type of play stoppage while positioned on or next to the Pivot Line. (See [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) and [JRDA Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals)).
+2. Start your Jam Clock to time this stoppage, as a backup to the scoreboard.
+3. Perform the appropriate ongoing visual cue for the type of play stoppage while positioned on or next to the Pivot Line. (See [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) and [JRDA Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals)).
 
    * In WFTDA and MRDA play, you may stop performing the visual cue once the scoreboard shows the correct type of play stoppage (WFTDA Officiating Procedures 4.3-4).
    * In JRDA play, you should continue the visual cue throughout the stoppage ([JRDA Cues, Codes, and Signals page 13](https://www.juniorrollerderby.org/cues-codes-signals))
-3. Verify the scoreboard period clock and communicate any required adjustments to the scoreboard operator. See under **Correcting the period clock**.
-4. At the conclusion of the stoppage of play, execute the steps under **Before each jam that does not directly follow another jam**.
+4. Verify the scoreboard period clock and communicate any required adjustments to the scoreboard operator. See under **Correcting the period clock**.
+5. At the conclusion of the stoppage of play, execute the steps under **Before each jam that does not directly follow another jam**.
 
 - - -
 
@@ -365,13 +366,10 @@ Several conditions must be met for a team’s Time Out or Official Review reques
 When a Time Out or Official Review is requested and all preconditions are met:
 
 1. Blow four short whistle blasts to signal stoppage of the period clock.
-2. Stop your Period Clock.
-3. If this is a Team Time Out, reset your Jam Clock and start timing the Time Out as a backup to the scoreboard.
-4. If there was any substantive delay between the request for the time out and it being granted, adjust the Period Clock to the time when the time out was requested. In particular, if the Period Clock expired between those two points and time, it should be restored to the former. (See Officiating Procedures 4.7).
-5. Communicate any changes to the Period Clock to the Scoreboard Operator.
-6. Stand at the Pivot Line and give the appropriate verbal cue and hand signal for the type of play stoppage (see the [Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document, pages 16-17). Make sure that the scoreboard operator can see your hand cues.
-7. If a Team Time Out was called, wait for the scoreboard to display 1:00. Otherwise, wait for the Head Referee to indicate that you can restart play. There is no standard signal for this. Many referees use a hand cue, pointing an index finger upwards and rotating it rapidly.
-8. Execute the steps given under **Before each jam that does not directly follow another jam**.
+2. If there was any substantive delay between the request for the time out and it being granted, adjust the Period Clock to the time when the time out was requested. In particular, if the Period Clock expired between those two points and time, it should be restored to the former. (See Officiating Procedures 4.7).
+3. Follow your **During a stoppage of play** steps.
+4. If a Team Time Out was called, wait for the scoreboard to display 1:00. Otherwise, wait for the Head Referee to indicate that you can restart play. There is no standard signal for this. Many referees use a hand cue, pointing an index finger upwards and rotating it rapidly.
+5. Execute the steps given under **Before each jam that does not directly follow another jam**.
 
 #### Official Reviews After End-of-Period
 
