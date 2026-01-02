@@ -101,10 +101,11 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 1. (Optional) Give the nonstandard hand signal for “this whistle ends the timeout”. Stand on or adjacent to the Pivot Line and extend your open palm in the direction of the skaters with fingers together, indicating “stop”.
 2. (Optional) Give the nonstandard verbal cue “Next whistle ends the (time out/official review)“, if applicable.
-3. Blow a Rolling Whistle cue.
+3. Stop and reset your Jam Clock.
+4. Blow a Rolling Whistle cue and start your Jam Clock to time the lineup period.
 
-   * Some Jam Timers also blow a Rolling Whistle cue to indicate the start of a lineup period, such as at the beginning of a period. This is not strictly correct, but may be conventional in some areas.
-4. If you are resuming from a time out, note that the scoreboard will continue timing the stoppage of play (Officiating Procedures 4.8) after your rolling whistle. Recent versions of CRG Scoreboard will also show a post-timeout clock. If you do not have a post-timeout clock available, you should add 30 seconds to the time displayed when you give the Rolling Whistle cue to find the latest time at which the jam can start.
+   * Some Jam Timers also blow a Rolling Whistle cue to indicate the start of a lineup period at the beginning of a period. This is not strictly correct, but may be conventional in some areas.
+5. The scoreboard will continue timing the stoppage of play ([WFTDA Officiating Procedures 4.8](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf)) after your rolling whistle. Recent versions of CRG Scoreboard will also show a post-timeout clock. If you do not have a post-timeout clock available, you should add 30 seconds to the time displayed when you give the Rolling Whistle cue to find the latest time at which the jam can start.
 
 **In all situations:**
 
