@@ -403,9 +403,9 @@ The jam clock may be corrected *without* a stoppage of play, provided that
 1. The time is off by more than 3 seconds. (WFTDA and MRDA)
 2. No more than 15 seconds of gameplay have elapsed. (All associations)
 
-(See WFTDA Officiating Procedures, section 3.1 and JRDA Officiating Procedures and Staffing Guidelines, section 3.2).
+(See [WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf), section 3.1 and [JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures), section 3.2).
 
-This process occurs rarely and will generally require the jam timer to move to speak to the scoreboard operator, or for the scoreboard operator to observe and correct a malfunction independently.
+This process occurs rarely and will generally require the Jam Timer to move to speak to the Scoreboard Operator, or for the Scoreboard Operator to observe and correct a malfunction independently.
 
 ### Overtime Jams
 
