@@ -339,11 +339,11 @@ All profanity merits a Misconduct penalty in JRDA games, even if non-directed. S
 
 ### Final 30 Seconds of the Period
 
-There are special rules for what happens if a jam ends with 30 seconds or fewer remaining on the Period Clock. In this situation, the Period Clock would run out before the Lineup Clock reaches 30 seconds or simultaneously with it. A jam should not start in this situation ([Rules 1.1](https://rules.wftda.com/01_params.html#timing)), *unless* a Time Out or Official Review is called. See also Officiating Procedures 2.7.
+There are special rules for what happens if a jam ends with 30 seconds or fewer remaining on the Period Clock. In this situation, the Period Clock would run out before the Lineup Clock reaches 30 seconds or simultaneously with it. A jam should not start in this situation ([Rules 1.1](https://rules.wftda.com/01_params.html#timing)), *unless* a Time Out or Official Review is called. See also [WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf) 2.7 and [JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures) 2.6.
 
 If a Team Time Out or Official Review is called before the expiration of the Period Clock, you’ll start a new jam following that stoppage of play like any other. The period clock will resume at the jam-starting whistle.
 
-If an Official Time Out was called, there are three possible outcomes.
+If an Official Time Out is called instead, there are three possible outcomes.
 
 1. The officials may exercise discretion to run another jam.
 2. If the officials decline to do so, the teams may call a Time Out or Official Review, in which case another jam will be run. The teams should be advised that they must call the Time Out or Official Review for a jam to run (JRDA Officiating Procedures and Staffing Guidelines 3.1.2).
