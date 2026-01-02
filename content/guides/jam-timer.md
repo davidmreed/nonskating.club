@@ -4,7 +4,6 @@ title: Jam Timer
 date: 2026-01-01
 extra:
   author: David Reed / Stacktrace
-draft: true
 ---
 ## Introduction
 
@@ -236,7 +235,7 @@ None of these checks are the *sole* responsibility of the Jam Timer. The referee
 
 #### Are the right skaters present on the track *at the jam-start whistle*?
 
-Make sure you know what it means for a skater to be on the track. Reference [Rules 2.2 Positions](https://rules.wftda.com/02_gameplay.html#positions) and [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game). Be aware that skaters often move on and off the track during the lineup period. You should not take action until the jam-start whistle would be blown. If you need to go into an Official Time Out to assess a penalty, do so **in place of starting the jam**. 
+Make sure you know what it means for a skater to be on the track. Reference [Rules 2.2 Positions](https://rules.wftda.com/02_gameplay.html#positions) and [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game). Be aware that skaters often move on and off the track during the lineup period. You should not take action until the jam-start whistle would be blown. If you need to go into an Official Time Out to assess a penalty, do so **in place of starting the jam**.
 
 * Do both teams have a jammer on track or in the box?
 * Are enough blockers on the track to form a pack (at least one per team)?
@@ -347,7 +346,7 @@ If a Team Time Out or Official Review is called before the expiration of the Per
 If an Official Time Out is called instead, there are three possible outcomes. See [WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf) 3.2 and [JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures) 3.1.
 
 1. The officials may determine that another jam should take place.
-2. If the officials decline to do so, the teams may call a Time Out or Official Review, in which case another jam will be run. 
+2. If the officials decline to do so, the teams may call a Time Out or Official Review, in which case another jam will be run.
 
    * JRDA requires that the teams be advised that they must call the Time Out or Official Review for a jam to run ([JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures) 3.1.2). This communication is good practice regardless to ensure teams understand what is happening.
 3. If both the officials and the teams decline to take action, the game will end when the period clock expires.
