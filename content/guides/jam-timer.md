@@ -46,7 +46,7 @@ Standard equipment for a Jam Timer includes:
 * A Fox 40 Classic whistle.
 * One or two stopwatches.
 
-Like referees, Jam Timers should expect to supply their own whistle. Fox 40 Classic whistles cost roughly $6US. Other models of whistle are *not* acceptable and will be noticed immediately. Leagues may provide stopwatches, but Jam Timers often choose to use their own stopwatches based on the model they are most comfortable with. If you don’t have a preference, Robic’s [Silver 2.0](https://robictimers.com/products/robic-silver-2-0-twin-stopwatch-with-ultra-precise-countdown-timer) model is popular, durable, and supports the modes required for Jam Timing.
+Like referees, Jam Timers should expect to supply their own whistle. Fox 40 Classic whistles cost roughly $6US. Other models of whistle are *not* acceptable (see [WFTDA Officiating Uniforms Policy](https://static.wftda.com/officiating/officiating-uniform-policy.pdf), page 2). Leagues may provide stopwatches, but Jam Timers often choose to use their own stopwatches based on the model they are most comfortable with. If you don’t have a preference, Robic’s [Silver 2.0](https://robictimers.com/products/robic-silver-2-0-twin-stopwatch-with-ultra-precise-countdown-timer) model is popular, durable, and supports the modes required for Jam Timing.
 
 Jam Timing in a face mask is possible. You may choose to use a push-button electronic whistle, but it is difficult to produce the required cues effectively. Alternately, you can place your whistle inside your mask. You can either drop the whistle out of your mask while not issuing a whistle cue or retain the whistle inside your mask in your cheek area to allow you to speak.
 
