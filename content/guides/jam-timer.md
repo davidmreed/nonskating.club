@@ -154,7 +154,7 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 1. Monitor the jam clock. If the jam clock reaches two minutes, the Jam Timer calls off the jam by blowing two rounds of four short whistle blasts and repeatedly touching their hips. See [WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf) 2.2 and [JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures) 2.2.
 
-   * Head Referees often appreciate a heads-up at 10 seconds before you call off the jam.
+   * Head Referees often appreciate a heads-up at 10 seconds before you call off the jam. Ask them!
 2. Listen for jam call-off whistles from the referees. The Jam Timer joins in the echo of jam call-off. For example, after hearing the initial set of four short whistle blasts to call the jam, the Jam Timer blows four short whistle blasts twice along with the other referees.
 3. Maintain awareness for any of the situations discussed under “What to Watch During the Jam”.
 
