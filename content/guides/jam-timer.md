@@ -99,7 +99,7 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 **If a stoppage of play is ending:**
 
-1. (Optional) Give the nonstandard hand signal for “this whistle starts a lineup period”. Stand on or adjacent to the Pivot Line and extend your open palm in the direction of the skaters with fingers together, indicating “stop”.
+1. (Optional) Give the nonstandard hand signal for “this whistle ends the timeout”. Stand on or adjacent to the Pivot Line and extend your open palm in the direction of the skaters with fingers together, indicating “stop”.
 2. (Optional) Give the nonstandard verbal cue “Next whistle ends the (time out/official review)“, if applicable.
 3. Blow a Rolling Whistle cue.
 
