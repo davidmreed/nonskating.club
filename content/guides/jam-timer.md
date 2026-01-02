@@ -385,7 +385,7 @@ See [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interf
 
 During a stoppage of play, you can work with the Scoreboard Operator to make corrections to the official Period Clock based on your (backup) Period Clock. Hand signals for this process are not standardized. It is common to use one finger pointing up or down to indicate the direction of the adjustment, followed by a number of seconds by fingers. Conventions differ for adjustments larger than five seconds. Large adjustments may require the Jam Timer to go to the scoreboard area. Discuss with the Scoreboard Operator before the game how you plan to signal time adjustments or a confirmation that the clock is correct.
 
-Stoppages of play are the **only** time you can change the official game clock on the scoreboard (WFTDA Officiating Procedures 3.1.1). If your backup Period Clock and the official Period Clock diverge, **and** you believe that your backup clock has the correct time, you may call an Official Time Out between jams to allow the official Period Clock to be corrected. (See WFTDA Officiating Procedures, section 4.5). *Your backup clock is not necessarily correct*; it is your responsibility to maintain awareness.
+Stoppages of play are the **only** time you can change the official game clock on the scoreboard (WFTDA Officiating Procedures 3.1.1 XXX). If your backup Period Clock and the official Period Clock diverge, **and** you believe that your backup clock has the correct time, you may call an Official Time Out between jams to allow the official Period Clock to be corrected. (See WFTDA Officiating Procedures, section 4.5). *Your backup clock is not necessarily correct*; it is your responsibility to maintain awareness.
 
 An Official Time Out for clock adjustments is disruptive to the flow of gameplay. Use your judgement to decide whether or not you need to take this action. If the situation makes a time divergence of a few seconds have an impact on gameplay, such as in a close-scoring or high-level game, call the timeout. If the divergence is large, such that a participant or spectator likely noticed it, call the timeout; in this case, your action *not* to call the timeout may be more disruptive than calling it. In all other situations, assess on a case-by-case basis.
 
@@ -400,7 +400,7 @@ The jam clock may be corrected *without* a stoppage of play, provided that
 
 (See WFTDA Officiating Procedures, section 3.1 and JRDA Officiating Procedures and Staffing Guidelines, section 3.2).
 
-This process occurs rarely and will generally require the jam timer to approach the scoreboard, or for the scoreboard operator to observe and correct a malfunction independently.
+This process occurs rarely and will generally require the jam timer to move to speak to the scoreboard operator, or for the scoreboard operator to observe and correct a malfunction independently.
 
 ### Overtime Jams
 
@@ -429,7 +429,7 @@ See [JRDA Rules](https://www.juniorrollerderby.org/rules), Appendix 1.
 
 JRDA rules allow for a special “continuation” of a jam that was terminated due to injury in a narrow set of circumstances. Such a continuation jam can occur when all of these conditions are met:
 
-1. The jam is called off due to injury.
+1. The jam is called off due to injury to a skater.
 2. The injury was not the result of penalized contact.
 3. The opposing team (to the injured player’s team) had Lead at the time of call-off.
 4. A continuation has not already occurred for this jam.
