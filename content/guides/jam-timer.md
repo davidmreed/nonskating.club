@@ -169,11 +169,13 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 **Starting state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
-1. Wait up to 30 seconds after the end of the final Jam for a team to request an Official Review. If teams do not have an Official Review or advise the Head Referee that they do not wish to use it, you do not need to continue waiting. (See WFTDA Officiating Procedures 2.6 and under “Rolling Whistle” in the WFTDA Officiating Cues, Codes, and Signals document).
+1. Wait up to 30 seconds after the end of the final Jam for a team to request an Official Review. If teams do not have an Official Review or advise the Head Referee that they do not wish to use it, you do not need to continue waiting. (See [WFTDA Officiating Procedures 2.6 and 4.9,](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf) and under “Rolling Whistle” in the WFTDA Officiating Cues, Codes, and Signals document, and [JRDA Officiating Procedures 5.2](https://www.juniorrollerderby.org/officiating-procedures)).
+
+   * Note that WFTDA does not specify the 30-second limitation for Official Reviews after the end of the *first* period, but JRDA does.
 2. If the second period ended, wait for the Jam Referees to confer with their scorekeepers to validate final scores and make any adjustments to the final jam needed ([Rules 3.5](https://rules.wftda.com/singlehtml/index.html#errors-in-scoring-score-reporting)).
 
    * This must happen immediately following the final jam because there is no "next jam", which is the marker used during the game for when score adjustments may be performed.
-3. Blows a rolling whistle to indicate the end of the period or game. (WFTDA Officiating Procedures 1.7)
+3. Blows a rolling whistle to indicate the end of the period or game. (WFTDA Officiating Procedures 1.7, JRDA Officiating Procedures 1)
 
 **Ending state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
@@ -187,7 +189,7 @@ Choose your cueing position based on those expectations, and ensure that the ska
 2. Start your Jam Clock to time this stoppage, as a backup to the scoreboard.
 3. Perform the appropriate ongoing visual cue for the type of play stoppage while positioned on or next to the Pivot Line. (See [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) and [JRDA Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals)).
 
-   * In WFTDA and MRDA play, you may stop performing the visual cue once the scoreboard shows the correct type of play stoppage (WFTDA Officiating Procedures 4.3-4).
+   * In WFTDA and MRDA play, you may stop performing the visual cue once the scoreboard shows the correct type of play stoppage (WFTDA Officiating Procedures 4.3-4.4).
    * In JRDA play, you should continue the visual cue throughout the stoppage ([JRDA Cues, Codes, and Signals page 13](https://www.juniorrollerderby.org/cues-codes-signals))
 4. Verify the scoreboard period clock and communicate any required adjustments to the scoreboard operator. See under **Correcting the period clock**.
 5. At the conclusion of the stoppage of play, execute the steps under **Before each jam that does not directly follow another jam**.
@@ -225,7 +227,7 @@ None of these checks are the *sole* responsibility of the Jam Timer. The referee
 
 #### Are the right skaters present on the track *at the jam-start whistle*?
 
-Make sure you know what it means for a skater to be on the track. Reference [Rules 2.2 Positions](https://rules.wftda.com/02_gameplay.html#positions) and [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game). Be aware that skaters often move on and off the track during the lineup period. You should not take action until the jam-start whistle would be blown. If you need to go into an Official Time Out to assess a penalty, do so **in place of starting the jam**. XXX
+Make sure you know what it means for a skater to be on the track. Reference [Rules 2.2 Positions](https://rules.wftda.com/02_gameplay.html#positions) and [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game). Be aware that skaters often move on and off the track during the lineup period. You should not take action until the jam-start whistle would be blown. If you need to go into an Official Time Out to assess a penalty, do so **in place of starting the jam**. XXX also position status comms
 
 * Do both teams have a jammer on track or in the box?
 * Are enough blockers on the track to form a pack (at least one per team)?
@@ -374,7 +376,9 @@ See [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interf
 
 ## Correcting the Period Clock
 
-During a stoppage of play, you can work with the Scoreboard Operator to make corrections to the official Period Clock based on your (backup) Period Clock. Hand signals for this process are not standardized. It is common to use one finger pointing up or down to indicate the direction of the adjustment, followed by a number of seconds by fingers. Conventions differ for adjustments larger than five seconds. Large adjustments may require the Jam Timer to go to the scoreboard area. Discuss with the Scoreboard Operator before the game how you plan to signal time adjustments or a confirmation that the clock is correct.
+During a stoppage of play, you can work with the Scoreboard Operator to make corrections to the official Period Clock based on your (backup) Period Clock. (WFTDA Officiating Procedures 4.5)
+
+Hand signals for clock corrections are not standardized. It is common to use one finger pointing up or down to indicate the direction of the adjustment, followed by a number of seconds by fingers. Conventions differ for adjustments larger than five seconds. Large adjustments may require the Jam Timer to go to the scoreboard area. Discuss with the Scoreboard Operator before the game how you plan to signal time adjustments or a confirmation that the clock is correct.
 
 Stoppages of play are the **only** time you can change the official game clock on the scoreboard (WFTDA Officiating Procedures 3.1.1 XXX). If your backup Period Clock and the official Period Clock diverge, **and** you believe that your backup clock has the correct time, you may call an Official Time Out between jams to allow the official Period Clock to be corrected. (See WFTDA Officiating Procedures, section 4.5). *Your backup clock is not necessarily correct*; it is your responsibility to maintain awareness.
 
