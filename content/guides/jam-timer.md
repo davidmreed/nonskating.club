@@ -111,13 +111,14 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 1. Reset (if needed) and start the Jam Clock to time the lineup period of up to 30 seconds.
 2. (Optional) Give the non-standard verbal cue “Next whistle starts the jam”.
-3. Complete the pre-jam checks during the lineup period.
+3. Complete the pre-jam checks (see below) during the lineup period.
 4. If teams are in position and officials are in position and ready (including you), go *directly* to issuing the Five Seconds verbal cue and hand signal. You *may* allow the lineup period to extend up to the standard 30 seconds if needed, with the Five Seconds cue given at 00:25. (See [Rules 1.1](https://rules.wftda.com/01_params.html#timing))
+
+   1. * [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf), pages 15-16
 5. If the scoreboard is displaying a lineup period clock (it may not be), reset your Jam Clock to be ready to time the jam.
 6. Five seconds after the Five Seconds cue, regardless of when it was issued, give the Jam Start whistle signal and hand signal. If the scoreboard is displaying a lineup period clock, make sure to give the cue according to that clock.
 
-   * [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf), pages 15-16
-   * [JRDA Officiating Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals), page 11
+   * [](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf)
 7. Reset (if needed) and start your Jam Clock to time the jam. Simultaneously, start your Period Clock.
 8. Move to a position in the track center where you are out of the way of referees and other NSOs.
 
@@ -129,11 +130,14 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 **Starting state:** ⌚ Period Clock: Running, ⌚ Jam Clock: timing Lineup Period
 
-1. Move to your cueing position.
+1. Move to your standard cueing position.
 2. Complete the pre-jam checks (see below) during the 30-second lineup period.
-3. At 00:25 into the lineup period (5 seconds prior to jam start) as displayed on the scoreboard, issue the Five Seconds verbal cue and hand signal specified in the [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document.
+3. At 00:25 into the lineup period (5 seconds prior to jam start) as displayed on the scoreboard, issue the Five Seconds verbal cue and hand signal.
 
    The cue should be issued so that it falls *exactly* at 5 seconds prior to jam start. Typically this means initiating the cue at around 24.5 seconds. Practice aligning your word “Five” with the scoreboard clock striking 25 seconds.
+
+   * [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf), pages 15-16
+   * [JRDA Officiating Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals), page 11
 4. Stop and reset your Jam Clock so that you're ready to begin timing the jam.
 5. At 00:30 into the lineup period as displayed on the scoreboard, give the Jam Start whistle signal and hand signal specified in the [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document.
 
@@ -451,3 +455,4 @@ The Jam Timer role can be a good one for the Head NSO, because it places the HNS
 If the number of available officials is badly constrained, it is possible for the Jam Timer to also act as solo Penalty Tracker. (This combination will only happen in Regulation, not Sanctioned, games, due to the sanctioning requirement of lineup tracking). Other combinations are less viable.
 
 A Jam Timer will often provide informal support as a Penalty Wrangler for less-experienced Penalty Lineup Trackers.
+
