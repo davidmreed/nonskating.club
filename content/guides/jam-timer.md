@@ -1,7 +1,7 @@
 ---
 template: guide.html
 title: Jam Timer
-date: 2024-09-23
+date: yyyy-01-Th
 extra:
   author: David Reed / Stacktrace
 draft: true
@@ -12,7 +12,7 @@ The Jam Timer is the conductor of the game. They are responsible for starting, s
 
 As with all officiating positions in roller derby, it’s important to be aware that Jam Timing is a combination of multiple sources of practice:
 
-* What the rules explicitly say.
+* What the rules say.
 * What supporting documents from WFTDA, MRDA, and JRDA say.
 * How the rules are interpreted by the community.
 * Common practices that are not directly rule-driven.
