@@ -45,7 +45,9 @@ Standard equipment for a Jam Timer includes:
 * A Fox 40 Classic whistle.
 * One or two stopwatches.
 
-Like referees, Jam Timers should expect to supply their own whistle. Fox 40 Classic whistles cost roughly $6US. Other models of whistle are *not* acceptable (see [WFTDA Officiating Uniforms Policy](https://static.wftda.com/officiating/officiating-uniform-policy.pdf), page 2) and will be noticed immediately by tone. Leagues may provide stopwatches, but Jam Timers often choose to use their own stopwatches based on the model they are most comfortable with. If you don’t have a preference, Robic’s [Silver 2.0](https://robictimers.com/products/robic-silver-2-0-twin-stopwatch-with-ultra-precise-countdown-timer) model is popular, durable, and supports the modes required for Jam Timing.
+Like referees, Jam Timers should expect to supply their own Fox 40 Classic whistle. This specific whistle is required by the [WFTDA Officiating Uniforms Policy](https://static.wftda.com/officiating/officiating-uniform-policy.pdf), page 2), which is in force only for WFTDA Regional and Global Championships but which represents typical practice in _most_ other contexts. Unless you're advised that a specific event requires a different whistle type, assume you should use a Fox 40 Classic. Other whistles are easily identifiable by tone and may be distracting.
+
+Leagues may provide stopwatches, but Jam Timers often choose to use their own stopwatches based on the model they are most comfortable with. If you don’t have a preference, Robic’s [Silver 2.0](https://robictimers.com/products/robic-silver-2-0-twin-stopwatch-with-ultra-precise-countdown-timer) model is popular, durable, and supports the modes required for Jam Timing.
 
 Jam Timing in a face mask is possible. You may choose to use a push-button electronic whistle, but it is difficult to produce the required cues effectively. Alternately, you can place your whistle inside your mask. You can either drop the whistle out of your mask while not issuing a whistle cue or retain the whistle inside your mask in your cheek area to allow you to speak.
 
@@ -98,8 +100,8 @@ Choose your cueing position based on those expectations, and ensure that the ska
 
 **If a stoppage of play is ending:**
 
-1. (Optional) Give the nonstandard hand signal for “this whistle ends the timeout”. Stand on or adjacent to the Pivot Line and extend your open palm in the direction of the skaters with fingers together, indicating “stop”.
-2. (Optional) Give the nonstandard verbal cue “Next whistle ends the (time out/official review)“, if applicable.
+1. (Optional/Regional) Give the nonstandard hand signal for “this whistle ends the timeout”. Stand on or adjacent to the Pivot Line and extend your open palm in the direction of the skaters with fingers together, indicating “stop”.
+2. (Optional/Regional) Give the nonstandard verbal cue “Next whistle ends the (time out/official review)“, if applicable.
 3. Stop and reset your Jam Clock.
 4. Blow a Rolling Whistle cue and start your Jam Clock to time the lineup period.
 
@@ -109,7 +111,7 @@ Choose your cueing position based on those expectations, and ensure that the ska
 **In all situations:**
 
 1. Reset (if needed) and start the Jam Clock to time the lineup period of up to 30 seconds.
-2. (Optional) Give the non-standard verbal cue “Next whistle starts the jam”.
+2. (Optional/Regional) Give the non-standard verbal cue “Next whistle starts the jam”.
 3. Complete the pre-jam checks (see below) during the lineup period.
 4. If teams are in position and officials are in position and ready (including you), go *directly* to issuing the Five Seconds verbal cue and hand signal. You *may* allow the lineup period to extend up to the standard 30 seconds if needed, with the Five Seconds cue given at 00:25. (See [Rules 1.1](https://rules.wftda.com/01_params.html#timing))
 
@@ -365,10 +367,10 @@ Several conditions must be met for a team’s Time Out or Official Review reques
 
 * The person must use the correct signal.
 * The person signalling must be the Captain or Designated Alternate. ([Rules 1.3.1-2](https://rules.wftda.com/singlehtml/index.html#team-timeouts))
-
-  * The person signalling should have a C or A visible on their person to show they're filling this role. It's often, but not always, written on a shoulder above any arm numbers or on the back of a hand.
 * The person signalling is not currently penalized. ([Rules 1.3.1-2](https://rules.wftda.com/singlehtml/index.html#team-timeouts))
 * The team has an Official Review or Time Out remaining. ([Rules 1.3.1-2](https://rules.wftda.com/singlehtml/index.html#team-timeouts))
+
+* The person signalling _should_ have a C or A visible on their person to show they're filling this role. It's often, but not always, written on a shoulder above any arm numbers or on the back of a hand. If the person signalling is the Captain or Alternate but is _not_ displaying a C or A, the timeout should still be granted, but the person should receive a penalty. See [Casebook C4.2.4.A](https://rules.wftda.com/casebook/04_c_penalties.html#other-illegal-procedures).
 
 When a Time Out or Official Review is requested and all preconditions are met:
 
@@ -380,7 +382,7 @@ When a Time Out or Official Review is requested and all preconditions are met:
 
 #### Illegal Time Out and Official Review Calls
 
-Rarely, it may occur that the jam timer or another official incorrectly grants a Team Time Out or Official Review in a circumstance where the preconditions are not met, such as in response to a signal from a team staff member who is not wearing the C or A symbol.
+Rarely, it may occur that the jam timer or another official incorrectly grants a Team Time Out or Official Review in a circumstance where the preconditions are not met.
 
 See [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game) scenario G and [Casebook 4.2.4](https://rules.wftda.com/casebook/04_c_penalties.html#other-illegal-procedures) scenario A. This situation will result in an Official Time Out and a Delay of Game or Illegal Procedure penalty to the skater who requested the Time Out or Official Review, or to the captain if the requestor is not a skater.
 
@@ -412,11 +414,11 @@ This process occurs rarely and will generally require the Jam Timer to move to s
 There are two key differences in overtime play for the Jam Timer.
 
 1. Because no Lead Jammer is assigned, all Overtime Jams run for two minutes and are terminated by the Jam Timer. ([Rules 1.5.1](https://rules.wftda.com/01_params.html#overtime)).
-2. The lineup period for every Overtime Jam (including the lineup period between the final jam of regular play and the first Overtime Jam) is 60 seconds. ([WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf) 2.8 and 3.3).
+2. The lineup period for every Overtime Jam (including the lineup period between the final jam of regular play and the first Overtime Jam) is 60 seconds. ([Rules 1.5.1](https://rules.wftda.com/01_params.html#overtime) and [WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf) 2.8 and 3.3).
 
 Before overtime play begins, the Head Referee advises teams of the transition into overtime. [JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures) 2.7 requires that this communication happen during an Official Time Out. Since Overtime Jams are rare and often require coordination amongst the officials, an Official Time Out is nearly always required before transitioning to overtime play.
 
-Be aware that previous editions of the Rules explicitly specified one-minute lineup periods for Overtime Jams. The current edition of the Rules does not, but Officiating Procedures do. This inconsistency may cause confusion about what's expected, which is one reason it's valuable for the Head Referee to convey the message of upcoming overtime to both teams.
+Be aware that previous editions of the Rules and supporting documents have not always been consistent about specifying the length of the lineup period between Overtime Jams. You may encounter confusion because of this history, and the fact that Overtime Jams are relatively uncommon. This is one reason it's valuable for the Head Referee to convey the message of upcoming overtime to both teams.
 
 ### Sudden Scoring (JRDA Only)
 
