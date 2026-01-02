@@ -236,14 +236,16 @@ None of these checks are the *sole* responsibility of the Jam Timer. The referee
 
 #### Are the right skaters present on the track *at the jam-start whistle*?
 
-Make sure you know what it means for a skater to be on the track. Reference [Rules 2.2 Positions](https://rules.wftda.com/02_gameplay.html#positions) and [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game). Be aware that skaters often move on and off the track during the lineup period. You should not take action until the jam-start whistle would be blown. If you need to go into an Official Time Out to assess a penalty, do so **in place of starting the jam**. XXX also position status comms
+Make sure you know what it means for a skater to be on the track. Reference [Rules 2.2 Positions](https://rules.wftda.com/02_gameplay.html#positions) and [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game). Be aware that skaters often move on and off the track during the lineup period. You should not take action until the jam-start whistle would be blown. If you need to go into an Official Time Out to assess a penalty, do so **in place of starting the jam**. 
 
 * Do both teams have a jammer on track or in the box?
 * Are enough blockers on the track to form a pack (at least one per team)?
 * Is the Penalty Box Manager signaling for a queued skater to report to the box, while that skater is not on the track?
 * Is the Penalty Lineup Tracker indicating that a skater is on track who is not eligible to skate?
 
-In all of these situations, whistle an Official Time Out instead of starting the jam. Assess a Delay of Game penalty to the captain of the team failing to field the right skaters, or to a queued skater who is not lined up (Casebook C4.2.3A). XXX
+If you observe a situation that would require you to interrupt gameplay in this way *before* you issue the Five Seconds cue, you should communicate it. Do so by using factual statements, rather than instructions: "Two Green blockers in the box" or "White has two Pivots". See [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) page 1 and [JRDA Officiating Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals) page 1.
+
+If you do have to go into Official Time Out rather than starting the jam, assess a Delay of Game penalty. If a team failed to field the correct skaters, the penalty goes to their captain. If a queued skater failed to line up, they receive the penalty. ([Casebook C4.2.3A](https://rules.wftda.com/casebook/04_c_penalties.html#penalties-for-unsporting-conduct-misconduct)).
 
 * Is either team fielding a number of skaters significantly in excess of what is allowed?
 
