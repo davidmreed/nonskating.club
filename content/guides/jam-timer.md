@@ -42,7 +42,7 @@ You should assume that everything else we discuss either follows as a direct con
 Standard equipment for a Jam Timer includes:
 
 * A Fox 40 Classic whistle.
-* Two stopwatches.
+* One or two stopwatches.
 
 Like referees, Jam Timers should expect to supply their own whistle. Fox 40 Classic whistles cost roughly $6US. Other models of whistle are *not* acceptable. Leagues may provide stopwatches, but Jam Timers often choose to use their own stopwatches based on the model they are most comfortable with. If you don’t have a preference, Robic’s [Silver 2.0](https://robictimers.com/products/robic-silver-2-0-twin-stopwatch-with-ultra-precise-countdown-timer) model is popular, durable, and supports the modes required for Jam Timing.
 
@@ -50,7 +50,7 @@ Jam Timing in a face mask is possible. You may choose to use a push-button elect
 
 You should Jam Time with two stopwatches to ensure that you’re able to time each segment of gameplay.
 
-* One is your Period Clock, counting down from 30:00.
+* One is your Period Clock. Configure this stopwatch to count down from 30:00.
 * The other is your Jam, Lineup, and Timeout Clock. (In the rest of this guide, we just say "Jam Clock").
 
   * You can set this watch to count up from 00:00, which makes it easy to time jams (2:00), lineups (00:30), and timeouts (1:00). However, it won’t match the jam time readout on the scoreboard, which counts down from 2:00.
@@ -76,7 +76,7 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 
 The Jam Timer issues most cues from a position near inside the track. The [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document does not require a specific position; rather, it states that your jam-start signals should be given "facing the pack", and end with your hand pointing "to the track area in front of the foremost Blocker". 
 
-Choose your position based on those expectations, and ensure that the skaters on track have a clear line of sight to your signals. Most Jam Timers use either a position adjacent to the Pivot Line or a position near the center of the track. Keep in mind that both on-track skaters and other participants throughout the venue rely on your signals: consistency and reliability are important.
+Choose your cueing position based on those expectations, and ensure that the skaters on track have a clear line of sight to your signals. Most Jam Timers use either a position adjacent to the Pivot Line or a position near the center of the track. Keep in mind that both on-track skaters and other participants throughout the venue rely on your signals: consistency and reliability are important.
 
 - - -
 
@@ -94,21 +94,26 @@ Choose your position based on those expectations, and ensure that the skaters on
 **Starting state:** ⌚ Period Clock: Stopped, ⌚ Jam Clock:  Stopped or timing Team Time Out
 
 1. Move to your standard cueing position.
-2. (Optional) Give the nonstandard hand signal for “this whistle starts a lineup period”. Stand on or adjacent to the Pivot Line and extend your open palm in the direction of the skaters with fingers together, indicating “stop”.
-3. (Optional) Give the nonstandard verbal cue “Next whistle ends the (time out/official review)“, if applicable.
-4. If a timeout is ending, blow a Rolling Whistle cue.
 
-   * Some Jam Timers blow a Rolling Whistle cue to indicate the start of a lineup period, such as at the beginning of a period. This is not strictly correct, but may be conventional in some areas.
-5. Reset (if needed) and start the Jam Clock to time the lineup period of up to 30 seconds.
+**If a stoppage of play is ending:**
 
-   * If you are resuming from a time out, note that the scoreboard will continue timing the stoppage of play (Officiating Procedures 4.8) after your rolling whistle. Recent versions of CRG Scoreboard will also show a post-timeout clock. If you do not have a post-timeout clock available, you should add 30 seconds to the time displayed when you give the Rolling Whistle cue to find the latest time at which the jam can start.
-6. (Optional) Give the non-standard verbal cue “Next whistle starts the jam”.
-7. Complete the pre-jam checks during the lineup period.
-8. If teams are in position and officials are in position and ready (including you), go *directly* to issuing the Five Seconds verbal cue and hand signal. You *may* allow the lineup period to extend up to the standard 30 seconds if needed, with the Five Seconds cue given at 00:25. (See [Rules 1.1](https://rules.wftda.com/01_params.html#timing))
-9. If the scoreboard is displaying a lineup period clock (it may not), reset your Jam Clock to be ready to time the jam.
-10. Five seconds after the Five Seconds cue, regardless of when it was issued, give the Jam Start whistle signal and hand signal. If the scoreboard is displaying a lineup period clock, make sure to give the cue according to that clock.
-11. Reset (if needed) and start your Jam Clock to time the jam. Simultaneously, start your Period Clock.
-12. Move to a position in the track center where you are out of the way of referees and other NSOs.
+1. (Optional) Give the nonstandard hand signal for “this whistle starts a lineup period”. Stand on or adjacent to the Pivot Line and extend your open palm in the direction of the skaters with fingers together, indicating “stop”.
+2. (Optional) Give the nonstandard verbal cue “Next whistle ends the (time out/official review)“, if applicable.
+3. Blow a Rolling Whistle cue.
+
+   * Some Jam Timers also blow a Rolling Whistle cue to indicate the start of a lineup period, such as at the beginning of a period. This is not strictly correct, but may be conventional in some areas.
+4. If you are resuming from a time out, note that the scoreboard will continue timing the stoppage of play (Officiating Procedures 4.8) after your rolling whistle. Recent versions of CRG Scoreboard will also show a post-timeout clock. If you do not have a post-timeout clock available, you should add 30 seconds to the time displayed when you give the Rolling Whistle cue to find the latest time at which the jam can start.
+
+**In all situations:**
+
+1. Reset (if needed) and start the Jam Clock to time the lineup period of up to 30 seconds.
+2. (Optional) Give the non-standard verbal cue “Next whistle starts the jam”.
+3. Complete the pre-jam checks during the lineup period.
+4. If teams are in position and officials are in position and ready (including you), go *directly* to issuing the Five Seconds verbal cue and hand signal. You *may* allow the lineup period to extend up to the standard 30 seconds if needed, with the Five Seconds cue given at 00:25. (See [Rules 1.1](https://rules.wftda.com/01_params.html#timing))
+5. If the scoreboard is displaying a lineup period clock (it may not), reset your Jam Clock to be ready to time the jam.
+6. Five seconds after the Five Seconds cue, regardless of when it was issued, give the Jam Start whistle signal and hand signal. If the scoreboard is displaying a lineup period clock, make sure to give the cue according to that clock.
+7. Reset (if needed) and start your Jam Clock to time the jam. Simultaneously, start your Period Clock.
+8. Move to a position in the track center where you are out of the way of referees and other NSOs.
 
 **Ending state**: ⌚ Period Clock: Running, ⌚ Jam Clock: timing Jam
 
