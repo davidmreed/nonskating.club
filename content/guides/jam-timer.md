@@ -76,7 +76,7 @@ The jam timer works in cycles that follow the structure of a derby game. Startin
 
 In each of the sequences below, we'll call out what your two clocks are doing both *before* and *after* your actions. Notice how your Jam Clock is re-used to make sure you always have a backup clock for each segment of game time, while the Period Clock's only job is timing the period.
 
-The Jam Timer issues most cues from a position near inside the track. The [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document does not require a specific position; rather, it states that your jam-start signals should be given "facing the pack", and end with your hand pointing "to the track area in front of the foremost Blocker". 
+The Jam Timer issues most cues from a position near inside the track. The [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document does not require a specific position; rather, it states that your jam-start signals should be given "facing the pack", and end with your hand pointing "to the track area in front of the foremost Blocker". [JRDA](https://www.juniorrollerderby.org/cues-codes-signals) uses the same language.
 
 Choose your cueing position based on those expectations, and ensure that the skaters on track have a clear line of sight to your signals. Most Jam Timers use either a position adjacent to the Pivot Line or a position near the center of the track. Keep in mind that both on-track skaters and other participants throughout the venue rely on your signals: consistency and reliability are important.
 
