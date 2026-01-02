@@ -105,7 +105,7 @@ Choose your cueing position based on those expectations, and ensure that the ska
 4. Blow a Rolling Whistle cue and start your Jam Clock to time the lineup period.
 
    * Some Jam Timers also blow a Rolling Whistle cue to indicate the start of a lineup period at the beginning of a period. This is not strictly correct, but may be conventional in some areas.
-5. The scoreboard will continue timing the stoppage of play ([WFTDA Officiating Procedures 4.8](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf)) after your rolling whistle. Recent versions of CRG Scoreboard will also show a post-timeout clock. If you do not have a post-timeout clock available, you should add 30 seconds to the time displayed when you give the Rolling Whistle cue to find the latest time at which the jam can start.
+5. The scoreboard will continue timing the stoppage of play ([WFTDA Officiating Procedures 4.8](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf)) after your rolling whistle. Recent versions of CRG Derby Scoreboard will also show a post-timeout clock. If you do not have a post-timeout clock available, you should mentally add 30 seconds to the time displayed when you give the Rolling Whistle cue, or use your Jam Clock, to find the latest time at which the jam can start.
 
 **In all situations:**
 
