@@ -37,6 +37,8 @@ You should assume that everything else we discuss either follows as a direct con
 * [JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures)
 * [JRDA Officiating Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals)
 
+  * Note that while the JRDA Rules are an extension of the WFTDA Rules, the supporting documents are independent and differ in a variety of details.
+
 ## Equipment
 
 Standard equipment for a Jam Timer includes:
