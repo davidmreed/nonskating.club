@@ -330,7 +330,7 @@ Typically, the Jam Timer would call an Official Time Out and ask a referee to ad
 
   * Whistle the jam dead and go into an Official Time Out.
   * Call for the medics to attend the skater.
-  * Signal "Jam Stopped for Injury". See [JRDA Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals), page 12. The Scoreboard Operator, Scorekeepers, and Penalty Box Timers all need to know this information. While this cue is only standardized by JRDA, it is widely used in WFTDA play.
+  * Signal "Jam Stopped for Injury". See [JRDA Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals), page 12. The Scoreboard Operator, Scorekeepers, and Penalty Lineup Trackers all need to know this information. While this cue is only standardized by JRDA, it is widely used in WFTDA play.
 
 #### Conduct in JRDA Games
 
@@ -447,7 +447,7 @@ A continuation entails a new lineup period (**Before each jam that does not dire
 
 Before initiating a continuation, the officials should inform the coaches and allow the team that had Lead Jammer the opportunity to opt out of invoking the continuation rule. (See [JRDA Officiating Procedures and Staffing Guidelines](https://www.juniorrollerderby.org/officiating-procedures), section 4).
 
-When the jam is called off due to injury, the Jam Timer issues the "Jam Stopped for Injury" cue. The Scoreboard Operator, Scorekeepers, and Penalty Box Timers all need to know this information.
+When the jam is called off due to injury, the Jam Timer issues the "Jam Stopped for Injury" cue. The Scoreboard Operator, Scorekeepers, and Penalty Lineup Trackers all need to know this information.
 
 When it is determined whether or not the Injury Call-Offs rule is being invoked, the Jam Timer issues either the "Jam Continuation" or "New Jam" cue. See [JRDA Cues, Codes, and Signals](https://www.juniorrollerderby.org/cues-codes-signals), pages 12-13.
 
