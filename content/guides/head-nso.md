@@ -23,7 +23,7 @@ The Head NSO may or may not work another position during a game. If they do, it'
 
 #### Captains and Coaches Meeting
 
-The Captains and Coaches meeting is not strictly codified. It's a pragmatic way for the officials and the team leadership to exchange important information about how the game will run. Typically, the meeting will include:
+The Captains and Coaches meeting is not strictly codified in all cases. It's a pragmatic way for the officials and the team leadership to exchange important information about how the game will run. Typically, the meeting will include:
 
 - You, the Head NSO
 - The Head Referee
@@ -42,12 +42,15 @@ Come to the Captains and Coaches meeting with an agenda, so that you do not forg
 - Establish [colors](#benches-bench-staff-and-color-selection). At a tournament, colors are often prearranged by the GTO. Always confirm to be sure everyone's on the same page.
 - [Starting benches and switching benches at halftime](#benches-bench-staff-and-color-selection).
 - Get a [bench staff count](#benches-bench-staff-and-color-selection) from each team and clarify whether or not that count includes a turn coach, if present. Assess whether the count complies with the association's requirements (WFTDA, MRDA, and JRDA are all different). Advise teams whether their turn coach may enter the bench area, based on those requirements.
-- Discuss any venue limitations and concerns. Make teams aware of boundaries around their bench areas and around the penalty box.
+- Discuss venue configurations, limitations, and concerns. Note the location of the mecial staff. Make teams aware of boundaries around their bench areas and around the penalty box.
 - Discuss any accommodations needed by the teams. See [Accommodations](#accommodations).
 - If this is a JRDA event, re-state the game level.
-- If this is a JRDA event, have both teams identify their parent chaperone.
+- If this is a JRDA event, have both teams identify their designated chaperone.
+- If this is a JRDA event, confirm whether coaches or officials will perform gear checks.
 - Have both teams review their rosters on the IGRF and strike anyone who will not be skating. If sanctioned, ensure both teams have 15 or fewer skaters slated to participate. If unsanctioned, whatever team- or league-level agreement is in place would hold.
-- Advise the captains where they are expected to sign the IGRF after the game.
+- Advise the captains (or adult coaches, for JRDA) where they are expected to sign the IGRF after the game.
+
+Only JRDA formally specifies the captains and coaches meeting (JRDA Sanctioning Policy, page 4). This guide is a superset of JRDA's expectations.
 
 In an unsanctioned context, or for local mix-up games, you may adopt a much less formal approach.
 
@@ -74,7 +77,7 @@ The communication of, management of, and enforcement of these policies is not fo
 **Bench Choice**: Home or higher seed chooses. ([JRDA Sanctioning Policy](https://www.juniorrollerderby.org/sanctioning-policy), page 4).
 **Bench Swap**: If either team wishes to swap. ([JRDA Sanctioning Policy](https://www.juniorrollerderby.org/sanctioning-policy), page 4).
 
-**Color Choice**: Home or higher seed chooses. ([JRDA Sanctioning Policy](https://www.juniorrollerderby.org/sanctioning-policy), page 3).
+**Color Choice**: Home or higher seed chooses. ([JRDA Sanctioning Policy](https://www.juniorrollerderby.org/sanctioning-policy), page 3). If there's no seeding or home team, the GTO assigns colors.
 
 ##### MRDA
 
@@ -88,9 +91,20 @@ The communication of, management of, and enforcement of these policies is not fo
 
 ##### Accommodations
 
-To ensure that roller derby remains accessible and equitable, we ask the teams to discuss any _accommodations_ needed by their skaters. An accommodation is a modification of the standard practice to make it accessible to a person who has a disability.
+To ensure that roller derby remains accessible and equitable, we ask the teams to discuss any _accommodations_ needed by their skaters. An accommodation is a modification of standard practice to make it accessible to a person who has needs distinct from what the rules anticipate.
 
-Historically, the discussion of accommodations has focused heavily on skaters who are deaf or hard of hearing, with accommodation requests focusing on when and if an Illegal Exit or Insubordination penalty would be given and on touch-based cueing in the penalty box.
+Historically, the discussion of accommodations has focused heavily on skaters who are deaf or hard of hearing, with accommodation requests focusing on when and if an Illegal Exit or Insubordination penalty would be given for failing to leave the track and on touch-based cueing in the penalty box.
+
+I believe in "accommodating-by-default roller derby". I open this section of the captains and coaches meeting by discussing the accommodating practices that teams may expect from the officials as a baseline. I then ask them to describe any _further_ accommodations their skaters require only in terms of the modification they need, and ask that they not disclose skaters' medical information.
+
+The accommodating baseline boils down to:
+
+1. Officials will ensure that a skater understands they are being penalized and has an opportunity to react before assessing a second penalty.
+1. In the penalty box, officials will give loud verbal cues and perform the standard visual cues in the skater's peripheral vision.
+
+I strongly discourage touch-based cueing in the penalty box. I advise captains that we make this available only if there is no other way to accommodate a skater's needs, because many officials prefer not to use touch-based cueing. I may need to re-arrange my staffing to make that accommodation available. If touch is the only way to accommodate a skater, they are asked to place one hand, palm up, behind them to be tapped with a pencil or clipboard.
+
+Accommodating practices do vary by region, and historic practices persist by inertia. Always focus on the needs of the skaters and of the officiating crew.
 
 #### Officials Meeting
 
@@ -118,6 +132,8 @@ I'll then turn it over to the Head Referee.
 - Penalty box layout vs. benches
 - Penalty box boundary
 - Medic location
+
+#### Number Checks
 
 ### In-Game
 
