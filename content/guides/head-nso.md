@@ -1,6 +1,6 @@
 ---
 title: "Head NSO"
-date: "2024-02-14"
+date: "2026-05-08"
 template: "guide.html"
 draft: true
 extra:
@@ -17,7 +17,26 @@ The Head NSO may or may not work another position during a game. If they do, it'
 
 #### Statsbook Preparation
 
+The Head NSO is typically responsible for preparing the Statsbook for the game. WFTDA and MRDA use the [WFTDA Statsbook](TODO), which is an Excel file. JRDA uses their own [Google Sheets](TODO)-based statsbook.
+
+The Statsbooks are well-documented by association resources. Review in detail:
+
+- WFTDA Statsbook Manual
+- JRDA Statsbook Manual
+
+To complete the statsbook fully, you'll need:
+
+1. Data about the event, such as location, time and date, and game number (if multi-game event)
+1. Rosters from both teams
+1. The officiating crew, including names, positions, league affiliations, and certification levels.
+
+In a non-sanctioned context, you may opt to be less rigorous about the Statsbook.
+
 #### Staffing
+
+The staffing process is highly variable.
+
+[Stave](https://stave.app)
 
 ### Pregame
 
@@ -38,11 +57,11 @@ Come to the Captains and Coaches meeting with an agenda, so that you do not forg
 - Introductions and pronouns for all attendees.
 - Identify the captains and alternates and ensure they have the A or C visible.
 - Establish the high and low seeds.
-- Establish how the teams will be cued, if this is a JRDA event or participating in the WFTDA team name cues pilot.
+- Establish how the teams will be cued, if this is a JRDA event or is participating in the WFTDA team name cues pilot.
 - Establish [colors](#benches-bench-staff-and-color-selection). At a tournament, colors are often prearranged by the GTO. Always confirm to be sure everyone's on the same page.
-- [Starting benches and switching benches at halftime](#benches-bench-staff-and-color-selection).
-- Get a [bench staff count](#benches-bench-staff-and-color-selection) from each team and clarify whether or not that count includes a turn coach, if present. Assess whether the count complies with the association's requirements (WFTDA, MRDA, and JRDA are all different). Advise teams whether their turn coach may enter the bench area, based on those requirements.
-- Discuss venue configurations, limitations, and concerns. Note the location of the mecial staff. Make teams aware of boundaries around their bench areas and around the penalty box.
+- Establish [starting benches and switching benches at halftime](#benches-bench-staff-and-color-selection).
+- Get a [bench staff count](#benches-bench-staff-and-color-selection) from each team and clarify whether or not that count includes a turn coach, if present. Assess whether the count complies with the association's requirements (WFTDA, MRDA, and JRDA are all different). Advise teams whether their turn coach may enter the bench area, based on those requirements. If this is a JRDA event, ensure that the bench staff are recorded on the IGRF.
+- Discuss venue configurations, limitations, and concerns. Note the location of the medical staff. Make teams aware of boundaries around their bench areas and around the penalty box.
 - Discuss any accommodations needed by the teams. See [Accommodations](#accommodations).
 - If this is a JRDA event, re-state the game level.
 - If this is a JRDA event, have both teams identify their designated chaperone.
@@ -102,9 +121,9 @@ The accommodating baseline boils down to:
 1. Officials will ensure that a skater understands they are being penalized and has an opportunity to react before assessing a second penalty.
 1. In the penalty box, officials will give loud verbal cues and perform the standard visual cues in the skater's peripheral vision.
 
-I strongly discourage touch-based cueing in the penalty box. I advise captains that we make this available only if there is no other way to accommodate a skater's needs, because many officials prefer not to use touch-based cueing. I may need to re-arrange my staffing to make that accommodation available. If touch is the only way to accommodate a skater, they are asked to place one hand, palm up, behind them to be tapped with a pencil or clipboard.
+I strongly discourage touch-based cueing in the penalty box. I advise captains that we make this available only if there is no other way to accommodate a skater's needs, because many officials prefer not to use touch-based cueing. I may need to re-arrange my staffing to make that accommodation available. If touch is the only way to accommodate a skater, they are asked to place one hand, palm up, behind them to be tapped with a pencil or clipboard. Note that in JRDA play, touch-based cueing should **never** be performed unless explicitly requested by the coach or the skater.
 
-Accommodating practices do vary by region, and historic practices persist by inertia. Always focus on the needs of the skaters and of the officiating crew.
+Accommodating practices do vary by region, and historical practices persist by inertia. Always focus on the needs of the skaters and of the officiating crew.
 
 #### Officials Meeting
 
@@ -124,20 +143,34 @@ At an officials meeting, my agenda typically looks like this:
 
 I'll then turn it over to the Head Referee.
 
+Either at the officials meeting or separately, but before the first whistle, I ensure that a few connections have taken place.
+
+- Make sure the scoreboard operator and the jam timer have discussed how they'll signal to one another.
+- Make sure the jam referees have met their scorekeepers.
+- Make sure the penalty lineup trackers and the penalty box staff know how they'll signal counts.
+- Make sure the jam timer knows who the captains and alternates are.
+
 #### Venue and Equipment Checks
 
-- Scorekeeper equipment
-- Penalty box equipment
-- Scoreboard with IGRF loaded
-- Penalty box layout vs. benches
-- Penalty box boundary
-- Medic location
+Before the game, I double-check that all of the items I and my crew will need are in place.
+
+- At the score table, two clipboards with the score sheets from the Statsbook, two pencils, two copies of the Rosters page from the Statsbook.
+- At the scoreboard station, a working keyboard and mouse, connection to the equipment used to display the scoreboard in the venue, and the IGRF loaded in the software.
+- In the penalty box, two clipboards with the Penalty Box sheets from the Statsbook, two pencils, at least six stopwatches, a Penalty Box Whiteboard, a whiteboard marker, and an eraser.
+- At the penalty box, colored swatches that denote which team is on which side. By convention but not by rule, these should be positioned opposite to the team benches; whether that alignment is meaningful differs by venue.
+- At the penalty box, the box boundary clearly marked on the floor.
+- I know where the medical staff are located.
 
 #### Number Checks
 
 ### In-Game
 
 During the game, you may or may not be working another role. In your role as HNSO, there are a few distinct responsibilities.
+#### IGRF
+
+Ensure that your Penalty Lineup Trackers and Penalty Box Timers agree on penalty counts. Record the total penalty count for each team on the IGRF. Ensure that the period totals add up to the game total.
+
+Ensure that the Scorekeepers have checked their math. Record the total score for each team on the IGRF. (TODO: offsets)
 
 #### Observing, Evaluating, and Developing Officials
 
@@ -150,11 +183,11 @@ There are three main contexts where you'll use your observations.
 1. In formal or informal written evaluations, to help officials grow and to attest to their performance to others.
 
 Devote as much attention as you're able to the performance of the officials on your crew.
-Post-game evals
+Post-game evals TODO
 
 #### Handling Challenges
 
-Roller derby never goes 100% according to plan. Part of your responsibility as the Head NSO is to assess situations where things _aren't_ going to plan and decide how to respond. There's no one right way to do this. It's about bringing your deep knowledge of the game, your relationship with your crew, and your assessment of impact together to decide on a course of action.
+Roller derby never goes 100% according to plan. Part of your responsibility as the Head NSO is to assess situations where things _aren't_ going to plan and decide how to respond. Along with the head referee, you're both the last route of appeal and the official positioned to observe and intervene as needed. There's no single right way to do this. It's about bringing your deep knowledge of the game, your relationship with your crew, and your assessment of impact together to decide on a course of action.
 
 It is also part of your responsibility to make hard choices that are visible to everyone and that impact the flow of the game. That can be a tough responsibility to shoulder, and it's why you should always found your choices on the letter and the principles behind the Rules, the Sanctioning Policy, and the Risk Management Guidelines.
 
@@ -201,21 +234,20 @@ This mobility allows you to ensure that communication flows between the three of
 - Support Penalty Lineup Trackers in getting missed penalty information
 - Convey the success or failure of an Official Review, if an alt is not available to do so.
 
+The more experienced your crew is, the less you'll need to play this role.
+
 #### Official Reviews
 
 #### Managing Disagreement and Conflicts
 
-All leadership roles involve some level of conflict resolution. That can run the gamut from interpersonal problems to different training backgrounds to disagreements about what the Rules actually say.
+All leadership roles involve some level of conflict resolution. That can run the gamut from interpersonal problems to different training backgrounds to disagreements about what the Rules actually say. There's no single correct approach to resolving conflict. It always rests on the persons involved (including you!), on your relationship to the parties, and on the context. That said, there's a three-prong principle that I have found to be widely applicable:
 
-1. Set the grounding goals, values, and requirements. These are always drawn from the Rules, Officiating Procedures, Sanctioning Policy, and other governing documents.
-1. Set what kind of outcome you want. The officials should succeed as a team in achieving the goals set by the grounding documents.
-1. No individual is going to win or lose this interaction.
+1. Step back. Remove my ego and personal stake in the conversation, and by doing so invite the other parties to do the same.
+1. Reground. Establish the shared values and goals we're working towards. In a roller derby context, these are always drawn from the Rules, Officiating Procedures, Sanctioning Policy, and other governing documents.
+1. Move forward. Define what an outcome looks like. Nobody is going to win; we're going to try to achieve consensus based on our shared values and goals.
 
-#### IGRF
+You'll develop your own rhythm and strategy for managing disagreements as you practice.
 
-Ensure that your Penalty Lineup Trackers and Penalty Box Timers agree on penalty counts. Record the total penalty count for each team on the IGRF. Ensure that the period totals add up to the game total.
-
-Ensure that the Scorekeepers have checked their math. Record the total score for each team on the IGRF. (TODO: offsets)
 
 ### After Game
 
