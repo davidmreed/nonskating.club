@@ -17,32 +17,63 @@ The Head NSO may or may not work another position during a game. If they do, it'
 
 #### Statsbook Preparation
 
-The Head NSO is typically responsible for preparing the Statsbook for the game. WFTDA and MRDA use the [WFTDA Statsbook](TODO), which is an Excel file. JRDA uses their own [Google Sheets](TODO)-based statsbook.
+The Head NSO is typically responsible for preparing the Statsbook for the game. WFTDA and MRDA use the [WFTDA Statsbook](https://resources.wftda.org/competition/statsbook/), which is an Excel file. JRDA uses their own [Google Sheets](https://www.juniorrollerderby.org/scores-stats)-based statsbook.
 
 The Statsbooks are well-documented by association resources. Review in detail:
 
-- WFTDA Statsbook Manual
-- JRDA Statsbook Manual
+- [WFTDA Statsbook Manual](https://static.wftda.com/stats/wftda-statsbook-manual.pdf) (MRDA uses the WFTDA statsbook).
+- [JRDA Statsbook Manual](https://www.juniorrollerderby.org/scores-stats)
 
 To complete the statsbook fully, you'll need:
 
-1. Data about the event, such as location, time and date, and game number (if multi-game event)
-1. Rosters from both teams
+1. Data about the event, such as location, time and date, and game number (if multi-game event).
+1. Rosters from both teams (see below under [Number Checks](#number-checks) for notes about charters).
 1. The officiating crew, including names, positions, league affiliations, and certification levels.
 
-In a non-sanctioned context, you may opt to be less rigorous about the Statsbook.
+The statsbook has (at least) two roles. One is to provide the required data for sanctioning a game, which of course applies only in a sanctioned context. The other is to provide printable sheets for officials to use during the game.
+
+If you're sanctioning a game, be rigorous with your statsbook and follow the guidelines provided by the association (WFTDA, etc.) carefully. Omissions and errors can result in your submission being refused. If you're not sanctioning the game, you have more freedom to be pragmatic.
+
+You should come to the event with a printed copy of the statsbook as well as a complete XLSX file that you can upload into the scoreboard. If you're using the JRDA statsbook, you can do `File -> Download -> Microsoft Excel (.xlsx)` to get an offline version.
 
 #### Staffing
 
-The staffing process is highly variable.
+The head NSO is often, but not always, responsible for staffing. That can include recruitment as well as assigning officials to specific roles.
 
-[Stave](https://stave.app)
+Staffing can work wildly differently across leagues, regions, and contexts. This guide will not presume to offer a workflow: talk to the rest of your event leadership team to get a sense of how things are done where you're working.
+
+There're a few principles that I think are broadly applicable for building out a crew, but in no way universal. Keep an open mind, especially as you travel to new regions.
+
+I think of the NSO crew as three distinct clusters:
+
+1. The score table (SBO + SK + SK).
+1. The penalty box (PBM + PBT + PBT).
+1. The center (JT + PLT + PLT + optional PW + optional HNSO)
+
+I like to site one of my more experienced officials in each cluster to anchor that group. That is most often, but not necessarily, the HNSO in the center (with whatever second role they're working); the penalty box manager in the box; and the SBO at the score table.
+
+Know your officials' needs and preferences. Whenever possible, I love to support officials' growth by letting them try a newer role, with backup from someone more experienced. Some folks prefer to focus on deep mastery of one or two roles. Some officials cannot stand for long periods of time. Some officials' personalities clash with one another (even if they're both lovely people). When you build a crew, you're solving a complex set of constraints. Do the best you can with what you have.
+
+You should always communicate with your crew in advance of the event. Some good data to share in your pregame email are:
+
+- The date, time, and location of the event.
+- The person's schedule (usually via a link to a shared document).
+- The call time and time of an officials' meeting, if any.
+- Expectations around dress.
+- Anything they need to know to access the venue (parking, gates, check-in points).
+- What food and drink will be available.
+
+Your own communication style and your familiarity with the crew will shape what you send out. It's important to remember, though, that communicating explicitly and proactively can help you include newer and visiting officials.
+
+The [JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures) include detailed analyses of staffing scenarios for when you do not have enough officials.
+
+Stacktrace, the author of this guide, also built [Stave](https://stave.app), a free and open source application for managing roller derby staffing.
 
 ### Pregame
 
 #### Captains and Coaches Meeting
 
-The Captains and Coaches meeting is not strictly codified in all cases. It's a pragmatic way for the officials and the team leadership to exchange important information about how the game will run. Typically, the meeting will include:
+The Captains and Coaches meeting is not strictly codified everywhere. (It's only specified by [JRDA Sanctioning Policy](https://www.juniorrollerderby.org/sanctioning-policy), p. 4). It's often a pragmatic way for the officials and the team leadership to exchange important information about how the game will run. Typically, the meeting will include:
 
 - You, the Head NSO
 - The Head Referee
@@ -58,18 +89,18 @@ Come to the Captains and Coaches meeting with an agenda, so that you do not forg
 - Identify the captains and alternates and ensure they have the A or C visible.
 - Establish the high and low seeds.
 - Establish how the teams will be cued, if this is a JRDA event or is participating in the WFTDA team name cues pilot.
-- Establish [colors](#benches-bench-staff-and-color-selection). At a tournament, colors are often prearranged by the GTO. Always confirm to be sure everyone's on the same page.
+- Establish [colors](#benches-bench-staff-and-color-selection). At a tournament, colors are often prearranged by the GTO. Always confirm to be sure everyone's on the same page. Ensure that the colors (including on helmet covers) meet the standard for contrast set by the association's sanctioning policy.
 - Establish [starting benches and switching benches at halftime](#benches-bench-staff-and-color-selection).
 - Get a [bench staff count](#benches-bench-staff-and-color-selection) from each team and clarify whether or not that count includes a turn coach, if present. Assess whether the count complies with the association's requirements (WFTDA, MRDA, and JRDA are all different). Advise teams whether their turn coach may enter the bench area, based on those requirements. If this is a JRDA event, ensure that the bench staff are recorded on the IGRF.
 - Discuss venue configurations, limitations, and concerns. Note the location of the medical staff. Make teams aware of boundaries around their bench areas and around the penalty box.
 - Discuss any accommodations needed by the teams. See [Accommodations](#accommodations).
-- If this is a JRDA event, re-state the game level.
-- If this is a JRDA event, have both teams identify their designated chaperone.
-- If this is a JRDA event, confirm whether coaches or officials will perform gear checks.
-- Have both teams review their rosters on the IGRF and strike anyone who will not be skating. If sanctioned, ensure both teams have 15 or fewer skaters slated to participate. If unsanctioned, whatever team- or league-level agreement is in place would hold.
+- Have both teams review their rosters on the IGRF and strike anyone who will not be skating. If sanctioned, ensure both teams have 15 or fewer skaters slated to participate. (See below under [Number Checks](#number-checks) for references). If unsanctioned, whatever team- or league-level agreement is in place would hold.
 - Advise the captains (or adult coaches, for JRDA) where they are expected to sign the IGRF after the game.
 
-Only JRDA formally specifies the captains and coaches meeting (JRDA Sanctioning Policy, page 4). This guide is a superset of JRDA's expectations.
+If this is a JRDA event, also
+- Re-state and confirm the game level.
+- Have both teams identify their designated chaperone.
+- Confirm whether coaches or officials will perform gear checks.
 
 In an unsanctioned context, or for local mix-up games, you may adopt a much less formal approach.
 
@@ -81,32 +112,43 @@ The communication of, management of, and enforcement of these policies is not fo
 
 ##### WFTDA
 
-**Bench Staff**: Maximum of 4 + 1 turn coach. Turn coach may enter bench only if <4 other staff.
+WFTDA's Bench Staff policy applies to **all sanctioned events**.
 
-**Bench Choice**: Specified only for postseason: higher seed chooses. FIXME CITE
+**Bench Staff**: At least two must be allowed. The maximum is 4, venue space permitting, plus 1 turn coach. The turn coach may also be a bench staff member, subject to the maximum of 4 total, and may enter the bench area in that case. [WFTDA Sanctioning Policy](https://static.wftda.com/sanctioning/wftda-sanctioning-policy.pdf), p. 7.
 
-**Bench Swap**: Specified only for postseason: swap is required.
+WFTDA's other policies apply **only to the postseason**. These policies are otherwise unspecified by the association, and are set at the event level.
 
-**Color Choice**: Specified only for postseason: higher seed chooses.
+**Bench Choice**: Higher seed chooses ([WFTDA Postseason Tournament Policies and Procedures](https://static.wftda.com/files/competition/wftda-postseason-tournament-policies-and-procedures.pdf), p. 8).
+
+**Bench Swap**: Swap is required ([WFTDA Postseason Tournament Policies and Procedures](https://static.wftda.com/files/competition/wftda-postseason-tournament-policies-and-procedures.pdf), p. 8).
+
+**Color Choice**: Higher seed chooses ([WFTDA Postseason Tournament Policies and Procedures](https://static.wftda.com/files/competition/wftda-postseason-tournament-policies-and-procedures.pdf), p. 7).
 
 ##### JRDA
+
+JRDA's policies apply to **all sanctioned events**.
 
 **Bench Staff**: Maximum of 4 **including** turn coach, if any. Turn coach may enter bench area. ([JRDA Sanctioning Policy](https://www.juniorrollerderby.org/sanctioning-policy), page 5).
 
 **Bench Choice**: Home or higher seed chooses. ([JRDA Sanctioning Policy](https://www.juniorrollerderby.org/sanctioning-policy), page 4).
+
 **Bench Swap**: If either team wishes to swap. ([JRDA Sanctioning Policy](https://www.juniorrollerderby.org/sanctioning-policy), page 4).
 
 **Color Choice**: Home or higher seed chooses. ([JRDA Sanctioning Policy](https://www.juniorrollerderby.org/sanctioning-policy), page 3). If there's no seeding or home team, the GTO assigns colors.
 
 ##### MRDA
 
-**Bench Staff**: Maximum of 4. Turn coaches do not count as bench staff and may not enter the track or bench areas.
+MRDA's Bench Staff policy applies to **all sanctioned events**.
 
-**Bench Choice**: Specified only for MRDA Endorsed Tournaments: High seed chooses. FIXME CITE
+**Bench Staff**: At least two must be allowed. The maximum is 4, venue space permitting. One turn coach is permitted but may not be bench staff and is not counted towards the 4; they may not enter the track or bench areas. ([MRDA Policies and Procedures](https://documents.mrda.org/), p. 37)
+
+MRDA's other policies apply only to **MRDA Endorsed Tournaments**.
+
+**Bench Choice**: High seed chooses ([MRDA Endorsed Tournament Playbook](https://documents.mrda.org/), p. 7).
 
 **Bench Swap**: No policy found.
 
-**Color Choice**: Specified only for MRDA Endorsed Tournaments: high seed chooses.
+**Color Choice**: High seed chooses ([MRDA Endorsed Tournament Playbook](https://documents.mrda.org/), p. 7).
 
 ##### Accommodations
 
@@ -121,7 +163,7 @@ The accommodating baseline boils down to:
 1. Officials will ensure that a skater understands they are being penalized and has an opportunity to react before assessing a second penalty.
 1. In the penalty box, officials will give loud verbal cues and perform the standard visual cues in the skater's peripheral vision.
 
-I strongly discourage touch-based cueing in the penalty box. I advise captains that we make this available only if there is no other way to accommodate a skater's needs, because many officials prefer not to use touch-based cueing. I may need to re-arrange my staffing to make that accommodation available. If touch is the only way to accommodate a skater, they are asked to place one hand, palm up, behind them to be tapped with a pencil or clipboard. Note that in JRDA play, touch-based cueing should **never** be performed unless explicitly requested by the coach or the skater.
+I strongly discourage touch-based cueing in the penalty box. I advise captains that we make this available only if there is no other way to accommodate a skater's needs, because many officials prefer not to use touch-based cueing. I may need to re-arrange my staffing to make that accommodation available. If touch is the only way to accommodate a skater, they are asked to place one hand, palm up, behind them to be tapped with a pencil or clipboard. Note that in JRDA play, touch-based cueing should **never** be performed unless explicitly requested by the coach or the skater ([JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures) 8.2).
 
 Accommodating practices do vary by region, and historical practices persist by inertia. Always focus on the needs of the skaters and of the officiating crew.
 
@@ -163,12 +205,23 @@ Before the game, I double-check that all of the items I and my crew will need ar
 
 #### Number Checks
 
+Before the game, ensure that skaters' numbers are checked against the roster on the IGRF. The Penalty Lineup Trackers often perform this check. It can be done during warmups or by approaching the benches. Verify that each skater's number matches the roster and that no additional skaters are present. If any skaters are not present but are _not_ struck through on the IGRF, double-check with a coach to determine if that skater will participate, and ensure their number is checked too.
+
+There is both a pragmatic and a policy reason for performing number checks. Pragmatically, in all contexts, it's confusing and disruptive to discover during gameplay that a player's number doesn't match the roster, or that the player isn't on the roster at all. Catching this before first whistle lets you fix it.
+
+Sanctioning takes rosters very seriously. Skaters must be listed on the league's charter to participate in a sanctioned game. ([WFTDA Sanctioning Policy](https://static.wftda.com/sanctioning/wftda-sanctioning-policy.pdf), p. 9, [WFTDA Charter Roster Policy](https://static.wftda.com/sanctioning/wftda-charter-roster-policy.pdf); [JRDA Sanctioning Policy](https://www.juniorrollerderby.org/sanctioning-policy); [MRDA Policies and Procedures](https://documents.mrda.org/), p. 29).
+
+You can review the current charters for [WFTDA](https://drive.google.com/drive/folders/1CsUcoehaJLQiQD2bMI0n2YuVWYTOUJ9y?usp=share_link) and for [JRDA](https://www.juniorrollerderby.org/charters). TODO MRDA
+
+If the skater's number as shown on the IGRF is incorrect, but their number matches the charter, fix the IGRF, along with the scoreboard and other paperwork. The charter is authoritative.
+
 ### In-Game
 
 During the game, you may or may not be working another role. In your role as HNSO, there are a few distinct responsibilities.
+
 #### IGRF
 
-Ensure that your Penalty Lineup Trackers and Penalty Box Timers agree on penalty counts. Record the total penalty count for each team on the IGRF. Ensure that the period totals add up to the game total.
+After each period, you should be populating scores and penalty counts on the IGRF. Ensure that your Penalty Lineup Trackers and Penalty Box Timers agree on penalty counts before you record that datum.
 
 Ensure that the Scorekeepers have checked their math. Record the total score for each team on the IGRF. (TODO: offsets)
 
@@ -198,28 +251,29 @@ Working through a few examples may be helpful.
 **You observe that your Jam Timer is issuing cues based on their stopwatch rather than the scoreboard**.
 
 - **What is the issue?** The Jam Timer is not cueing based on the official scoreboard (Rules 1.4) but by their own stopwatch. This might result in there being a small difference in time between the cue and what skaters and others observe on the scoreboard.
-- **What is the game impact?**
-- **What are your options?**
+- **What is the game impact?** Skaters and others who rely on the visual of the scoreboard are disadvantaged relative to those who can hear the Jam Timer's whistle.
+- **What are your options?** This is a good time to "nudge" the official. I always aim to do this while they're not otherwise occupied (during a jam, for the Jam Timer). I'll ask "Hey, can I give you a quick piece of feedback?" (They might be struggling with something I'm not aware of, and not ready to hear it). Then I'll tell them what I need them to do, and if time permits, _why_. I always try to share that context because it gives the receiving official the knowledge of what they're working towards, not just the sense that they've done something incorrect. Expediency doesn't always permit many words in this circumstance; sometimes it has to be "Please do this; we'll discuss later."
 
 **The scoreboard does not start during a jam**.
 
 - **What is the issue?** The scoreboard being down means that Rules 1.4 is being violated.
 - **What is the game impact?** Skaters and coaches rely on the displayed clocks and scores to make decisions, including during the jam. The game is no longer compliant with the requirements for Sanctioned or Regulation play.
-- **What are your options?**
+- **What are your options?** Whistle the jam dead and go into an Official Time Out. Fix the scoreboard! TODO: The jam-clock adjustment thing from OPs
 
 **Your Penalty Lineup Tracker tells you they are signaling six penalties to the box, but the box says only five**.
 
-- **What is the issue?** A disconnect in penalty counts means that you risk fouling out a skater at the wrong time.
-- **What is the game impact?** If the skater receives an additional penalty, the right action for the officials to take is not clear.
+- **What is the issue?** A disconnect in penalty counts means that you risk fouling out a skater at the wrong time. Additionally, teams may make lineup decisions based on what they believe the penalty count to be.
+- **What is the game impact?** If the skater receives an additional penalty, the right action for the officials to take is not clear. Teams may make suboptimal decisions because they are viewing incorrect data.
 - **What are your options?** *If* the skater receives an additional penalty during the jam, stop the jam and call an Official Time Out. Reconcile the penalty counts and ensure that the skater is correctly fouled out, or not fouled out. If the skater does not receive an additional penalty, call an Official Time Out after the jam and reconcile.
 - **Rationale**: This decision sequence minimizes impact to the flow of the game, while ensuring that the _much larger_ impact of a skater being fouled out or not fouled out incorrectly is avoided. Note that if the discrepancy were between 3 and 4 penalties, you'd almost never need to stop gameplay to address it.
 
 **You notice that the turn coach is wearing flip-flops**.
 
-- **What is the issue?** This is a violation of the Risk Management Guidelines, which are mandatory for events covered by WFTDA Insurance. FIXME: cite
+- **What is the issue?** This is a violation of the Risk Management Guidelines, which are mandatory for events covered by WFTDA Insurance. ([WFTDA Risk Management Guidelines](https://static.wftda.com/insurance/wftda-risk-management-guidelines.pdf), 4.1, p. 9; [JRDA Risk Management Policy](https://www.juniorrollerderby.org/risk-management), p. 2; MRDA follows WFTDA).
 - **What is the game impact?** There's no game impact. It's an insurance concern, and a personal injury concern (a skate to the coach's unprotected feet could produce a serious injury).
-- **What are your options?** Stop the jam, if one is running. Call an Official Time Out. Tell the coach they must leave the play area until they have closed-toed shoes on. Issue a Delay of Game penalty to the team captain (FIXME).
+- **What are your options?** Stop the jam, if one is running. Call an Official Time Out. Tell the coach they must leave the play area until they have closed-toed shoes on. Issue an Illegal Procedure (Equipment Violation) penalty to the team captain (see [Casebook Scenario C4.2.4.G](https://rules.wftda.com/casebook/04_c_penalties.html#other-illegal-procedures)).
 
+**It will never be possible to codify responses to all of the situations that happen in a roller derby game**. Focus your energy and attention on what the Rules and the Casebook say, the principles _behind_ what they say, and how you can best apply that information to maintain safety and game flow.
 
 #### Communication
 
@@ -234,9 +288,15 @@ This mobility allows you to ensure that communication flows between the three of
 - Support Penalty Lineup Trackers in getting missed penalty information
 - Convey the success or failure of an Official Review, if an alt is not available to do so.
 
-The more experienced your crew is, the less you'll need to play this role.
+The more experienced your crew is, the less you'll need to play this role. However, it's almost always going to be true that you are present in decision-making, able to hear and transfer information across the track, and have direct access to the skating officials. Use that to enable the officials around you.
 
 #### Official Reviews
+
+Only the Head Referee is required by [Rules 1.3.2](https://rules.wftda.com/singlehtml/index.html#document-01_params) to participate in Official Reviews. However, it's usually beneficial for the Head NSO to be present. In many cases, you'll be involved in implementing the outcome of the Official Review (such as adding or rescinding a penalty), and you may have relevant information to share with the other officials.
+
+Someone should complete the Official Review paperwork during the review. If an Alt Referee or Alt NSO is staffed, they should typically assume this responsibility. If not, the HNSO can complete it.
+
+The Scoreboard Operator needs to know if the review is retained or not. There is no standard way to signal this; a convention I like is to signal the _number of reviews remaining_. Thus, a hand signaling "zero" over the chest means "not retained" - no reviews remaining. A hand signaling "one" means "retained" - one review remaining. Thumbs up and down are also widely used but can have ambiguous meaning.
 
 #### Managing Disagreement and Conflicts
 
@@ -248,84 +308,35 @@ All leadership roles involve some level of conflict resolution. That can run the
 
 You'll develop your own rhythm and strategy for managing disagreements as you practice.
 
+What this can look like in practice TODO
 
 ### After Game
 
 Sanctioning paperwork
 
-Evals
+Complete all of the data entry in the statsbook
 
-## The HNSO at a League
+- Score totals
+- Penalty totals
+- JRDA: timeout and official reviews
+- Suspensions and expulsions
 
-## The HSNO at a Tournament
+**Make sure to review the statsbook manual closely**, as it includes detailed requirements for completing the IGRF. This guide is explicitly not comprehensive as to data points you need to enter. Always follow the statsbook manual.
 
+Once your data entry is complete, get the signatures of the two captains (or adult coaches, in JRDA) and of your head referee. Sign the IGRF yourself.
 
+Download the stats from the scoreboard
 
-## Not Having Enough Officials
+#### Scores and Stats Submissions
 
-A full NSO crew is between nine and twelve people, depending on whether the Head NSO works a role and whether the Penalty Wrangler and Alternate NSO roles are staffed.
+[JRDA](https://www.juniorrollerderby.org/scores-stats): Official Score, signed IGRF, and Expulsion Forms submitted online within 48 hours. Completed statsbook submitted online within 14 days.
 
-- Head NSO
-- PLT x2
-- PW (optional)
-- PBM
-- PBT x2
-- SK x2
-- SBO
-- JT
-- ALTN (optional)
+Adam Smasher's statsbook checker tool
 
-Many, many games do not have enough NSOs to fully staff that crew level. THere are a number of options for "gracefully degrading": using fewer officials without negatively impacting gameplay. Your choices on _how_ to do that depend heavily on the experience of your crew and, most of all, on whether or not the game is sanctioned.
+WFTDA has [submission instructions](https://resources.wftda.org/competition/wftda-competition-and-rankings/#sanctioning)
 
-### Sanctioned Games
+MRDA scores in 24 hours via MRDA CEntral; IGRF 48 hours; statsbook 2 weeks or 4 weeks for 5+ game events. All in MRDA Cewntral. MRDA Policies and Procesures p. 29-30
 
-In a sanctioned game, you _must_ staff officials to populate the score, penalties, and lineups sections of the Statsbook, as well as to meet the other requirements of the Rules. The bare minimum crew to run a sanctioned game is likely to be five people:
+#### Officiating Evals
 
-- PLT x2
-- PBM
-- SBO
-- JT
-
-with the Head NSO filling one of those roles. This would be excruciating for the PBM and SBO, who would be at high risk of failing their mandatory responsibilities under the rules. Staffing at this level would increase the chance of a mistake or omission that would imperil the sanction. More aggressive reductions, like trying to have the Jam Timer also PLT or SBO, are almost certain to fail.
-So with a best case of ten and an absolute worst case of five, where do you go if you have, say, seven? Here are some example lineups you could roll out.
-
-8 NSOs:
-
-- PLT x2
-- PBT x2 (each managing 3 seats)
-- SK x2
-- SBO
-- JT
-
-- PLT x2
-- PBM
-- PBT x2
-- SK x1
-- SBO+SK
-- JT
-
-7 NSOs:
-
-- PLT x2
-- PBT x2 (each managing 3 seats)
-- SK x1
-- SBO+SK
-- JT
-
-If the game is not sanctioned, you can swap PLT x2 for PT x1 and move the remaining NSO to either SK or PBM, based on your crew's experience level. (Sanctioned games _require_ lineups to be completed). Hence:
-
-
-- PT x1
-- PBT/M x2 or x3
-- SK x1 or x2
-- SBO or SBO+SK
-- JT
-
-6 NSOs:
-
-- JT+PT
-- PBT/M x2 or x3
-- SBO+SK
-- SK
-
-In a non-sanctioned context,
+TODO
