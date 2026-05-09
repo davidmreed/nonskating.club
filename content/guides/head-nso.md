@@ -34,7 +34,7 @@ The statsbook has (at least) two roles. One is to provide the required data for 
 
 If you're sanctioning a game, be rigorous with your statsbook and follow the guidelines provided by the association (WFTDA, etc.) carefully. Omissions and errors can result in your submission being refused. If you're not sanctioning the game, you have more freedom to be pragmatic.
 
-You should come to the event with a printed copy of the statsbook as well as a complete XLSX file that you can upload into the scoreboard. If you're using the JRDA statsbook, you can do `File -> Download -> Microsoft Excel (.xlsx)` to get an offline version.
+You should come to the event with a printed copy of the statsbook as well as a completed XLSX file that you can upload into the scoreboard. If you're using the JRDA statsbook, you can do `File -> Download -> Microsoft Excel (.xlsx)` to get an offline version.
 
 #### Staffing
 
@@ -63,7 +63,7 @@ You should always communicate with your crew in advance of the event. Some good 
 - Anything they need to know to access the venue (parking, gates, check-in points).
 - What food and drink will be available.
 
-Your own communication style and your familiarity with the crew will shape what you send out. It's important to remember, though, that communicating explicitly and proactively can help you include newer and visiting officials.
+Your own communication style and your familiarity with the crew will shape what you send out. It's important to remember, though, that communicating explicitly and proactively can help you include newer and visiting officials, who might not know how things are usually set up.
 
 The [JRDA Officiating Procedures](https://www.juniorrollerderby.org/officiating-procedures) include detailed analyses of staffing scenarios for when you do not have enough officials.
 
@@ -215,28 +215,37 @@ You can review the current charters for [WFTDA](https://drive.google.com/drive/f
 
 If the skater's number as shown on the IGRF is incorrect, but their number matches the charter, fix the IGRF, along with the scoreboard and other paperwork. The charter is authoritative.
 
+In a tournament context, involve the GTO if you need assistane resolving roster and charter concerns.
+
 ### In-Game
 
 During the game, you may or may not be working another role. In your role as HNSO, there are a few distinct responsibilities.
 
 #### IGRF
 
-After each period, you should be populating scores and penalty counts on the IGRF. Ensure that your Penalty Lineup Trackers and Penalty Box Timers agree on penalty counts before you record that datum.
+After each period, you should be populating scores and penalty counts on the IGRF. Ensure that your Penalty Lineup Trackers and Penalty Box Timers agree on penalty counts before you record that datum, and assist in reconciliation if needed.
 
-Ensure that the Scorekeepers have checked their math. Record the total score for each team on the IGRF. (TODO: offsets)
+Ensure that the Scorekeepers have checked their math and completed the verification columns on their paperwork. Record the period score for each team on the IGRF. If there is a discrepancy between the official score and the score sheets, record the offset on the IGRF and the Offsets sheet in the statsbook. Note that a math error on the score sheet can usually just be corrected if it brings the paperwork in line with the official score. The record of points and trips should never be altered, however. Offsets are used to correct errors that became part of the official score.
 
 #### Observing, Evaluating, and Developing Officials
 
 Offering constructive feedback is an art that every leader practices differently. It's not easy, and it takes both practice and self-awareness.
 
+Devote as much attention as you're able to the performance of the officials on your crew. The statsbook includes a page for you to record notes about each crew member, or you can take notes elsewhere. Specificity is helpful when you give feedback: "JT is doing great" is good to know, but "JT correctly called Delay of Game when team failed to field a jammer" or "JT needs to make jam-start whistle short and sharp" is much better. I try to compile feedback that reflects both what I'd like to see officials work on _and_ what I recognize that they are doing well. Keep in mind that positive feedback is not just to be used to soften the blow of constructive criticism! It's your chance to reinforce good practices and let officials know that you recognize their expertise.
+
 There are three main contexts where you'll use your observations.
 
-1. In-game, to nudge officials onto the right path.
+1. In-game, to nudge officials onto the right path or express appreciation for something done particularly well.
 1. As part of coaching outside the game to help officials grow.
 1. In formal or informal written evaluations, to help officials grow and to attest to their performance to others.
 
-Devote as much attention as you're able to the performance of the officials on your crew.
-Post-game evals TODO
+I always aim to do in-game coaching while the official is not otherwise occupied (during a jam, for the Jam Timer). I'll ask "Hey, can I give you a quick piece of feedback?" (They might be struggling with something I'm not aware of, and not ready to hear it). Then I'll tell them what I need them to do, and if time permits, _why_. I always try to share that context because it gives the receiving official the knowledge of what they're working towards, not just the sense that they've done something incorrect. Expediency doesn't always permit many words in this circumstance; sometimes it has to be "Please do this; we'll discuss later." If there's minimal game impact and the feedback can wait, I hold onto it for halftime or after the game.
+
+Couch your supportive feedback in your knowledge of the official's level and the game context. A first-time Scoreboard Operator should hear "I saw you fix that clock. Nice communication with the Jam Timer". An experienced Penalty Box Manager might get "Beautiful A-B-A jammer swap." Good constructive feedback lets the official know that you saw and recognized their skill.
+
+It's important to acknowledge when an official acts on your feedback. They may be wondering whether they're hitting the mark that you set. Make a note of how they respond, too: it's important context for an eval, if you write one for that official.
+
+We'll discuss post-game feedback more in [Officiating Evals](#officiating-evals).
 
 #### Handling Challenges
 
@@ -250,15 +259,15 @@ Working through a few examples may be helpful.
 
 **You observe that your Jam Timer is issuing cues based on their stopwatch rather than the scoreboard**.
 
-- **What is the issue?** The Jam Timer is not cueing based on the official scoreboard (Rules 1.4) but by their own stopwatch. This might result in there being a small difference in time between the cue and what skaters and others observe on the scoreboard.
-- **What is the game impact?** Skaters and others who rely on the visual of the scoreboard are disadvantaged relative to those who can hear the Jam Timer's whistle.
-- **What are your options?** This is a good time to "nudge" the official. I always aim to do this while they're not otherwise occupied (during a jam, for the Jam Timer). I'll ask "Hey, can I give you a quick piece of feedback?" (They might be struggling with something I'm not aware of, and not ready to hear it). Then I'll tell them what I need them to do, and if time permits, _why_. I always try to share that context because it gives the receiving official the knowledge of what they're working towards, not just the sense that they've done something incorrect. Expediency doesn't always permit many words in this circumstance; sometimes it has to be "Please do this; we'll discuss later."
+- **What is the issue?** The Jam Timer is not cueing based on the official scoreboard (Rules 1.4) but by their backup stopwatch. This might result in there being a small difference in time between the cue and what skaters and others observe on the scoreboard.
+- **What is the game impact?** Skaters and others who rely on the visual of the scoreboard may be disadvantaged relative to those who can hear the Jam Timer's whistle, if the Jam Timer's stopwatch is even slightly (less than a second) misaligned with the scoreboard.
+- **What are your options?** This is a good time to "nudge" the official, as we discussed in [Observing, Evaluating, and Developing Officials](#observing-evaluating-and-developing-officials). The game impact is not massive, but it is real, and you can help the official improve their work immediately.
 
 **The scoreboard does not start during a jam**.
 
 - **What is the issue?** The scoreboard being down means that Rules 1.4 is being violated.
 - **What is the game impact?** Skaters and coaches rely on the displayed clocks and scores to make decisions, including during the jam. The game is no longer compliant with the requirements for Sanctioned or Regulation play.
-- **What are your options?** Whistle the jam dead and go into an Official Time Out. Fix the scoreboard! TODO: The jam-clock adjustment thing from OPs
+- **What are your options?** Whistle the jam dead and go into an Official Time Out. Fix the scoreboard! (In a non-sanctioned context, you can give your scoreboard operator a bit of grace to try to fix the scoreboard, but it being down does have significant game impact and falls outside the rules).
 
 **Your Penalty Lineup Tracker tells you they are signaling six penalties to the box, but the box says only five**.
 
@@ -283,7 +292,7 @@ This mobility allows you to ensure that communication flows between the three of
 
 - Ensure that a failed or illegal Star Pass is noted as such by the scorekeepers.
 - Guide officials on how to number a jam that was started in error.
-- Overtime jams, Sudden Scoring, injury continuations
+- Overtime jams, sudden scoring, injury continuations
 - Getting a substitute in the penalty box
 - Support Penalty Lineup Trackers in getting missed penalty information
 - Convey the success or failure of an Official Review, if an alt is not available to do so.
@@ -308,35 +317,50 @@ All leadership roles involve some level of conflict resolution. That can run the
 
 You'll develop your own rhythm and strategy for managing disagreements as you practice.
 
-What this can look like in practice TODO
+There are times when the question is one of _fact_. "What is the rule for X situation?" Experience as an official isn't necessarily the decider here, as rules and procedures change over time and experienced officials sometimes retain older versions. Don't be afraid to admit ignorance and involve other officials where you need to, such as an HR, THNSO, or GTO. It's more important to get it right in the end and preserve the safety and integrity of the game than it is to be right on the first impulse. Bear in mind, too, that you'll still make mistakes and that's not the end of the world. The teams can use their Official Review if they need you to revisit a decision.
 
 ### After Game
 
-Sanctioning paperwork
-
-Complete all of the data entry in the statsbook
-
-- Score totals
-- Penalty totals
-- JRDA: timeout and official reviews
-- Suspensions and expulsions
-
-**Make sure to review the statsbook manual closely**, as it includes detailed requirements for completing the IGRF. This guide is explicitly not comprehensive as to data points you need to enter. Always follow the statsbook manual.
+Complete all of the data entry in the IGRF. As at halftime, verify your scores and penalty counts with the scorekeepers and the penalty lineup trackers. **Make sure to follow the statsbook manual closely**, as it includes detailed requirements for completing the IGRF. This guide is explicitly not comprehensive as to data points you need to enter. Always follow the statsbook manual.
 
 Once your data entry is complete, get the signatures of the two captains (or adult coaches, in JRDA) and of your head referee. Sign the IGRF yourself.
 
-Download the stats from the scoreboard
+Collect and retain all of the paperwork. You'll need it for statsbook preparation.
+
+Make sure to download the stats from the scoreboard immediately and preserve them in a location other than the scoreboard computer, such as a thumb drive or cloud storage. Don't wait; technology breaks!
 
 #### Scores and Stats Submissions
 
-[JRDA](https://www.juniorrollerderby.org/scores-stats): Official Score, signed IGRF, and Expulsion Forms submitted online within 48 hours. Completed statsbook submitted online within 14 days.
+Scores and statsbooks must be submitted only for sanctioned games. For non-sanctioned play, your teams may or may not want a statsbook or a look at the raw data. In those cases, you can negotiate timelines and expectations with them.
 
-Adam Smasher's statsbook checker tool
+Carefully follow the submission instructions (and timelines!) for your association. It's worth a second or third look; mistakes will just get your statsbook sent back to you.
 
-WFTDA has [submission instructions](https://resources.wftda.org/competition/wftda-competition-and-rankings/#sanctioning)
+- [WFTDA](https://resources.wftda.org/competition/wftda-competition-and-rankings/#sanctioning) requires the score within 24 hours, the scanned IGRF, official review sheets, and expulsion forms within 48 hours, and the completed statsbook within 2 weeks.
+- [JRDA](https://www.juniorrollerderby.org/scores-stats) requires the official score, signed IGRF, and any expulsion forms submitted online within 48 hours. The completed statsbook must be submitted online within 14 days.
+- [MRDA](https://documents.mrda.org/) requires scores in 24 hours, the IGRF in 48 hours, and the statsbook in 2 weeks (or 4 weeks for 5+ game events). All submissions are in MRDA Central. See MRDA Policies and Procedures p. 29-30.
 
-MRDA scores in 24 hours via MRDA CEntral; IGRF 48 hours; statsbook 2 weeks or 4 weeks for 5+ game events. All in MRDA Cewntral. MRDA Policies and Procesures p. 29-30
+Preparing a statsbook can take anywhere from 15 minutes to several hours, depending on whether or not you used ePLT and the quality of the in-game data entry. Both the WFTDA and JRDA statsbooks come with instructions and detailed manuals for completing them; this guide defers to that official documentation.
+
+It is a good idea to run your statsbooks through [Adam Smasher's Statsbook Tool](https://github.com/AdamSmasherDerby/Statsbook-Tool), which identifies a huge set of common mistakes you can fix before submission. Using the Statsbook Tool is typically an iterative process. Run it once, fix some issues, run it again, find other issues. Repeat until you're satisfied with the situation.
+
+You'll often find, either during your data entry or via the Statsbook Tool, that there are discrepancies in the data. Did this skater go to the box in jam 16, jam 17, or between jams? Did both jammers really lose lead in Jam 22, even though only one went to the box?
+
+Some are clear mistakes that you can and should rectify. A skater can't go to the box in two different jams for the same penalty; one of the entries is wrong. You can often resolve these kinds of issues by correlating paperwork:
+
+- Your PBT sheets can help you interpret and correct PLT data, establishing when a skater actually sat in the box.
+- Marginal notes made by the scorekeepers can help straighten out odd-looking jam structures.
+- PLT data can clarify Lost Leads and confusing Star Pass lines.
+
+Some issues you can reason through, or attribute to common mistakes: this scorekeeper just forgot to mark No Initial. Others you might need to consult game footage to rectify, if it's available to you. In the end, you sometimes must accept that you can only pick the most likely of two interpretations. A small mistake that doesn't affect the outcome of the game is unlikely to get your statsbook rejected.
+
 
 #### Officiating Evals
 
-TODO
+Sharing formal and informal evaluations of officials' performance is an important part of the HNSO role, although it's not mandatory and practices differ widely. You generally have two options for this:
+
+1. A [formal evaluation submitted to WFTDA](https://resources.wftda.org/officiating/roller-derby-certification-program-for-officials/reviewing-others/). This option is available only if the official is WFTDA Certified or is opted-in with WFTDA to receive evaluations. WFTDA provides extensive guidance on how to write an evaluation, or an Overview of Officiating Skill, which is a longer-form review not scoped to a single event. Evaluations are shared with the official.
+1. Informal, but longer-form feedback. This is something I particularly like to offer in a tournament context, where I have the opportunity to see an official perform over multiple games and where they have an opportunity to grow from day to day. I generally give this feedback via email, and follow the themes discussed in [Observing, Evaluating, and Developing Officials](#observing-evaluating-and-developing-officials).
+
+For those officials who are part of the WFTDA certification program, evaluations have considerable value. If you yourself are part of the program, writing evaluations may be considered as part of your performance as a head official. It's an important way to get officials' excellence, gaps, and growth on record, for them and for any future certifications they seek.
+
+Informal feedback is your opportunity to be part of an official's growth. It's not easy, but it is rewarding. It's also part of your journey as a leader. Your skills, insight, self-awareness, and observation support your crew. Your open discussion of successes and growth opportunities builds psychological safety within your crew. It also opens a conversation that can lead to valuable feedback for _you_ as you develop as an officiating leader.
