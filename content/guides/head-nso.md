@@ -24,7 +24,7 @@ The Statsbooks are well-documented by association resources. Review in detail:
 - [WFTDA Statsbook Manual](https://static.wftda.com/stats/wftda-statsbook-manual.pdf) (MRDA uses the WFTDA statsbook).
 - [JRDA Statsbook Manual](https://www.juniorrollerderby.org/scores-stats)
 
-To complete the statsbook fully, you'll need:
+To prepare the statsbook fully, you'll need:
 
 1. Data about the event, such as location, time and date, and game number (if multi-game event).
 1. Rosters from both teams (see below under [Number Checks](#number-checks) for notes about charters).
@@ -50,7 +50,7 @@ I think of the NSO crew as three distinct clusters:
 1. The penalty box (PBM + PBT + PBT).
 1. The center (JT + PLT + PLT + optional PW + optional HNSO)
 
-I like to site one of my more experienced officials in each cluster to anchor that group. That is most often, but not necessarily, the HNSO in the center (with whatever second role they're working); the penalty box manager in the box; and the SBO at the score table.
+I like to site one of my more experienced officials in each cluster to anchor that group. That is most often, but not necessarily, the HNSO in the center (with whatever second role they're working); the penalty box manager in the box; and either the SBO or one of the SKs at the score table.
 
 Know your officials' needs and preferences. Whenever possible, I love to support officials' growth by letting them try a newer role, with backup from someone more experienced. Some folks prefer to focus on deep mastery of one or two roles. Some officials cannot stand for long periods of time. Some officials' personalities clash with one another (even if they're both lovely people). When you build a crew, you're solving a complex set of constraints. Do the best you can with what you have.
 
@@ -209,7 +209,7 @@ Before the game, ensure that skaters' numbers are checked against the roster on 
 
 There is both a pragmatic and a policy reason for performing number checks. Pragmatically, in all contexts, it's confusing and disruptive to discover during gameplay that a player's number doesn't match the roster, or that the player isn't on the roster at all. Catching this before first whistle lets you fix it.
 
-Sanctioning takes rosters very seriously. Skaters must be listed on the league's charter to participate in a sanctioned game. ([WFTDA Sanctioning Policy](https://static.wftda.com/sanctioning/wftda-sanctioning-policy.pdf), p. 9, [WFTDA Charter Roster Policy](https://static.wftda.com/sanctioning/wftda-charter-roster-policy.pdf); [JRDA Sanctioning Policy](https://www.juniorrollerderby.org/sanctioning-policy); [MRDA Policies and Procedures](https://documents.mrda.org/), p. 29).
+Sanctioning takes rosters very seriously. Skaters must be listed on the league's charter to participate in a sanctioned game. ([WFTDA Sanctioning Policy](https://static.wftda.com/sanctioning/wftda-sanctioning-policy.pdf), p. 9, [WFTDA Charter Roster Policy](https://static.wftda.com/sanctioning/wftda-charter-roster-policy.pdf); [JRDA Sanctioning Policy](https://www.juniorrollerderby.org/sanctioning-policy); [MRDA Policies and Procedures](https://documents.mrda.org/), p. 29). An ineligible skater participating in a sanctioned game could call the sanctioning into question.
 
 You can review the current charters for [WFTDA](https://drive.google.com/drive/folders/1CsUcoehaJLQiQD2bMI0n2YuVWYTOUJ9y?usp=share_link) and for [JRDA](https://www.juniorrollerderby.org/charters). TODO MRDA
 
