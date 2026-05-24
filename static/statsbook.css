@@ -140,7 +140,7 @@ table.plt-penalties td:nth-of-type(10) {
 
 /* Score */
 
-/* The five flags (LOST LEAD CALL INJ. N.I.) 
+/* The five flags (LOST LEAD CALL INJ. N.I.)
    Render the headers with vertical text.
    Make the columns slim and the same width.
 */
@@ -148,7 +148,12 @@ table.score th:nth-of-type(3),
 table.score th:nth-of-type(4),
 table.score th:nth-of-type(5),
 table.score th:nth-of-type(6),
-table.score th:nth-of-type(7) {
+table.score th:nth-of-type(7),
+table.score-full th:nth-of-type(14),
+table.score-full th:nth-of-type(15),
+table.score-full th:nth-of-type(16),
+table.score-full th:nth-of-type(17),
+table.score-full th:nth-of-type(18) {
     writing-mode: vertical-lr;
     width: 1em;
     max-width: 1em;
@@ -160,7 +165,12 @@ table.score td:nth-of-type(3),
 table.score td:nth-of-type(4),
 table.score td:nth-of-type(5),
 table.score td:nth-of-type(6),
-table.score td:nth-of-type(7) {
+table.score td:nth-of-type(7),
+table.score-full td:nth-of-type(14),
+table.score-full td:nth-of-type(15),
+table.score-full td:nth-of-type(16),
+table.score-full td:nth-of-type(17),
+table.score-full td:nth-of-type(18) {
     width: 1em;
     max-width: 1em;
     min-width: 1em;
@@ -202,6 +212,10 @@ table.score tr:nth-of-type(even) td:nth-of-type(7) {
 /* Darker background used on the Game Total column */
 
 table.score td:nth-last-of-type(1) {
+    background-color: var(--green) !important;
+}
+
+table.score-full td:nth-of-type(11) {
     background-color: var(--green) !important;
 }
 
