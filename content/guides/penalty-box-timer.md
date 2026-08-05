@@ -28,20 +28,19 @@ Due to the complexity of Jammer swaps, Penalty Box Timers will handle the paperw
 
 When a skater is sent to the box, typically it will be the *Penalty Box Manager* who directs them to a seat, although the Timers may do so if the Manager is otherwise occupied.  A maximum of two Blockers per team may be seated in the box at a given time, although in rare cases it is possible to have two seated and another standing as they finish their penalty, meaning you may need to time three people in parallel.
 
-A skater's penalty begins quite literally when their butt touches the seat, at which point the Penalty Box Timer should begin tracking the time.   All penalties are 30 seconds in roller derby, but the Penalty Box Timer pay attention to their partnered Penalty Lineup Tracker or Box Manager in the event multiple penalties have been assessed to as skater.
+A skater's penalty begins quite literally when their butt touches the seat, at which point the Penalty Box Timer must begin tracking the time.   All penalties in roller derby are 30 seconds, but the Penalty Box Timer should pay attention to their partnered Penalty Lineup Tracker or Box Manager in the event multiple penalties have been assessed to a skater.
 
 During the typical 30 seconds of a penalty, a Penalty Box Timer should try as best as they can to follow this order of operations:
 1) Start the penalty timer
-2) If the Jam ends before the penalty is complete, stop the penalty timer and restart it when the next Jam begins.
-3) Note the Period, Jam, Skater #, and Position (B for Blocker, P for Pivot or J for Jammer) on the Penalty paperwork for the team and period
-4) Add a tally mark or marks to the skater's penalty count based on the number of penalties they are serving.  One is typical, two is uncommon, more than that may be the beginning of a foul out or expulsion.
-5) When the skater has reached the last 10 seconds of their penalty, instruct them to stand with the cue "<team or color> <skater #> Stand" (i.e. "Black 123 Stand", "Brawler 45, Stand", etc)  in a loud, clear voice and accompanied by the "Stand" hand gesture.     This is a flat, open hand, fingers together and palm up, raising up from skater's shoulder height while seated to roughly their height in a standing position.    During the last 10 seconds the skater can stand and move around inside the Penalty Box as long as they do not leave early or block access to anyone coming in.
-6) At the end of the penalty, cue the skater with "<team or color> <skater #> DONE" and with the appropriate gesture.  In this case, hand up, elbow bent, and palm facing out at roughly chest height before making a "pushing" motion as you extend your arm away from you.  
+1) If the Jam ends before the penalty is complete, stop the penalty timer and restart it when the next Jam begins.
+1) Document the Period, Jam, Skater #, and Position (B for Blocker, P for Pivot or J for Jammer) on the Penalty paperwork for the team and period.
+1) Add a tally mark or marks to the skater's penalty count based on the number of penalties they are serving.  One is typical, two is uncommon, more than that may be the beginning of a foul out or expulsion.
+1) When the skater has reached the last 10 seconds of their penalty time, instruct them to stand with the cue "<team or color> <skater #> Stand" (i.e. "Black 123 Stand", "Brawler 45, Stand", etc)  in a loud, clear voice and accompanied by the "Stand" hand gesture.     This is a flat, open hand, fingers together and palm up, raising up from skater's shoulder height while seated to roughly their height in a standing position.    During the last 10 seconds the skater can stand and move around inside the Penalty Box as long as they do not leave early or block access to anyone coming in.
+1) At the end of the penalty, cue the skater with "<team or color> <skater #> DONE" and with the appropriate gesture.  In this case, hand up, elbow bent, and palm facing out at roughly chest height before making a "pushing" motion as you extend your arm away from you.  
 
 The highest priority for a Penalty Box Timer is to make sure penalties are timed correctly.  For most of the game, you will be tracking and counting penalties one or maybe two at a time.  If you are finding yourself overwhelmed, ask your teammates for help.  
 
 The next highest priority for a Penalty Box Timer is to know how many penalties each skater has served.   You will be asked to confirm counts when skaters reach 5, 6, or 7 penalties.  Keeping up to date on the paperwork is the easiest way to stay on the task.
-
 
 ### The Paperwork
 The StatsBook Manual linked under Resources above has practical examples of how the Penalty Box paperwork should look.   But from a practical standpoint, the following should be tracked for any *visit* to the penalty box in the jam where it happens, which may differ from the penalties tracked by the Penalty Lineup Trackers as they track when the penalty is *assessed*:
@@ -69,7 +68,14 @@ Occasionally a skater will reach 7 penalties for the game and Foul Out.   When t
 - The skater servers their full penalty during the Jam.  The Stand/Done cueing will be performed as normal, but the skater will not be allowed to return to play.  They will instead be asked to exit the Penalty Box and stand to the side, outside the flow of traffic, until the end of the current jam.   When the jam ends, the skater MUST leave the track as safely and quickly as they can and report to their locker room to gear down.  They may return as a spectator to watch the rest of the game, but they are no longer allowed on the bench or to coach for the team.
 - The jam is called off before the Fouled Out skater can serve their full penalty.   The Penalty Box Manager or Timer should call for an Official Time Out in order to facilitate a Substitution.   The Fouled Out skater cannot leave the Penalty Box until their replacement arrives, who will serve the remainder of the penalty time in the same position as the Fouled Out skater.   The substitute skater does not receive any additional penalties on their count, and will return to play as normal once the penalty time is served.   
 
-In the event it is a Team Captain who has Fouled Out, the Penalty Box Manager may also need to call on Official Time Out in order to have a new Team Captain chosen and communicated to the Penalty Box, Scoreboard, and Jam Timer to ensure Team Timeouts can still be requested.
+In the event it is a Team Captain who has Fouled Out, the team may elect to chose a replacement Team Captain for the remainder of the game. If communicating the change in Team Captain cannot be done during a Lineup period, it may be necessary to call on Official Time Out in order to ensure the officiating staff (particularly the Head Ref, Penalty Box, and Jam Timer) are aware of the change.
+
+### No Queueing For Fouled Out Skaters
+Section 4.5 of the rules states that penalties for Fouled Out or Expelled skaters should begin as soon as possible.  This section also provides a major exception to rules about putting skaters In Queue if the Penalty Box is already full.
+
+If a skater has reached their 7th penalty, but cannot serve it because there is no seat available for them in the Penalty Box, they are not be returned to play as would another skater.   Instead, the skater should be directed to stand next to the box with the same restrictions as if they had served their penalty, until a seat opens up for them.  
+
+If the Jam ends before the skater can be seated, the Fouled Out skater should still be substituted between Jams and removed from play, but their substitute CAN be placed in the Queue as normal for the start of the next Jam.
 
 ### Other Substitutions
 If a skater is injured or ill and needs to be substituted, the process is the same except that the skater can return to the bench and rejoin play after sitting out for 3 or more jams.  We may ask the skater to report to the Medics before the bench as a safety precaution.  
