@@ -38,7 +38,10 @@ During the typical 30 seconds of a penalty, a Penalty Box Timer should try as be
 5) When the skater has reached the last 10 seconds of their penalty, instruct them to stand with the cue "<team or color> <skater #> Stand" (i.e. "Black 123 Stand", "Brawler 45, Stand", etc)  in a loud, clear voice and accompanied by the "Stand" hand gesture.     This is a flat, open hand, fingers together and palm up, raising up from skater's shoulder height while seated to roughly their height in a standing position.    During the last 10 seconds the skater can stand and move around inside the Penalty Box as long as they do not leave early or block access to anyone coming in.
 6) At the end of the penalty, cue the skater with "<team or color> <skater #> DONE" and with the appropriate gesture.  In this case, hand up, elbow bent, and palm facing out at roughly chest height before making a "pushing" motion as you extend your arm away from you.  
 
-The highest priority for a Penalty Box Manager is to make sure penalties are timed correctly.  For most of the game, you will be tracking and counting penalties one or maybe two at a time.  If you are finding yourself overwhelmed, ask your teammates for help.  
+The highest priority for a Penalty Box Timer is to make sure penalties are timed correctly.  For most of the game, you will be tracking and counting penalties one or maybe two at a time.  If you are finding yourself overwhelmed, ask your teammates for help.  
+
+The next highest priority for a Penalty Box Timer is to know how many penalties each skater has served.   You will be asked to confirm counts when skaters reach 5, 6, or 7 penalties.  Keeping up to date on the paperwork is the easiest way to stay on the task.
+
 
 ### The Paperwork
 The StatsBook Manual linked under Resources above has practical examples of how the Penalty Box paperwork should look.   But from a practical standpoint, the following should be tracked for any *visit* to the penalty box in the jam where it happens, which may differ from the penalties tracked by the Penalty Lineup Trackers as they track when the penalty is *assessed*:
@@ -57,6 +60,8 @@ The example times here are based on a single penalty.  Naturally, you would adju
 
 There is also a column on the right side of the page that has an abbreviated roster of skaters for the team, with an empty box beneath each skater.   This is for tracking individual penalty counts so both the Penalty Box Timer/Manager and Penalty Lineup Trackers can confirm when a skater should Foul Out
 
+During Time Outs or Official Reviews, it is good practice to review your paperwork and confirm your penalty count for each skater matches the number of visits to the Penalty Box.  When possible, your partnered Penalty Lineup Tracker should check-in with you to confirm their count matches yours, although sometimes the timing simply won't work out until halftime or the end of the period.
+
 ## Foul Outs and Substitutions
 
 Occasionally a skater will reach 7 penalties for the game and Foul Out.   When this happens, the Penalty Box Officials will need to coordinate one of two events at the end of their penalty time:
@@ -68,3 +73,15 @@ In the event it is a Team Captain who has Fouled Out, the Penalty Box Manager ma
 
 ### Other Substitutions
 If a skater is injured or ill and needs to be substituted, the process is the same except that the skater can return to the bench and rejoin play after sitting out for 3 or more jams.  We may ask the skater to report to the Medics before the bench as a safety precaution.  
+
+## End of Period Procedures
+At the end of the first period, you will need to confirm individual skater penalty counts with your Penalty Lineup Tracker, and both will need to confirm the total penalties for the team to report to the Head NSO.
+
+The game paperwork requires an separate team penalty count per period.  When the Period 1 check-in is complete, you should transfer the individual skaters' penalty counts to your Period 2 paperwork.  There is no official standard for how this MUST be done, but most officials seem to fall into one of the following camps:
+- Copy the hashmark count over to the new page as a "<period 1 total>+" and start a new set of tally marks (i.e III for three hash marks becomes "3+" to start the count for Period 2).
+- Copy the tally marks over but in a distinct way, such as in red ink. 
+- Do nothing, continue the same tally marking on the same page for both periods.
+- Copy the tally marks over, but use a different style of tally marks in Period 2.  For instance, you may use the typical IIII and strike-through style hash marks for Period 1, and use a similar system but with dots for 1-4 and circle them for the 5th penalty for Period 2.
+
+From experience, the first two options here are the most common, and an easier to understand system is less likely to trip you up if the Penalty Box suddenly becomes very hectic.   But the best approach is to test and decide which works best for you.
+
