@@ -2,7 +2,7 @@
 template: guide.html
 title: Penalty Box Timer
 date: yyyy-08-Tu
-draft: true
+draft: false
 ---
 ## Introduction
 
