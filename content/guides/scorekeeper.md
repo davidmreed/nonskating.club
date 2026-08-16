@@ -11,7 +11,7 @@ extra:
 
 As with all officiating positions in roller derby, it’s important to be aware that Scorekeeping is a combination of *what the rules explicitly say*, *how the rules are interpreted by the community*, and *common practices that are not rule-driven*.
 
-Scorekeeping, in particular, is driven by the needs of the WFTDA Statsbook. Scorekeeping is a paperwork-intensive and highly routine-based role. While little decision-making or interpretation is needed by scorekeepers, they must remain attentive to events on the track at all times, and must rigorously and consistently follow data-entry guidelines to produce a correct record of the game.
+Scorekeeping, in particular, is driven by the needs of the WFTDA and JRDA Statsbooks. Scorekeeping is a paperwork-intensive and highly routine-based role. While little decision-making or interpretation is required of scorekeepers, they must remain attentive to events on the track at all times, and must rigorously and consistently follow data-entry guidelines to produce a correct record of the game.
 
 ## Resources
 
@@ -60,7 +60,7 @@ For example, a jam might go like this:
 
 The conversation doesn't have to go exactly like this. Nobody needs to use these exact phrases. The scorekeepers could confirm the total rather than the scoreboard operator. Someone might miss an event and hear it from a colleague.
 
-What's important in this example is that the two scorekeepers and the scoreboard operator are _talking constantly_. They make sure that everyone has the information they need to do their jobs. They acknowledge that a game environment is noisy and fast-moving by confirming what they hear. And they make sure to check their most important job - keeping the visible score accurate - constantly, so that problems are caught right away while the rules still permit a correction.
+What's important in this example is that the two scorekeepers and the scoreboard operator are _talking constantly_. They make sure that everyone has the information they need to do their jobs. They acknowledge that a game environment is noisy and fast-moving by confirming what they hear. And they make sure to check their most important job - keeping the visible score accurate - constantly, so that problems are caught right away while the rules still permit a correction. For more about corrections and their limits, see [Score Corrections](#score-corrections).
 
 Why call out these specific pieces of information?
 
@@ -68,55 +68,49 @@ Why call out these specific pieces of information?
 - The scorekeepers _both_ record star passes for _both_ teams. Since each scorekeeper is watching their own Jam Referee, they need to make sure their counterparts receive notice when a star pass occurs for the other team.
 - Redundancy - the two scorekeepers plus that data in the scoreboard - increases the likelihood that a correct game record can be achieved during statsbook data entry.
 
----
-
-Your Jam Referee will signal points to you starting when the jammer leaves the Engagement Zone (TODO reference). Many Jam Referees will continue to signal until the jammer enters the Engagement Zone for their next scoring trip. You should do the same. Remember that your signal may be seen by others throughout the venue, not just by your Jam Referee confirming that you've caught the points.
-
-You do not need to echo other signals, such as the Lead sign or No Pass-No Penalty. Some scorekeepers do, but it may provoke confusion.
-
-### Start-of-Game Check-ins
-
-Before the game, your assigned Jammer Referee should meet with you to show you their hand signals. Echo the signals back to them as they make them. Make sure to ask the Jammer Referee what signal they use for "No Initial Trip": there is no standard signal for this, and a number of different conventions are in wide use.
-
 ### End-of-Period and End-of-Game Responsibilities
 
 At the end of each period, the scorekeeper should perform a series of steps to validate their points and paperwork.
 
-1. The jam referees visit the score table to confirm the recording of the last jam's score. Points may be corrected only for the final jam. (TODO: cite)
-2. The scorekeeper totals all of the Trip columns to the bottom row, and verifies that the sum of the Trip columns is equal to the sum of the Jam Total column. If the game is over, also verify that this sum plus the carried-over Period 1 score is equal to the displayed final score.
-3. The scorekeeper calculates the Period 2 total to provide to the Head NSO for the IGRF.
+1. The jam referees visit the score table to confirm the recording of the last jam's score. Points may be corrected only for the final jam. ([Rules 3.5](https://rules.wftda.com/03_scoring.html#errors-in-scoring-score-reporting)).
+2. The scorekeeper completes all of the total verification steps specified in the [Statsbook Manual](https://static.wftda.com/stats/wftda-statsbook-manual.pdf), page 13. Note that some of the total elements are considered optional. The total columns are particularly helpful to the HNSO when statsbook data entry is done by hand, rather than via export from the scoreboard. In that situation, the total columns act as a check on data entry.
+3. The scorekeeper calculates the total score for the period to provide to the Head NSO for the IGRF.
 
-## Communication
+At the end of the game, the jam referees visit the scorekeepers to confirm final-jam points. This process is often misunderstood. It's not an opportunity for scorekeepers and referees to chat, or for referees to check math. The purpose of the check-in is to ensure that the final-jam points are recorded accurately, because this is the last opportunity to make corrections before the score is finalized. When you and your jam referee are satisfied, give an indication (such as a thumbs-up) to the jam timer, who is responsible for terminating the game with a rolling whistle when the score is final.
 
-### Jam Referee
+### Communicating with the Jam Referee
 
-There is no standard signal for "a star pass occurred". It is very common for referees and NSOs based in the center of the track to signal this by touching their hands and raising their hands repeatedly, sometimes with a plucking motion. This may indicate a star pass for _either_ team. You may echo this signal but don't need to.
+Before the game, your assigned Jammer Referee should meet with you to show you their hand signals. Echo the signals back to them as they make them. Make sure to ask the Jammer Referee what signal they use for "No Initial Trip": there is no standard signal for this, and a number of different conventions are in wide use.
+
+Your Jam Referee will signal points to you starting when the jammer leaves the front of Engagement Zone. That's because completing a scoring trip by leaving the front of the Engagement Zone is when the point total for that trip is finalized ([Rules 3.2](https://rules.wftda.com/03_scoring.html#scoring-trips)).
+
+Many Jam Referees will continue to signal until the jammer enters the Engagement Zone for their next scoring trip. You should do the same. Remember that your signal may be seen by others throughout the venue, not just by your Jam Referee: your paired signaling lets everyone on and off the track see what points were awarded, and that they were captured correctly. This is a pragmatic and effective convention. The details are not formally specified by any document. The [JRDA Officiating Procedures 6.2](https://drive.google.com/file/d/1nQym1DTsHeHvTFbodjsR-QmOOa_JlkRc/view) does require that scorekeepers confirm scoring signals but doens't specify how.
+
+You do not need to echo other signals, such as the Lead sign or No Pass-No Penalty. Some scorekeepers do, but it may provoke confusion.
+
+The scorekeeper and the jam referee are in constant communication.
+
+There is no standard signal for "a star pass occurred". It is very common for referees and NSOs based in the center of the track to signal this by touching their hands and raising their hands repeatedly, sometimes with a plucking motion. This may indicate a star pass for _either_ team. You may echo this signal but aren't required to.
 
 _Always_ make sure that your co-scorekeeper and scoreboard operator are aware of the star pass.
 
-Situations where an illegal or incomplete star pass occurs can be quite confusing. You should always watch and take your cues from your Jam Referee. TODO: elaborate
+Situations where an illegal or incomplete star pass occurs can be quite confusing. You should always watch and take your cues from your Jam Referee. They have the strongest position and context to parse out who's currently the jammer, whether or not they have the star in their possession. Assume that whomever the jam referee is pointing at is the jammer, until proven otherwise.
 
-End of period/game stuff
+If the communication between you and your Jam Referee breaks down, you need to act quickly at the end of the jam. Stand up, wave your arms, yell: get the attention of one or more referees. This might happen because your Jam Referee neglects to signal points to you, or because you missed the signal for a trip. Because the game impact of missed or incorrect points is so significant, because those errors are highly visible, and because the Rules limit the amount of time available to correct them, you are justified in taking whatever action is required to stop gameplay and bring your Jam Referee to the score table for a conference.
 
-The jam referee should signal you points after the jammer leaves the engagement zone to complete a scoring trip, or when the jam ends. [WFTDA Officiating Procedures 5.2](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf)
-
-> [The jam referees] must communicate this score after the Jammer completes each scoring trip
-
-If the communication between you and your Jam Referee breaks down, you need to act quickly at the end of the jam. Stand up, wave your arms, yell: get the attention of one or more referees.
-
-This might happen because your Jam Referee neglects to signal points to you, or because you missed the signal for a trip.
-
-Once you've got a hold of your Jam Referee, you have the 30-second lineup period to resolve your concern before the game flow is disrupted. Be concise and specific! If you need more time to get it right, the referees or the Jam Timer should call an Official Time Out. Because the time window to correct scores is so narrowly defined, and because score discrepancies have major and highly visible game impact, you should not hesitate to stop the game to resolve the issue.
+Once you've got a hold of your Jam Referee, you have the 30-second lineup period to resolve your concern before the game flow is disrupted. Be concise and specific! If you need more time to get it right, the referees or the Jam Timer should call an Official Time Out.
 
 Scorekeepers generally shouldn't second-guess their Jam Referees on point totals. The Jam Referee's position is much better for judging passes, and it is the Jam Referee's primary responsibility to count points. You have to interrupt game flow to talk to your Jam Referee if you have a concern, meaning there's some cost to your doing so. However, if you're _very sure_ that the Jam Referee made a mistake (such as losing points after a return from the penalty box), do not hesitate to call them over or call an Official Time Out to discuss the issue.
 
-### Scoreboard Operator and Other Scorekeeper
+### Validating Star Passes
 
-Confirming star pass count
+For reasons we'll discuss under [Star Passes](#star-passes), it's important for the scorekeepers and the penalty-lineup trackers to stay in sync with one another with respect to Star Passes. There's no standardized way to do this. It is common for scorekeepers to note "Jam _X_ starting on a _color_ line", referencing the alternating shades of the lines on the scorekeeping paperwork, or simply to confirm "_X_ Star Passes so far".
 
-### Penalty Lineup Tracker
+Penalty lineup trackers have other, more game-impactful checks to do during most portions of gameplay. When possible, some penalty lineup trackers will confirm star pass counts with you, either verbally or with a non-standard signal such as a number of fingers held against the head. If this doesn't happen, don't worry; it's not required and the impact of a mistake is post-game data entry.
 
-## Advanced Scorekeeping Paperwork
+If you find you've missed a Star Pass, don't erase and rewrite paperwork. Make a margin note. See [Corrections to Non-Points Paperwork](#corrections-to-non-points-paperwork).
+
+## Additions to the Scorekeeping Paperwork
 
 Many experienced scorekeepers go beyond what's specified in the Statsbook Manual. The conventions you adopt should always be _additive_, not _contrastive_: you can write down more information than the Statsbook Manual requires in the margins or un-marked areas of your paperwork, but do not make non-standard marks in standard spaces. This will produce confusion for your Head NSO when they complete the statsbook.
 
@@ -126,9 +120,11 @@ It may be useful to mark the margin of your paperwork with a symbol, such as a h
 
 Some scorekeepers use "Dot System". Dot System is a way to annotate your paperwork with more information about the progress of the jam, which can help you keep track of scoring trips. This guide deliberately does not cover Dot System. You can read about it [here](https://drive.google.com/drive/folders/1G5Yz5qqK1WVi68t2TwaOR6Jb0l8ei0D3). We neither encourage nor discourage the Dot System. We encourage reviewing it and experimenting to find what makes you most effective.
 
-### Understanding the Statsbook
+## Understanding the Statsbook
 
-#### Star Passes
+The scorekeeping paperwork can feel mysterious and rote without an understanding of _why_ it's structured the way it is.
+
+### Star Passes
 
 Like Penalty Lineup Trackers, Scorekeepers need to record the Star Passes of both teams. See the [Statsbook Manual](https://resources.wftda.org/competition/statsbook/) for details and scenarios.
 
@@ -157,7 +153,8 @@ SP 494 - - - - X - - 0 0 2 48 - - - - - - - 0 0
 
 In this situation, the data for Away Team's Jam 2 is conflated with the Home Team's Star Pass in Jam 1. Further jams will continue not to line up correctly, until the situation is corrected by the Head NSO or stats crew.
 
-If you do miss a Star Pass, it's not the end of the world. Make a margin note in your paperwork so that this is easily caught. It's generally not a good idea to try to erase and r
+If you do miss a Star Pass, it's not the end of the world. Make a margin note in your paperwork so that this is easily caught. It's generally not a good idea to try to erase and rewrite substantial data on the paperwork.
+
 Notating Star Passes is often confusing for newer scorekeepers. The key principles to remember are:
 
 1. The _meanings_ of all of the boxes on your paperwork stay the same.
@@ -194,12 +191,6 @@ Jammer 02 completed the first scoring trip _before_ they passed the star, so the
 
 The Statsbook Manual offers many examples of how to complete Star Pass paperwork correctly. Apply these two principles consistently and you'll be able to handle any in-game situation.
 
-
-
-### Notating Substitutions
-
-
-
 ### Closing Zero Trips
 
 Rules 3.2 (TODO) describes how points are grouped into Scoring Trips.
@@ -226,6 +217,11 @@ Some versions of the CRG Derby Scoreboard will automatically add trailing zeroes
 
 ### Lost Lead and No Initial
 
+## Overtime Jams
+
+## JRDA: Sudden Scoring and Injury Continuations
+
+JRDA play includes two rules, Sudden Scoring and Injury Continuations, that impact the scorekeeping paperwork. If you officiate JRDA play, make sure to carefully read the JRDA Statsbook Manual (TODO). Sudden Scoring largely follows the pattern of Overtime James, while Injury Continuations largely follow the pattern of Star Passes.
 
 ## Score Corrections
 
@@ -275,13 +271,16 @@ This situation might occur if your Jam Referee reported a 4-point trip, you and 
 
 If you're already past the allowed time window, **do not change your paperwork**. The Official Score stands, and your paperwork is in agreement with it.
 
+## Corrections to Non-Points Paperwork
+
+The Rules only dictate when you can change in relation to the Official Score. If you find you have a mistake in other elements of your paperwork, like failing to mark Lost Lead in the previous jam, you're free to correct it, even after the window for making score changes.
+
+If you have such an error to correct, remember that your paperwork doesn't stand alone in representing game data. You may need to communicate the issue to the other scorekeeper, the scoreboard operator, or even to the penalty-lineup trackers in the case of a missed Star Pass. Think carefully about whether the impact of your mistake justifies the effort and confusion of _fixing_ it, as opposed to _noting_ it for postgame correction.
+
 It's unusual for scorekeepers to lose track of the jam number, because their paperwork involves making an entry every single jam. If you do, however, check against the scoreboard to get back on track.
 
+## Short Staffing
 
-## Pragmatics and Training
+As with other NSO roles, the staffing standard of one scoreboard operator and two scorekeepers is not rules-mandated. The Rules require that enough NSOs be staffed to implement the Rules and provide the required Statsbook data.
 
-It's very common for scorekeepers to have limited experience in the position. Crews that are short on non-skating officials will press skaters or jam referees into scorekeeping duty. Many scorekeepers are trained primarily at practices and scrimmages, where the scoreboard may not be used and the full team of scoreboard operator and other scorekeeper are not available.
-
-In many cases, but certainly not all, the scoreboard operator is a more experienced non-skating official. (The scoreboard is not difficult to operate, but has many challenges and edge cases). If that's your situation, take advantage of their expertise. Draw on your other scorekeeper too, or lend them your expertise if they need it. However, always make sure to do your own job first.
-
-When the NSO crew is very limited, it's possible to go with a single scorekeeper and a scoreboard operator. In extreme circumstances, it's possible even to have the scoreboard operator catch points for both teams. While this situation _could_ meet the standards for a sanctioned game (which does not require a specific position count for NSOs), it's very risky and not recommended.
+In short-staffing situations, particularly in nonsanctioned play, the score table might be staffed with only one scorekeeper. The scoreboard operator then catches points for one team. In theory, it's even legal to staff only a single scoreboard operator and no scorekeepers. That sole official would then catch points for both teams and perform all scoreboard entry. As staffing shrinks, though, so does redundancy and the ability to communicate clearly with the jam referees. Short staffing significantly increases the odds of a mistake, and reduces the ability of the crew to fix that mistake.
