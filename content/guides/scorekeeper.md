@@ -81,6 +81,8 @@ Why call out these specific pieces of information?
 - The scorekeepers _both_ record star passes for _both_ teams. Since each scorekeeper is watching their own Jam Referee, they need to make sure their counterparts receive notice when a star pass occurs for the other team.
 - Redundancy - the two scorekeepers plus that data in the scoreboard - increases the likelihood that a correct game record can be achieved during statsbook data entry.
 
+Once the jam ends and the score table is confident in the current score, the cycle starts over again. The scorekeepers spot and call out the jammers and pivots, the scoreboard operator enters them, the whistle blows, and the game is on.
+
 ### End-of-Period and End-of-Game Responsibilities
 
 At the end of each period, the scorekeeper should perform a series of steps to validate their points and paperwork.
@@ -213,9 +215,9 @@ It's four. `CALL` and `INJ` are mutually exclusive. But you can mark all of the 
 - The jammer illegally but successfully `CALL`ed the jam.
 - The jammer, even though they got lead by passing the foremost blocker, never left the Engagement Zone (`NI`).
 
-You _cannot_ also mark the Trip 2 box with any value in this situation. The `NI` column and the Trip 2 column are mutually exclusive. But you could mark all four of the other flags, plus a value in Trip 2.
+You _cannot_ also mark the Trip 2 box with any value in this situation. The `NI` column and the Trip 2 column are mutually exclusive. But you could mark three of the other flags (`LEAD`, `LOST`, and either `CALL` or `INJ`), plus a value in Trip 2.
 
-This illustration points to an interesting subtlety. Some elements of the scorekeeping paperwork (`LEAD`, `CALL`, `INJ`) refer to specific, jam-wide events. Some (`NI`, the Trip 2 column and following columns) refer to trips within the jam. And one, `LOST`, can refer to any of several different jam-wide events that result in the outcomes of having and losing lead or losing the ability to become lead.
+This illustration points to an interesting subtlety. Some elements of the scorekeeping paperwork (`LEAD`, `CALL`, `INJ`) refer to specific, jam-wide events. Some (`NI`, the Trip 2 column and following columns) refer to trips within the jam. And one, `LOST`, can refer to any of several different jam-wide events that result in the outcomes of having and losing lead or losing the ability to become lead. These intricacies can be tough for newer scorekeepers. Getting comfortable with how the Rules define the _structure_ of a jam makes them more intuitive.
 
 The Statsbook Manual provides details about how to use the five flags, which all scorekeepers should read carefully alongside [Rules section 3, Scoring](https://rules.wftda.com/03_scoring.html).
 
